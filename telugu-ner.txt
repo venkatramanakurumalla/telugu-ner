@@ -1,0 +1,2037 @@
+	
+Name	Subtype
+హైదరాబాద్	CITY
+గోదావరి	RIVER
+విజయవాడ	CITY
+తెలంగాణ	STATE
+తిరుమల	TEMPLE
+హైదరాబాద్	CITY
+విజయవాడ	CITY
+విశాఖపట్నం	CITY
+తిరుపతి	CITY
+గుంటూరు	CITY
+నెల్లూరు	CITY
+కరీంనగర్	CITY
+వారంగల్	CITY
+ఖమ్మం	CITY
+రాజమండ్రి	CITY
+ఏలూరు	CITY
+అనంతపురం	CITY
+కడప	CITY
+చిత్తూరు	CITY
+కర్నూలు	CITY
+ఓంగోలు	CITY
+మచిలీపట్నం	CITY
+అదోని	TOWN
+భద్రాచలం	TOWN
+భీమవరం	TOWN
+ధర్మవరం	TOWN
+గూడూరు	TOWN
+హిందూపురం	TOWN
+జగ్గయ్యపేట	TOWN
+కామారెడ్డి	TOWN
+మహబూబ్నగర్	TOWN
+నిజామాబాద్	CITY
+పల్నాడు	TOWN
+సిద్ధిపేట	TOWN
+సూర్యాపేట	TOWN
+వానపర్తి	TOWN
+గోదావరి	RIVER
+కృష్ణ	RIVER
+తుంగభద్ర	RIVER
+పెన్న	RIVER
+చిత్రవూళ	RIVER
+పాపాఘ్ని	RIVER
+నాగావళి	RIVER
+వంశధార	RIVER
+మంజీరా	RIVER
+భీమ	RIVER
+ముసీ	RIVER
+కాళేశ్వరం	RIVER
+హైదరాబాద్ హుస్సేన్ సాగర్	LAKE
+ఓస్మాన్ సాగర్	LAKE
+హిమాయత్ సాగర్	LAKE
+పులిచింతల	LAKE
+కొల్లేరు	LAKE
+పకాల	LAKE
+నాగార్జున సాగర్	RESERVOIR
+శ్రీశైలం	RESERVOIR
+జూలుకల్లు	RESERVOIR
+ధోన్	RESERVOIR
+పోచంపాడ	RESERVOIR
+హైదరాబాద్	CITY
+విజయవాడ	
+విశాఖపట్నం	CITY
+గుంటూరు	CITY
+నెల్లూరు	CITY
+తిరుపతి	CITY
+కర్నూలు	CITY
+రాజమండ్రి	CITY
+కాకినాడ	CITY
+అనంతపురం	CITY
+చిత్తూరు	CITY
+మచిలీపట్నం	CITY
+ఒంగోలు	CITY
+తిరువూరు	CITY
+ప్రొద్దుతూరు	CITY
+గుడివాడ	CITY
+సత్తెనపల్లి	CITY
+నంద్యాల	CITY
+అదోని	CITY
+మార్షల్ పాలెం	CITY
+గోదావరి	RIVER
+కృష్ణా	RIVER
+పెన్నా	RIVER
+తుంగభద్ర	RIVER
+నాగావలి	RIVER
+పెన్నరు	RIVER
+వంశధార	RIVER
+చంపావతి	RIVER
+వేగావతి	RIVER
+సువర్ణముఖి	RIVER
+తిరుమల	TEMPLE
+శ్రీకాకుళం	TEMPLE
+సింహాచలం	TEMPLE
+అన్నమయ్య ఆలయం	TEMPLE
+వేంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కాళహస్తి ఆలయం	TEMPLE
+ద్రాక్షారామం	TEMPLE
+సామర్లకోట	TEMPLE
+అమరావతి బౌద్ధ స్తూపం	HISTORICAL_SITE
+నాగార్జున కొండ	HISTORICAL_SITE
+బాపట్ల కోట	HISTORICAL_SITE
+చంద్రగిరి కోట	HISTORICAL_SITE
+గోల్కొండ కోట	HISTORICAL_SITE
+ఉదయగిరి కోట	HISTORICAL_SITE
+మచిలీపట్నం ఫోర్ట్	HISTORICAL_SITE
+తిరుమల కొండలు	MOUNTAIN
+నల్లమల కొండలు	MOUNTAIN
+పాలకొండలు	MOUNTAIN
+అనంతగిరి కొండలు	MOUNTAIN
+వెల్లికందురు కొండలు	MOUNTAIN
+అరకు లోయ	HILL_STATION
+హర్షిల్	HILL_STATION
+పాపి కొండలు	FOREST
+నల్లమల అడవులు	FOREST
+కొరుకు అడవి	FOREST
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST
+పులికట్ సరస్సు	LAKE
+కొల్లేరు సరస్సు	LAKE
+ఉప్పలపల్లి సరస్సు	LAKE
+గుండ్లకమ్మ జలాశయం	LAKE
+పోలవరం జలాశయం	LAKE
+ధవళేశ్వరం జలాశయం	LAKE
+విజయనగరం	CITY
+పిఠాపురం	CITY
+ఏలూరు	CITY
+తణుకు	CITY
+మార్కాపురం	CITY
+పర్వతిపురం	CITY
+నరసరావుపేట	CITY
+బొబ్బిలి	CITY
+పాడేరు	CITY
+చిలకలూరిపేట	CITY
+మొహమ్మదాబాద్	CITY
+కొవ్వూరు	CITY
+అవనిగడ్డ	CITY
+పెదపాడు	CITY
+కోవూరు (నెల్లూరు)	CITY
+యానాం	CITY
+మాచెర్ల	CITY
+వెంకటాగిరి	CITY
+తాడేపల్లిగూడెం	CITY
+పామురు	CITY
+కలికిరి	CITY
+రాపూరు	CITY
+అమలాపురం	CITY
+కొత్తపేట	CITY
+చీడికాడ	CITY
+కొయ్యలగూడెం	CITY
+పెనుగంచిప్రోలు	CITY
+కోట్ల	CITY
+ముదినేపల్లి	CITY
+గోపాలపురం	CITY
+హిరణ్య కాశిపు పురం	CITY
+పెదబయలు	CITY
+అకివీడు	CITY
+బాపట్ల	CITY
+నరసరావుపేట	CITY
+కొల్లిపాలెం	CITY
+మాగువాడ	CITY
+ముదినేపల్లి	CITY
+కొండపాక	CITY
+దేవరకొండ	CITY
+నరసాపురం	CITY
+బాలాఘాట్	CITY
+కాట్రెగుంట	CITY
+బుచ్చయ్యపేట	CITY
+ములకలపల్లి	CITY
+చింతలపూడి	CITY
+మునగపాక	CITY
+పెనుమాక	CITY
+నారాయణపురం	CITY
+పెద్దపురం	CITY
+కొయిలకుంట్ల	CITY
+పులిపాడు	CITY
+బొమ్మలపాలెం	CITY
+పెద్దాపురం	CITY
+మువ్వలపల్లి	CITY
+మహబూబ్ నగర్	CITY
+అమరావతి	CITY
+అవనిగడ్డ	CITY
+తాళ్లపల్లి	CITY
+పెద్దపాడు	CITY
+కొయ్యలగూడెం	CITY
+పులివెందుల	CITY
+మాచవరం	CITY
+పెండ్లిమర్రి	CITY
+జంగారెడ్డిగూడెం	CITY
+వెంకటాచలం	CITY
+కురుపాం	CITY
+వియ్యాల	CITY
+పెదబయలు	CITY
+చిలకలూరిపేట	CITY
+ముదినేపల్లి	CITY
+పులికట్ సరస్సు	LAKE
+కొల్లేరు సరస్సు	LAKE
+ఉప్పలపల్లి సరస్సు	LAKE
+గుండ్లకమ్మ జలాశయం	LAKE
+పోలవరం జలాశయం	LAKE
+ధవళేశ్వరం జలాశయం	LAKE
+ప్రకాశం బ్యారేజి	LAKE
+తమసా జలాశయం	LAKE
+నాగార్జున సాగర్ జలాశయం (AP భాగం)	LAKE
+మాచేర్ల జలాశయం	LAKE
+సమనాపల్లి జలాశయం	LAKE
+హంపి కోట (AP-AP border, కొంత భాగం)	HISTORICAL_SITE
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE
+ఘంటసాల	HISTORICAL_SITE
+వేలూరు కోట	HISTORICAL_SITE
+ఎలూరు కోట	HISTORICAL_SITE
+కాకతీయ శిథిలాలు (AP లోని భాగాలు)	HISTORICAL_SITE
+పులికట్ గోపురం	HISTORICAL_SITE
+బాపట్ల సముద్ర తీర కోట	HISTORICAL_SITE
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE
+ఏలూరు రామలింగేశ్వర ఆలయం	TEMPLE
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE
+తిరుపతి గోవిందరాజ స్వామి ఆలయం	TEMPLE
+శ్రీకాకుళం సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+అనమయ్య ఆలయం (మాచవరం)	TEMPLE
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+నరసింహ క్షేత్రం (అమరావతి)	TEMPLE
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE
+మోచర్ల రామాలయం	TEMPLE
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కాట్రెగుంట శివాలయం	TEMPLE
+పెదబయలు రామాలయం	TEMPLE
+నల్లమల కొండలు	MOUNTAIN
+పాలకొండలు	MOUNTAIN
+అనంతగిరి కొండలు	MOUNTAIN
+వెల్లికందురు కొండలు	MOUNTAIN
+అరకు కొండలు	MOUNTAIN
+పాపి కొండలు	MOUNTAIN
+హిమవత్ గిరి	MOUNTAIN
+రాంపచోడ కొండలు	MOUNTAIN
+మామిడి కొండలు	MOUNTAIN
+బొమ్మలగుంట కొండలు	MOUNTAIN
+అరకు లోయ	HILL_STATION
+హర్షిల్	HILL_STATION
+లంబసాగరం	HILL_STATION
+మాధవిలోయ	HILL_STATION
+పాపి కొండలు	FOREST
+నల్లమల అడవులు	FOREST
+కొరుకు అడవి	FOREST
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST
+సుంకరాని అడవి	FOREST
+మేడిచెర్ల అడవి	FOREST
+కాట్రెగుంట అడవి	FOREST
+పక్షి సంరక్షణ కేంద్రం (కొల్లేరు)	FOREST
+మార్షల్ పాలెం	CITY
+కొయ్యలగూడెం	CITY
+పెనుమాక	CITY
+పులివెందుల	CITY
+వెంకటాచలం	CITY
+పెండ్లిమర్రి	CITY
+జంగారెడ్డిగూడెం	CITY
+కురుపాం	CITY
+వియ్యాల	CITY
+మాచవరం	CITY
+మువ్వలపల్లి	CITY
+మహబూబ్ నగర్	CITY
+అమరావతి	CITY
+తాళ్లపల్లి	CITY
+పెద్దపాడు	CITY
+నరసాపురం	CITY
+బుచ్చయ్యపేట	CITY
+ములకలపల్లి	CITY
+చింతలపూడి	CITY
+మునగపాక	CITY
+నారాయణపురం	CITY
+పెద్దపురం	CITY
+కొయిలకుంట్ల	CITY
+పులిపాడు	CITY
+బొమ్మలపాలెం	CITY
+మాచెర్ల	CITY
+వెంకటాగిరి	CITY
+తాడేపల్లిగూడెం	CITY
+పామురు	CITY
+కలికిరి	CITY
+రాపూరు	CITY
+అమలాపురం	CITY
+కొత్తపేట	CITY
+చీడికాడ	CITY
+పెనుగంచిప్రోలు	CITY
+కోట్ల	CITY
+ముదినేపల్లి	CITY
+గోపాలపురం	CITY
+హిరణ్య కాశిపు పురం	CITY
+అకివీడు	CITY
+బాపట్ల	CITY
+కొల్లిపాలెం	CITY
+మాగువాడ	CITY
+కొండపాక	CITY
+దేవరకొండ	CITY
+బాలాఘాట్	CITY
+కాట్రెగుంట	CITY
+పిల్లిగుంట	CITY
+కొయ్యలగూడెం	CITY
+పాలకొల్లు	CITY
+పెదవీరభద్రాపురం	CITY
+ముసునూరు	CITY
+మామిడికుదురు	CITY
+కొల్లిపాక	CITY
+పులివెందుల	CITY
+బొమ్మలగుంట	CITY
+కోటపాడు	CITY
+నాదెండ్ల	CITY
+ముదినేపల్లి	CITY
+రాయవోలు	CITY
+చిలకలూరిపేట	CITY
+పులికట్ సరస్సు	LAKE
+కొల్లేరు సరస్సు	LAKE
+ఉప్పలపల్లి సరస్సు	LAKE
+గుండ్లకమ్మ జలాశయం	LAKE
+పోలవరం జలాశయం	LAKE
+ధవళేశ్వరం జలాశయం	LAKE
+ప్రకాశం బ్యారేజి	LAKE
+తమసా జలాశయం	LAKE
+నాగార్జున సాగర్ జలాశయం (AP భాగం)	LAKE
+మాచేర్ల జలాశయం	LAKE
+సమనాపల్లి జలాశయం	LAKE
+కొట్టూరు జలాశయం	LAKE
+వెంకటాపురం జలాశయం	LAKE
+పాములపాడు జలాశయం	LAKE
+బాపట్ల జలాశయం	LAKE
+కృష్ణా నది	RIVER
+గోదావరి నది	RIVER
+పెన్నా నది	RIVER
+తుంగభద్ర నది	RIVER
+నాగావలి నది	RIVER
+పెన్నరు నది	RIVER
+వంశధార నది	RIVER
+చంపావతి నది	RIVER
+వేగావతి నది	RIVER
+సువర్ణముఖి నది	RIVER
+పాముల నది	RIVER
+ముసి నది	RIVER
+పాలేరు నది	RIVER
+నిజాం సాగర్ జలాశయం (AP భాగం)	LAKE
+బుద్ధ ఆశ్రమం (అమరావతి)	HISTORICAL_SITE
+నాగార్జున కొండ	HISTORICAL_SITE
+ఘంటసాల బౌద్ధ స్థలం	HISTORICAL_SITE
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE
+వేలూరు కోట	HISTORICAL_SITE
+ఎలూరు కోట	HISTORICAL_SITE
+పులికట్ గోపురం	HISTORICAL_SITE
+బాపట్ల సముద్ర తీర కోట	HISTORICAL_SITE
+కొండవీడు కోట	HISTORICAL_SITE
+చంద్రగిరి కోట	HISTORICAL_SITE
+ఉదయగిరి కోట	HISTORICAL_SITE
+మచిలీపట్నం ఫోర్ట్	HISTORICAL_SITE
+విజయనగరం రాజ ప్రాసాదం	HISTORICAL_SITE
+తిరుమల శ్రీ వేంకటేశ్వర ఆలయం	TEMPLE
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE
+ఏలూరు రామలింగేశ్వర ఆలయం	TEMPLE
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE
+తిరుపతి గోవిందరాజ స్వామి ఆలయం	TEMPLE
+శ్రీకాకుళం సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+అనమయ్య ఆలయం (మాచవరం)	TEMPLE
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+నరసింహ క్షేత్రం (అమరావతి)	TEMPLE
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE
+మోచర్ల రామాలయం	TEMPLE
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కాట్రెగుంట శివాలయం	TEMPLE
+పెదబయలు రామాలయం	TEMPLE
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE
+చీడికాడ శివాలయం	TEMPLE
+పాలకొల్లు సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+మాచెర్ల సోమేశ్వర స్వామి ఆలయం	TEMPLE
+విజయనగరం రామాలయం	TEMPLE
+నల్లమల కొండలు	MOUNTAIN
+పాలకొండలు	MOUNTAIN
+అనంతగిరి కొండలు	MOUNTAIN
+వెల్లికందురు కొండలు	MOUNTAIN
+అరకు కొండలు	MOUNTAIN
+పాపి కొండలు	MOUNTAIN
+హిమవత్ గిరి	MOUNTAIN
+రాంపచోడ కొండలు	MOUNTAIN
+మామిడి కొండలు	MOUNTAIN
+బొమ్మలగుంట కొండలు	MOUNTAIN
+నల్ల కొండ	MOUNTAIN
+బోర్ర కొండలు	MOUNTAIN
+తిరుమల కొండలు	MOUNTAIN
+అరకు లోయ	HILL_STATION
+హర్షిల్	HILL_STATION
+లంబసాగరం	HILL_STATION
+మాధవిలోయ	HILL_STATION
+అనంతగిరి హిల్స్	HILL_STATION
+పాపి కొండలు	FOREST
+నల్లమల అడవులు	FOREST
+కొరుకు అడవి	FOREST
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST
+సుంకరాని అడవి	FOREST
+మేడిచెర్ల అడవి	FOREST
+కాట్రెగుంట అడవి	FOREST
+పక్షి సంరక్షణ కేంద్రం (కొల్లేరు)	FOREST
+కృష్ణా జిల్లా ఉప్పు అడవులు	FOREST
+పశ్చిమ గోదావరి మాంగ్రోవ్ అడవులు	FOREST
+అనకాపల్లి	DISTRICT
+అనంతపురం	DISTRICT
+అల్లూరి సీతారామ రాజు	DISTRICT
+కొణసీమ	DISTRICT
+బాపట్ల	DISTRICT
+కడప	DISTRICT
+కాకినాడ	DISTRICT
+ఈస్ట్ గోదావరి	DISTRICT
+గుంటూరు	DISTRICT
+కృష్ణా	DISTRICT
+నెల్లూరు	DISTRICT
+పశ్చిమ గోదావరి	DISTRICT
+పల్నాడు	DISTRICT
+ప్రకాశం	DISTRICT
+శ్రీ పొట్టి శ్రీరాములు నెల్లూరు	DISTRICT
+శ్రీకాకుళం	DISTRICT
+తిరుపతి	DISTRICT
+విజయవాడ	DISTRICT
+విజయనగరం	DISTRICT
+విశాఖపట్నం	DISTRICT
+పార్వతీపురం మన్యం	DISTRICT
+నంద్యాల	DISTRICT
+అన్నమయ్య	DISTRICT
+ఎలూరు	DISTRICT
+కృష్ణా జిల్లా	DISTRICT
+గుంటూరు జిల్లా	DISTRICT
+ఆదిలాబాద్	DISTRICT
+మంచిర్యాల	DISTRICT
+నిర్మల్	DISTRICT
+కొమరం భీం అసిఫాబాద్	DISTRICT
+ఖమ్మం	DISTRICT
+మహబూబాబాద్	DISTRICT
+జయశంకర్ భూపాలపల్లి	DISTRICT
+వరంగల్ గ్రామీణ	DISTRICT
+వరంగల్ పట్టణ	DISTRICT
+హనుమకొండ	DISTRICT
+కరీంనగర్	DISTRICT
+పెద్దపల్లి	DISTRICT
+సంగారెడ్డి	DISTRICT
+మెదక్	DISTRICT
+సిద్ధిపేట	DISTRICT
+హైదరాబాద్	DISTRICT
+రంగారెడ్డి	DISTRICT
+మహబూబ్‌నగర్	DISTRICT
+నారాయణపేట	DISTRICT
+నల్గొండ	DISTRICT
+యాదాద్రి భువనగిరి	DISTRICT
+వికారాబాద్	DISTRICT
+ములుగు	DISTRICT
+మహబూబాబాద్	DISTRICT
+అమరావతి	CAPITAL
+విశాఖపట్నం	CAPITAL
+కర్నూలు	CAPITAL
+ఇటానగర్	CAPITAL
+దిస్పూర్	CAPITAL
+పాట్నా	CAPITAL
+రాయ్‌పూర్	CAPITAL
+పణజి	CAPITAL
+గాంధీనగర్	CAPITAL
+చండీగఢ్	CAPITAL
+శిమ్లా	CAPITAL
+ధర్మశాల	CAPITAL
+రాంచీ	CAPITAL
+బెంగళూరు	CAPITAL
+తిరువనంతపురం	CAPITAL
+భోపాల్	CAPITAL
+ముంబై	CAPITAL
+ఇంఫాల్	CAPITAL
+షిల్లాంగ్	CAPITAL
+ఐజావల్	CAPITAL
+కోహిమా	CAPITAL
+భువనేశ్వర్	CAPITAL
+జైపూర్	CAPITAL
+గంగ్‌టోక్	CAPITAL
+చెన్నై	CAPITAL
+హైదరాబాద్	CAPITAL
+అగర్తల	CAPITAL
+లక్నో	CAPITAL
+డెహ్రాడూన్	CAPITAL
+గైర్‌సైన్	CAPITAL
+కోల్‌కతా	CAPITAL
+పోర్ట్ బ్లెయర్	CAPITAL
+దమన్	CAPITAL
+న్యూ ఢిల్లీ	CAPITAL
+శ్రీనగర్	CAPITAL
+జమ్మూ	CAPITAL
+లెహ్	CAPITAL
+కార్గిల్	CAPITAL
+కవరత్తి	CAPITAL
+పుదుచ్చేరి	CAPITAL
+తాజ్ మహల్	PLACE
+ఖజురాహో దేవాలయాలు	PLACE
+అజంతా గుహలు	PLACE
+ఎల్లోరా గుహలు	PLACE
+కొండాపల్లి గుహలు	PLACE
+మహాబలిపురం	PLACE
+కొణార్క్ సూర్య దేవాలయం	PLACE
+హంపి	PLACE
+ఫతేపూర్ సిక్రీ	PLACE
+లాల్ కోట	PLACE
+ఖుదాబాద్ కోట	PLACE
+గోల్ కొండ కోట	PLACE
+మీనాక్షి అమ్మవారి దేవాలయం	PLACE
+విజయ స్తంభం (చిత్తోర్ గఢ్)	PLACE
+జంతర్ మంతర్ (జైపూర్)	PLACE
+సాంచి స్తూపం	PLACE
+విక్టోరియా మెమోరియల్	PLACE
+ఇండియా గేట్	PLACE
+రెడ్ ఫోర్ట్ (ఢిల్లీ)	PLACE
+రెడ్ ఫోర్ట్ (ఆగ్రా)	PLACE
+అమరావతి స్తూపం	PLACE
+సారనాథ్	PLACE
+నాలంద విశ్వవిద్యాలయం	PLACE
+విక్రమశిల విశ్వవిద్యాలయం	PLACE
+మాచు పిచుకు కోట (మధ్య ప్రదేశ్)	PLACE
+జైసల్మేర్ ఫోర్ట్	PLACE
+మేహరాంగఢ్ ఫోర్ట్	PLACE
+ఉదయ్ పుర్ ప్యాలెస్	PLACE
+మైసూర్ ప్యాలెస్	PLACE
+హావా మహల్	PLACE
+బులంద్ దర్వాజా	PLACE
+అజ్మీర్ షరీఫ్ దర్గా	PLACE
+వేలూరు కోట	PLACE
+చిత్రదుర్గ కోట	PLACE
+పాండిచ్చేరి ఫ్రెంచ్ క్వార్టర్	PLACE
+దార్జిలింగ్ హిమాలయన్ రైల్వే	PLACE
+కాంచిపురం దేవాలయాలు	PLACE
+బేలూర్ మఠం	PLACE
+శ్రీశైలం	PLACE
+వేములవాడ భీమేశ్వర ఆలయం	PLACE
+ఆంధ్ర భువనేశ్వరి ఆలయం	PLACE
+సిక్కింలోని గంగ్టోక్ మొనాస్టరీలు	PLACE
+అఫ్గానిస్తాన్	COUNTRY
+ఆల్బేనియా	COUNTRY
+అల్జీరియా	COUNTRY
+అండోరా	COUNTRY
+అంగోలా	COUNTRY
+ఆంటిగ్వా మరియు బర్బుడా	COUNTRY
+అర్జెంటీనా	COUNTRY
+అర్మేనియా	COUNTRY
+ఆస్ట్రేలియా	COUNTRY
+ఆస్ట్రియా	COUNTRY
+అజెర్బైజాన్	COUNTRY
+బహమాస్	COUNTRY
+బహ్రెయిన్	COUNTRY
+బంగ్లాదేశ్	COUNTRY
+బార్బడోస్	COUNTRY
+బెలారస్	COUNTRY
+బెల్జియం	COUNTRY
+బెలిజ్	COUNTRY
+బెనిన్	COUNTRY
+భూటాన్	COUNTRY
+బొలీవియా	COUNTRY
+బోస్నియా మరియు హెర్జెగోవినా	COUNTRY
+బొట్స్వానా	COUNTRY
+బ్రజీల్	COUNTRY
+బ్రూనేయి	COUNTRY
+బల్గేరియా	COUNTRY
+బుర్కినా ఫాసో	COUNTRY
+బురుండి	COUNTRY
+కెంబోడియా	COUNTRY
+కెమెరూన్	COUNTRY
+కెనడా	COUNTRY
+కేప్ వెర్డె	COUNTRY
+సెంట్రల్ అఫ్రికన్ రిపబ్లిక్	COUNTRY
+చాడ్	COUNTRY
+చిలీ	COUNTRY
+చైనా	COUNTRY
+కొలంబియా	COUNTRY
+కొమొరోస్	COUNTRY
+కాంగో - బ్రజావిల్లే	COUNTRY
+కాంగో - కిన్షాసా	COUNTRY
+కోస్టా రికా	COUNTRY
+క్రొయేషియా	COUNTRY
+క్యూబా	COUNTRY
+సైప్రస్	COUNTRY
+చెక్ రిపబ్లిక్	COUNTRY
+డెన్మార్క్	COUNTRY
+జిబౌటి	COUNTRY
+డొమినికా	COUNTRY
+డొమినికన్ రిపబ్లిక్	COUNTRY
+ఈక్వెడార్	COUNTRY
+ఈజిప్ట్	COUNTRY
+ఎల్ సాల్వడార్	COUNTRY
+ఈక్వటోరియల్ గినియా	COUNTRY
+ఎరిట్రియా	COUNTRY
+ఎస్టోనియా	COUNTRY
+ఇథియోపియా	COUNTRY
+ఫిజి	COUNTRY
+ఫిన్లాండ్	COUNTRY
+ఫ్రాన్స్	COUNTRY
+గాబాన్	COUNTRY
+గంబియా	COUNTRY
+జార్జియా	COUNTRY
+జర్మనీ	COUNTRY
+ఘనా	COUNTRY
+గ్రీస్	COUNTRY
+గ్రెనేడా	COUNTRY
+గ్వాటెమాలా	COUNTRY
+గినియా	COUNTRY
+గినియా-బిస్సావు	COUNTRY
+గయానా	COUNTRY
+హైతి	COUNTRY
+హోండూరస్	COUNTRY
+హంగేరీ	COUNTRY
+ఐస్లాండ్	COUNTRY
+భారతదేశం	COUNTRY
+ఇండోనేషియా	COUNTRY
+ఇరాన్	COUNTRY
+ఇరాక్	COUNTRY
+ఐర్లాండ్	COUNTRY
+ఇజ్రాయెల్	COUNTRY
+ఇటలీ	COUNTRY
+జమైకా	COUNTRY
+జపాన్	COUNTRY
+జోర్డాన్	COUNTRY
+కజక్స్తాన్	COUNTRY
+కెన్యా	COUNTRY
+కిరిబాతి	COUNTRY
+కొరియా దక్షిణ	COUNTRY
+కొరియా ఉత్తర	COUNTRY
+కువైట్	COUNTRY
+కిర్గిజ్స్తాన్	COUNTRY
+లావోస్	COUNTRY
+లాట్వియా	COUNTRY
+లెబనాన్	COUNTRY
+లెసోతో	COUNTRY
+లైబీరియా	COUNTRY
+లిబియా	COUNTRY
+లైచెన్స్టీన్	COUNTRY
+లిథువేనియా	COUNTRY
+లక్సెంబర్గ్	COUNTRY
+మాడగాస్కర్	COUNTRY
+మలావి	COUNTRY
+మలేషియా	COUNTRY
+మాల్దీవులు	COUNTRY
+మాలి	COUNTRY
+మాల్టా	COUNTRY
+మార్షల్ దీవులు	COUNTRY
+మౌరిటానియా	COUNTRY
+మారిషస్	COUNTRY
+మెక్సికో	COUNTRY
+మైక్రోనేషియా	COUNTRY
+మొల్దోవా	COUNTRY
+మొనాకో	COUNTRY
+మంగోలియా	COUNTRY
+మాంటెనెగ్రో	COUNTRY
+మొరాకో	COUNTRY
+మొజాంబిక్	COUNTRY
+మయన్మార్	COUNTRY
+నమీబియా	COUNTRY
+నౌరు	COUNTRY
+నేపాల్	COUNTRY
+నెదర్లాండ్స్	COUNTRY
+న్యూజిలాండ్	COUNTRY
+నికారాగువా	COUNTRY
+నైజర్	COUNTRY
+నైజీరియా	COUNTRY
+ఉత్తర మెసిడోనియా	COUNTRY
+నార్వే	COUNTRY
+ఒమన్	COUNTRY
+పాకిస్తాన్	COUNTRY
+పలావు	COUNTRY
+పనామా	COUNTRY
+పపువా న్యూ గినియా	COUNTRY
+పరాగ్వే	COUNTRY
+పెరూ	COUNTRY
+ఫిలిప్పీన్స్	COUNTRY
+పోలాండ్	COUNTRY
+పోర్చుగల్	COUNTRY
+కతార్	COUNTRY
+రొమేనియా	COUNTRY
+రష్యా	COUNTRY
+రువాండా	COUNTRY
+సెయింట్ కిట్స్ మరియు నెవిస్	COUNTRY
+సెయింట్ లూసియా	COUNTRY
+సెయింట్ విన్సెంట్ మరియు గ్రెనడీన్స్	COUNTRY
+సమోవా	COUNTRY
+సాన్ మారినో	COUNTRY
+సావో టోమే మరియు ప్రిన్సిపే	COUNTRY
+సౌదీ అరేబియా	COUNTRY
+సెనెగల్	COUNTRY
+సెర్బియా	COUNTRY
+సెయిషెల్స్	COUNTRY
+సియెర్రా లియోన్	COUNTRY
+సింగపూర్	COUNTRY
+స్లోవాకియా	COUNTRY
+స్లోవేనియా	COUNTRY
+సొలోమన్ దీవులు	COUNTRY
+సోమాలియా	COUNTRY
+దక్షిణ ఆఫ్రికా	COUNTRY
+దక్షిణ సుడాన్	COUNTRY
+స్పెయిన్	COUNTRY
+శ్రీలంక	COUNTRY
+సూడాన్	COUNTRY
+సూరినామ్	COUNTRY
+స్వీడన్	COUNTRY
+స్విట్జర్లాండ్	COUNTRY
+సిరియా	COUNTRY
+తజాకిస్తాన్	COUNTRY
+తాంజానియా	COUNTRY
+థాయిలాండ్	COUNTRY
+టిమోర్-లెస్టే	COUNTRY
+టోగో	COUNTRY
+టోంగా	COUNTRY
+ట్రినిడాడ్ మరియు టొబాగో	COUNTRY
+టునీషియా	COUNTRY
+టర్కీ	COUNTRY
+తుర్క్మెనిస్తాన్	COUNTRY
+తువాలు	COUNTRY
+యుగాండా	COUNTRY
+యుక్రెయిన్	COUNTRY
+యునైటెడ్ అరబ్ ఎమిరేట్స్	COUNTRY
+యునైటెడ్ కింగ్డమ్	COUNTRY
+యునైటెడ్ స్టేట్స్	COUNTRY
+ఉరుగ్వే	COUNTRY
+ఉజ్బెకిస్తాన్	COUNTRY
+వనువాటు	COUNTRY
+వాటికన్ సిటీ	COUNTRY
+వెనెజులా	COUNTRY
+వియత్నాం	COUNTRY
+యెమెన్	COUNTRY
+జాంబియా	COUNTRY
+జింబాబ్వే	COUNTRY
+తాజ్ మహల్	PLACE
+పిరమిడ్స్ ఆఫ్ గిజా	PLACE
+స్ఫింక్స్	PLACE
+మచు పిచు	PLACE
+పెట్రా	PLACE
+కొలోస్సియం	PLACE
+పాంథియాన్	PLACE
+ఎఫిల్ టవర్	PLACE
+స్టేచ్యూ ఆఫ్ లిబర్టీ	PLACE
+గ్రాండ్ కెన్యాన్	PLACE
+స్టోన్‌హెంజ్	PLACE
+అక్రోపోలిస్ ఆఫ్ ఏథెన్స్	PLACE
+పార్థినాన్	PLACE
+మెసోపొటమియా రువిన్స్ (ఉరుక్, బాబిలోన్)	PLACE
+పాంపేయి	PLACE
+హేగియా సోఫియా	PLACE
+టెంపుల్ ఆఫ్ హేఫెస్టస్	PLACE
+అంగ్ కోర్ వాట్	PLACE
+బొరోబుదూర్	PLACE
+సియాన్ టెరాకోట్ట సైనికులు	PLACE
+మొహెంజొదారో	PLACE
+హరప్పా	PLACE
+చిచెన్ ఇట్జా	PLACE
+టికల్	PLACE
+పాలెన్క్వే	PLACE
+మొంటె ఆల్బాన్	PLACE
+మాచు పిచు	PLACE
+ఈస్టర్ ఐలాండ్ మూర్తులు	PLACE
+టియావానాకు	PLACE
+పాంథియాన్ (రోమ్)	PLACE
+వెనిస్ గ్రాండ్ కెనాల్	PLACE
+సెయింట్ పీటర్స్ బసిలికా	PLACE
+వాల్ ఆఫ్ చైనా	PLACE
+ఫోర్బిడెన్ సిటీ	PLACE
+టెంపుల్ ఆఫ్ హీబ్రూ	PLACE
+జెరూసలెం ఓల్డ్ సిటీ	PLACE
+డమాస్కస్ ఓల్డ్ సిటీ	PLACE
+బాబ్ ఎల్ మందబ్	PLACE
+కైరో సిటీ ఆఫ్ ది డెడ్	PLACE
+సిగిరియా	PLACE
+బుద్ధ గయ	PLACE
+సాంచి స్తూపం	PLACE
+అజంతా గుహలు	PLACE
+ఎల్లోరా గుహలు	PLACE
+హంపి	PLACE
+ఫతేపూర్ సిక్రీ	PLACE
+రెడ్ ఫోర్ట్ (ఆగ్రా)	PLACE
+ఖజురాహో దేవాలయాలు	PLACE
+కొణార్క్ సూర్య దేవాలయం	PLACE
+కాబుల్	CITY
+తిరానా	CITY
+అల్జీర్స్	CITY
+అండోరా లా వెల్లా	CITY
+లువాండా	CITY
+సెయింట్ జాన్స్	CITY
+బుయినస్ అయిర్స్	CITY
+యెరెవాన్	CITY
+కాన్బెర్రా	CITY
+వియన్నా	CITY
+బాకు	CITY
+నస్సావు	CITY
+మనామా	CITY
+ఢాకా	CITY
+బ్రిడ్జ్ టౌన్	CITY
+మిన్స్క్	CITY
+బ్రస్సెల్స్	CITY
+బెల్మోపాన్	CITY
+పోర్టో నోవో	CITY
+థింపు	CITY
+లా పాజ్	CITY
+సారాజెవో	CITY
+గాబొరోన్	CITY
+బ్రసీలియా	CITY
+బందర్ సెరి బెగావాన్	CITY
+సోఫియా	CITY
+వాగాడుగౌ	CITY
+గిటెగా	CITY
+ఫ్నోం పెన్	CITY
+యామౌస్సుక్రో	CITY
+యామౌస్సుక్రో	CITY
+బంజుల్	CITY
+బంగ్యు	CITY
+ఒట్టావా	CITY
+ప్రయా	CITY
+బంగ్యు	CITY
+బంజుల్	CITY
+సాంటియాగో	CITY
+బీజింగ్	CITY
+బొగోటా	CITY
+మొరొని	CITY
+బ్రజావిల్లె	CITY
+కిన్షాసా	CITY
+సాన్ జోస్	CITY
+జగ్రెబ్	CITY
+హావానా	CITY
+నికోసియా	CITY
+ప్రాగ్	CITY
+కోపెన్ హేగెన్	CITY
+జిబౌటి	CITY
+రోజౌ	CITY
+సాంటో డొమింగో	CITY
+క్విటో	CITY
+కైరో	CITY
+సాన్ సల్వడోర్	CITY
+మలాబో	CITY
+అస్మారా	CITY
+తల్లిన్	CITY
+అద్దిస్ అబాబా	CITY
+సువా	CITY
+హెల్సింకి	CITY
+పారిస్	CITY
+లిబ్రివిల్లె	CITY
+బాంజుల్	CITY
+త్బిలిసి	CITY
+బెర్లిన్	CITY
+అక్రా	CITY
+ఏథెన్స్	CITY
+సెయింట్ జార్జ్స్	CITY
+గ్వాటెమాలా సిటీ	CITY
+కొనాక్రీ	CITY
+బిస్సావు	CITY
+జార్జి టౌన్	CITY
+పోర్ట్ అవ్ స్పెయిన్	CITY
+అస్మారా	CITY
+తల్లిన్	CITY
+అద్దిస్ అబాబా	CITY
+సువా	CITY
+హెల్సింకి	CITY
+పారిస్	CITY
+లిబ్రివిల్లె	CITY
+బాంజుల్	CITY
+త్బిలిసి	CITY
+బెర్లిన్	CITY
+అక్రా	CITY
+ఏథెన్స్	CITY
+సెయింట్ జార్జ్స్	CITY
+గ్వాటెమాలా సిటీ	CITY
+కొనాక్రీ	CITY
+బిస్సావు	CITY
+జార్జి టౌన్	CITY
+పోర్ట్ అవ్ స్పెయిన్	CITY
+పోర్ట్ అవ్ స్పెయిన్	CITY
+అథెన్స్	CITY
+బుదపెస్ట్	CITY
+రెయ్క్జావిక్	CITY
+న్యూ ఢిల్లీ	CITY
+జకార్తా	CITY
+తెహ్రాన్	CITY
+బాగ్దాద్	CITY
+డబ్లిన్	CITY
+జెరూసలెం	CITY
+రోమ్	CITY
+కింగ్స్టన్	CITY
+టోక్యో	CITY
+అమ్మాన్	CITY
+నూర్-సుల్తాన్	CITY
+నైరోబి	CITY
+సౌతారా	CITY
+ప్యోంగ్ యాంగ్	CITY
+సియోల్	CITY
+కువైట్ సిటీ	CITY
+బిష్కెక్	CITY
+వియెంటియాన్	CITY
+రిగా	CITY
+బైరూత్	CITY
+మసెరు	CITY
+మొన్రోవియా	CITY
+త్రిపోలి	CITY
+వాడుజ్	CITY
+విల్నియస్	CITY
+లక్సెంబర్గ్ సిటీ	CITY
+అంతననారివో	CITY
+లిలోంగ్వే	CITY
+కౌలాలంపూర్	CITY
+మాలే	CITY
+బమాకో	CITY
+వాలెట్టా	CITY
+మజూరో	CITY
+నౌక్చోత్	CITY
+పోర్ట్ లూయిస్	CITY
+మెక్సికో సిటీ	CITY
+పాలికిర్	CITY
+చిసినౌ	CITY
+మొనాకో	CITY
+ఉలాన్ బాటర్	CITY
+పోడ్ గొరిసా	CITY
+రబాత్	CITY
+మపుటో	CITY
+నేపియర్	CITY
+కాథ్మాండు	CITY
+అమ్స్టర్ డామ్	CITY
+వెల్లింగ్టన్	CITY
+మనాగువా	CITY
+నియామీ	CITY
+అబుజా	CITY
+స్కోప్జె	CITY
+ఓస్లో	CITY
+మస్కట్	CITY
+ఇస్లామాబాద్	CITY
+న్గెరుల్ముద్	CITY
+పనామా సిటీ	CITY
+పోర్ట్ మోర్స్బీ	CITY
+అసున్సియన్	CITY
+లీమా	CITY
+మనిలా	CITY
+వార్సా	CITY
+లిస్బన్	CITY
+దోహా	CITY
+బుచారెస్ట్	CITY
+మాస్కో	CITY
+కిగాలి	CITY
+బాస్టర్	CITY
+కాస్ట్రీస్	CITY
+కింగ్స్టన్	CITY
+అపియా	CITY
+సాన్ మారినో	CITY
+సావో టోమే	CITY
+రియాధ్	CITY
+డకార్	CITY
+బెల్ గ్రేడ్	CITY
+విక్టోరియా	CITY
+ఫ్రీటౌన్	CITY
+సింగపూర్	CITY
+బ్రాటిస్లావా	CITY
+ల్యుబ్ల్యానా	CITY
+హోనియారా	CITY
+మొగదిషు	CITY
+ప్రిటోరియా	CITY
+జుబా	CITY
+మాడ్రిడ్	CITY
+కొలంబో	CITY
+ఖార్తూమ్	CITY
+పరమారిబో	CITY
+స్టాక్ హోమ్	CITY
+బెర్న్	CITY
+డమాస్కస్	CITY
+దుషాంబె	CITY
+దోదోమా	CITY
+బాంకాక్	CITY
+దిలి	CITY
+లోమే	CITY
+నుకు అలోఫా	CITY
+పోర్ట్ ఆఫ్ స్పెయిన్	CITY
+త్యూనిస్	CITY
+అంకారా	CITY
+అష్గాబాత్	CITY
+ఫునాఫుతి	CITY
+కంపాలా	CITY
+కీవ్	CITY
+అబు ధాబీ	CITY
+లండన్	CITY
+వాషింగ్టన్, D.C.	CITY
+మాంటెవిడియో	CITY
+తష్కెంత్	CITY
+వాలెట్టా	CITY
+వాటికన్ సిటీ	CITY
+కరకాస్	CITY
+హనోయి	CITY
+సానా	CITY
+లుసాకా	CITY
+హరారే	CITY
+నైలు నది	RIVER
+అమెజాన్ నది	RIVER
+మిసిసిప్పి నది	RIVER
+యాంగ్ట్సీ నది	RIVER
+గంగా నది	RIVER
+మిసౌరి నది	RIVER
+యుఫ్రటీస్ నది	RIVER
+టైగ్రిస్ నది	RIVER
+డాన్యూబ్ నది	RIVER
+మెకాంగ్ నది	RIVER
+కాంగో నది	RIVER
+ఇందస్ నది	RIVER
+బ్రహ్మపుత్ర నది	RIVER
+ఓబ్ నది	RIVER
+ఇరావతి నది	RIVER
+యుకాన్ నది	RIVER
+రైన్ నది	RIVER
+సెయింట్ లారెన్స్ నది	RIVER
+జాంబెజి నది	RIVER
+గోదావరి నది	RIVER
+కృష్ణా నది	RIVER
+నర్మదా నది	RIVER
+కావేరి నది	RIVER
+మహానది నది	RIVER
+తపతి నది	RIVER
+సత్లజ్ నది	RIVER
+చెనాబ్ నది	RIVER
+జ్హెజియాంగ్ నది	RIVER
+అమూర్ నది	RIVER
+లెనా నది	RIVER
+కాస్పియన్ సముద్రం	LAKE
+సుపీరియర్ సరస్సు	LAKE
+విక్టోరియా సరస్సు	LAKE
+హురాన్ సరస్సు	LAKE
+మిచిగాన్ సరస్సు	LAKE
+టాంగానికా సరస్సు	LAKE
+బైకాల్ సరస్సు	LAKE
+గ్రేట్ స్లేవ్ సరస్సు	LAKE
+మలావి సరస్సు	LAKE
+ఓంటారియో సరస్సు	LAKE
+ఎరీ సరస్సు	LAKE
+పాట్రియార్క్ సరస్సు	LAKE
+మారాల్ సరస్సు	LAKE
+టిటికాక సరస్సు	LAKE
+జెనీవా సరస్సు	LAKE
+కొడార్ సరస్సు	LAKE
+లోమాన్డ్ సరస్సు	LAKE
+ప్లావో సరస్సు	LAKE
+అల్బర్ట్ సరస్సు	LAKE
+ఎడ్వర్డ్ సరస్సు	LAKE
+సింధు సరస్సు	LAKE
+డాల్ సరస్సు	LAKE
+వేమన సరస్సు	LAKE
+పులికట్ సరస్సు	LAKE
+చిల్కా సరస్సు	LAKE
+వేంబనాడ్ సరస్సు	LAKE
+లోనార్ సరస్సు	LAKE
+భీమా సరస్సు	LAKE
+హుస్సేన్ సాగర్	LAKE
+ఉమామహేశ్వరం సరస్సు	LAKE
+పసిఫిక్ మహాసముద్రం	OCEAN
+అట్లాంటిక్ మహాసముద్రం	OCEAN
+హిందూ మహాసముద్రం	OCEAN
+ఆర్క్టిక్ మహాసముద్రం	OCEAN
+దక్షిణ మహాసముద్రం	OCEAN
+అరేబియా సముద్రం	SEA
+బంగాళాఖాతం	SEA
+మెడిటరేనియన్ సముద్రం	SEA
+కాస్పియన్ సముద్రం	SEA
+కరీబియన్ సముద్రం	SEA
+దక్షిణ చైనా సముద్రం	SEA
+జపాన్ సముద్రం	SEA
+ఎర్ర సముద్రం	SEA
+ఉత్తర సముద్రం	SEA
+బాల్టిక్ సముద్రం	SEA
+అడ్రియాటిక్ సముద్రం	SEA
+ఐరిష్ సముద్రం	SEA
+నార్వేజియన్ సముద్రం	SEA
+బెరింగ్ సముద్రం	SEA
+ఓఖోట్స్క్ సముద్రం	SEA
+టస్కాన్ సముద్రం	SEA
+ఇయోనియన్ సముద్రం	SEA
+సాలింగ్ సముద్రం	SEA
+మకాసర్ సముద్రం	SEA
+సులు సముద్రం	SEA
+సెలెబెస్ సముద్రం	SEA
+ఆండమాన్ సముద్రం	SEA
+లాబ్రడార్ సముద్రం	SEA
+గుల్ఫ్ ఆఫ్ మెక్సికో	SEA
+గుల్ఫ్ ఆఫ్ కాలిఫోర్నియా	SEA
+గుల్ఫ్ ఆఫ్ అడెన్	SEA
+గుల్ఫ్ ఆఫ్ బెంగాల్	SEA
+పర్షియన్ గల్ఫ్	SEA
+ఎవరెస్ట్ పర్వతం	MOUNTAIN
+కె2 (గాడ్విన్ ఆస్టిన్)	MOUNTAIN
+కంచన్ జంగా	MOUNTAIN
+లోట్సే	MOUNTAIN
+మకాలు	MOUNTAIN
+చో ఓయు	MOUNTAIN
+ధౌలాగిరి	MOUNTAIN
+మనాస్లు	MOUNTAIN
+నంగా పర్బతం	MOUNTAIN
+అన్నపూర్ణ	MOUNTAIN
+హిమాలయ పర్వత శ్రేణి	MOUNTAIN
+కారకోరం పర్వత శ్రేణి	MOUNTAIN
+హిందూ కుష్ పర్వత శ్రేణి	MOUNTAIN
+ఆల్ప్స్ పర్వత శ్రేణి	MOUNTAIN
+ఆండిస్ పర్వత శ్రేణి	MOUNTAIN
+రాకీ పర్వత శ్రేణి	MOUNTAIN
+అప్పలేచియన్ పర్వత శ్రేణి	MOUNTAIN
+ఉరాల్ పర్వత శ్రేణి	MOUNTAIN
+కాకసస్ పర్వత శ్రేణి	MOUNTAIN
+డ్రాకెన్స్ బర్గ్ పర్వత శ్రేణి	MOUNTAIN
+అరావళి పర్వత శ్రేణి	MOUNTAIN
+వింధ్య పర్వత శ్రేణి	MOUNTAIN
+సాత్పురా పర్వత శ్రేణి	MOUNTAIN
+పశ్చిమ కనుమలు	MOUNTAIN
+తూర్పు కనుమలు	MOUNTAIN
+నీలగిరి పర్వతాలు	MOUNTAIN
+అనామలై పర్వతాలు	MOUNTAIN
+కాంబెర్ పర్వతం	MOUNTAIN
+మౌంట్ కిలిమంజారో	MOUNTAIN
+మౌంట్ కెనియా	MOUNTAIN
+మౌంట్ రైనియర్	MOUNTAIN
+మౌంట్ ఫ్యూజి	MOUNTAIN
+మౌంట్ ఎట్నా	MOUNTAIN
+మౌంట్ వెసువియస్	MOUNTAIN
+డెనాలి (మౌంట్ మెక్ కిన్లీ)	MOUNTAIN
+ఎల్బ్రస్ పర్వతం	MOUNTAIN
+మట్టర్ హార్న్	MOUNTAIN
+అమెజాన్ అడవి	FOREST
+కాంగో అడవి	FOREST
+డార్జిలింగ్ హిమాలయన్ అడవులు	FOREST
+సుందర్బన్స్ అడవి	FOREST
+బోర్నియో అడవులు	FOREST
+న్యూ గినియా అడవులు	FOREST
+వెస్ట్రన్ ఘట్స్ అడవులు	FOREST
+ఈస్ట్రన్ ఘట్స్ అడవులు	FOREST
+సిహిమాలయన్ అడవులు	FOREST
+అండమాన్ అడవులు	FOREST
+నీలగిరి అడవులు	FOREST
+కాజిరంగా అడవి	FOREST
+సరిస్కా అడవి	FOREST
+రాణ్తంబోర్ అడవి	FOREST
+గిర్ అడవి	FOREST
+కాన్హా అడవి	FOREST
+బాందిపుర్ అడవి	FOREST
+పెరియార్ అడవి	FOREST
+సిలెంట్ వ్యాలీ అడవి	FOREST
+దండేలి అడవి	FOREST
+పచ్చమరం అడవులు (మంగ్రోవ్ ఫారెస్ట్స్)	FOREST
+బ్లాక్ ఫారెస్ట్ (జర్మనీ)	FOREST
+బొరియల్ అడవులు (టైగా)	FOREST
+పాసిఫిక్ టెంపరేట్ రెయిన్ ఫారెస్ట్	FOREST
+మడగాస్కర్ అడవులు	FOREST
+కొలోరాడో ప్లాట్టెయిన్ అడవులు	FOREST
+తాజ్ మహల్	TEMPLE
+మీనాక్షి అమ్మవారి దేవాలయం	TEMPLE
+వెంకటేశ్వర స్వామి దేవాలయం (తిరుపతి)	TEMPLE
+అక్షరధామ్ దేవాలయం	TEMPLE
+బృహదీశ్వర దేవాలయం (తంజావూరు)	TEMPLE
+కొణార్క్ సూర్య దేవాలయం	TEMPLE
+ఖజురాహో దేవాలయాలు	TEMPLE
+సోమనాథ్ దేవాలయం	TEMPLE
+విశ్వనాథ దేవాలయం (వారణాసి)	TEMPLE
+జగన్నాథ దేవాలయం (పురీ)	TEMPLE
+రామేశ్వరం దేవాలయం	TEMPLE
+కాశీ విశ్వనాథ దేవాలయం	TEMPLE
+శ్రీ రంగనాథస్వామి దేవాలయం (శ్రీరంగం)	TEMPLE
+శివాలయం (పాటన్, నేపాల్)	TEMPLE
+పశుపతినాథ్ దేవాలయం	TEMPLE
+వేలూరు కాళహస్తి దేవాలయం	TEMPLE
+మల్లికార్జున దేవాలయం (శ్రీశైలం)	TEMPLE
+వేములవాడ భీమేశ్వర దేవాలయం	TEMPLE
+అమరావతి అమరేశ్వర దేవాలయం	TEMPLE
+బిమలేశ్వర దేవాలయం	TEMPLE
+దాక్షాయణి దేవాలయం (కొట్టారం)	TEMPLE
+హజార రామ దేవాలయం (హంపి)	TEMPLE
+విఠ్ఠల దేవాలయం (హంపి)	TEMPLE
+సిద్ధి వినాయక దేవాలయం (ముంబై)	TEMPLE
+శిరడీ సాయి బాబా మందిర్	TEMPLE
+గోల్డెన్ టెంపుల్ (అమృతసర్)	TEMPLE
+అజంతా గుహలు (బౌద్ధ చైత్యాలయాలు)	TEMPLE
+ఎల్లోరా గుహలు (కైలాసనాథ దేవాలయం)	TEMPLE
+సాంచి స్తూపం	TEMPLE
+మహాబోధి దేవాలయం (బుద్ధ గయ)	TEMPLE
+వాట్ ఫ్రా కీరీ (థాయిలాండ్)	TEMPLE
+అంగ్కోర్ వాట్ (కంబోడియా)	TEMPLE
+బోరోబుదూర్ (ఇండోనేషియా)	TEMPLE
+పగోడా ఆఫ్ షావోలిన్ టెంపుల్ (చైనా)	TEMPLE
+శ్వేదాగాన్ పగోడా (మయన్మార్)	TEMPLE
+ఇస్కాన్ దేవాలయాలు	TEMPLE
+జైన మందిరం (రాణాక్ పుర్)	TEMPLE
+షాంతినాథ జైన దేవాలయం (ఖజురాహో)	TEMPLE
+దిల్వారా జైన దేవాలయాలు (మౌంట్ అబు)	TEMPLE
+హర్మిందర్ సాహిబ్ (గోల్డెన్ టెంపుల్)	TEMPLE
+మక్కా మసీదు (అల్-హరామ్ మసీదు)	PLACE
+మదీనా మసీదు (అల్-నబవీ మసీదు)	PLACE
+అల్-అక్సా మసీదు	PLACE
+ఫతీమా మసీదు (ఢాకా)	PLACE
+జామా మసీదు (దిల్లీ)	PLACE
+జామా మసీదు (ఆగ్రా)	PLACE
+మీనార్ మసీదు (హైదరాబాద్)	PLACE
+చౌమహల్లా మసీదు (హైదరాబాద్)	PLACE
+హజ్రత్ బాల్ మసీదు (శ్రీనగర్)	PLACE
+మొహినుద్దీన్ మసీదు (అజ్మీర్)	PLACE
+బడ్షాహీ మసీదు (లాహోర్)	PLACE
+సుల్తాన్ అహ్మద్ మసీదు (బ్లూ మసీదు, ఇస్తాంబుల్)	PLACE
+షేక్ జాయెద్ మసీదు (అబుదాబి)	PLACE
+ఇమాం మసీదు (ఇస్ఫహాన్)	PLACE
+సెయింట్ పీటర్స్ బసిలికా (వాటికన్ సిటీ)	PLACE
+హాగియా సోఫియా (ఇస్తాంబుల్)	PLACE
+నోట్రే డేమ్ కెథడ్రల్ (పారిస్)	PLACE
+కోలోన్ కెథడ్రల్ (జర్మనీ)	PLACE
+వెస్ట్ మినిస్టర్ అబ్బే (లండన్)	PLACE
+సెయింట్ పాల్స్ కెథడ్రల్ (లండన్)	PLACE
+సెయింట్ బసిల్స్ కెథడ్రల్ (మాస్కో)	PLACE
+ఫ్లోరెన్స్ కెథడ్రల్ (ఇటలీ)	PLACE
+సాగ్రాడా ఫామిలియా (బార్సిలోనా)	PLACE
+చెన్నై సెయింట్ థామస్ చర్చి	PLACE
+వెల్లోర్ క్రైస్తవ చర్చి	PLACE
+ముంబై సెయింట్ థామస్ కెథడ్రల్	PLACE
+కొలకత్తా సెయింట్ పాల్స్ కెథడ్రల్	PLACE
+గోవా సెయింట్ కాథరీన్ కెథడ్రల్	PLACE
+అనకాపల్లి	DISTRICT
+అనకాపల్లి	MANDAL
+కొయ్యలగూడెం	MANDAL
+పెడన	MANDAL
+రామచంద్రపురం	MANDAL
+శాంతిపురం	MANDAL
+అత్తిలి	MANDAL
+ఉప్పలపాడు	MANDAL
+పెనుగంచిప్రోలు	MANDAL
+కోట్ల	MANDAL
+నల్లజర్ల	MANDAL
+దేవుపల్లి	MANDAL
+కె. ఆర్. పురం	MANDAL
+పెదబయలు	MANDAL
+ముదినేపల్లి	MANDAL
+పులివెందుల	MANDAL
+బొమ్మలపాలెం	MANDAL
+చీడికాడ	MANDAL
+పామురు	MANDAL
+అనంతపురం	DISTRICT
+అనంతపురం రూరల్	MANDAL
+అనంతపురం అర్బన్	MANDAL
+తాడిపత్రి	MANDAL
+పెద్దపాడు	MANDAL
+రామాపురం	MANDAL
+కొయిలకుంట్ల	MANDAL
+పులిపాడు	MANDAL
+బొమ్మలపాలెం	MANDAL
+పెద్దాపురం	MANDAL
+మువ్వలపల్లి	MANDAL
+హిరణ్య కాశిపు పురం	MANDAL
+పెదవీరభద్రాపురం	MANDAL
+ముసునూరు	MANDAL
+మామిడికుదురు	MANDAL
+కొల్లిపాక	MANDAL
+బొమ్మలగుంట	MANDAL
+కోటపాడు	MANDAL
+నాదెండ్ల	MANDAL
+ముదినేపల్లి	MANDAL
+రాయవోలు	MANDAL
+పిల్లిగుంట	MANDAL
+పాలకొల్లు	MANDAL
+మాచెర్ల	MANDAL
+వెంకటాగిరి	MANDAL
+తాడేపల్లిగూడెం	MANDAL
+పాములపాడు	MANDAL
+బోయినపల్లి	MANDAL
+కొయ్యలగూడెం	MANDAL
+పాలకొండ	MANDAL
+అనంతగిరి	MANDAL
+కొరుకు	MANDAL
+అల్లూరి సీతారామ రాజు	DISTRICT
+పాడేరు	MANDAL
+రాజావొమ్మంగి	MANDAL
+దేవిపట్నం	MANDAL
+ముమ్మిడివరం	MANDAL
+జగ్గంపేట	MANDAL
+కొయ్యలగూడెం	MANDAL
+రాంపురం	MANDAL
+అంబాజీపేట	MANDAL
+అర్రావుపేట	MANDAL
+చింతపల్లి	MANDAL
+ఎర్రాపల్లి	MANDAL
+ఉప్పల	MANDAL
+వెంకటాచలం	MANDAL
+చింతూరు	MANDAL
+గోకవరం	MANDAL
+కొట్టూరు	MANDAL
+మాడుగుల	MANDAL
+నారాయణపురం	MANDAL
+పెదబయలు	MANDAL
+పెద్దాపురం	MANDAL
+సంతకవిటి	MANDAL
+తుమ్మలపల్లి	MANDAL
+వియ్యాల	MANDAL
+అమలాపురం	DISTRICT
+అమలాపురం	MANDAL
+రాజవొమ్మంగి	MANDAL
+ముమ్మిడివరం	MANDAL
+పి.గన్నవరం	MANDAL
+అలంపూర్	MANDAL
+బొమ్మలగుంట	MANDAL
+చింతపల్లి	MANDAL
+ఎర్రాపల్లి	MANDAL
+ఉప్పల	MANDAL
+వెంకటాచలం	MANDAL
+రాంపురం	MANDAL
+అంబాజీపేట	MANDAL
+అర్రావుపేట	MANDAL
+చింతూరు	MANDAL
+గోకవరం	MANDAL
+కొట్టూరు	MANDAL
+మాడుగుల	MANDAL
+సంతకవిటి	MANDAL
+బాపట్ల	DISTRICT
+బాపట్ల	MANDAL
+కొత్తపేట	MANDAL
+నిజాంపట్నం	MANDAL
+వేమూరు	MANDAL
+నరసరావుపేట	MANDAL
+పిడుగురాళ్ల	MANDAL
+కరవాడ	MANDAL
+కొల్లిపాలెం	MANDAL
+మాచవరం	MANDAL
+వినుకొండ	MANDAL
+పార్వతీపురం	MANDAL
+పులిగడ్డ	MANDAL
+పెదనందిపాడు	MANDAL
+పులికట్	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+కొల్లిపాక	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+కడప	DISTRICT
+కడప	MANDAL
+పులివెందుల	MANDAL
+బద్వేలు	MANDAL
+రాజంపేట	MANDAL
+కమలాపురం	MANDAL
+చొక్కాల	MANDAL
+మదనపల్లె	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+మువ్వలపల్లి	MANDAL
+పులికట్	MANDAL
+తాడిపత్రి	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+బాపట్ల	MANDAL
+కొల్లిపాలెం	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+ములకలపల్లి	MANDAL
+చింతలపూడి	MANDAL
+మునగపాక	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+కాకినాడ	DISTRICT
+కాకినాడ	MANDAL
+పమిడి	MANDAL
+పెదపాడు	MANDAL
+రావులపాలెం	MANDAL
+జగ్గంపేట	MANDAL
+తుమ్మలపల్లి	MANDAL
+కొవ్వూరు	MANDAL
+కొల్లేరు	MANDAL
+ఆమలాపురం	MANDAL
+రాజానగరం	MANDAL
+పెదనందిపాడు	MANDAL
+నందిగామ	MANDAL
+ముసునూరు	MANDAL
+పెదకాకాని	MANDAL
+చిలకలూరిపేట	MANDAL
+సత్తెనపల్లి	MANDAL
+వినుకొండ	MANDAL
+నరసరావుపేట	MANDAL
+పిడుగురాళ్ల	MANDAL
+కరవాడ	MANDAL
+కృష్ణా జిల్లా	MANDAL
+ఈస్ట్ గోదావరి	DISTRICT
+రాజమండ్రి	MANDAL
+కొవ్వూరు	MANDAL
+అనపర్తి	MANDAL
+రావులపాలెం	MANDAL
+జగ్గంపేట	MANDAL
+తుమ్మలపల్లి	MANDAL
+కొల్లేరు	MANDAL
+ఆమలాపురం	MANDAL
+రాజానగరం	MANDAL
+పెదనందిపాడు	MANDAL
+నందిగామ	MANDAL
+ముసునూరు	MANDAL
+పమిడి	MANDAL
+పెదపాడు	MANDAL
+కోటనందిగామ	MANDAL
+రామచంద్రపురం	MANDAL
+శాంతిపురం	MANDAL
+అత్తిలి	MANDAL
+ఉప్పలపాడు	MANDAL
+పెనుగంచిప్రోలు	MANDAL
+కోట్ల	MANDAL
+నల్లజర్ల	MANDAL
+దేవుపల్లి	MANDAL
+కె. ఆర్. పురం	MANDAL
+పెదబయలు	MANDAL
+ముదినేపల్లి	MANDAL
+పులివెందుల	MANDAL
+గుంటూరు	DISTRICT
+గుంటూరు	MANDAL
+తెనాలి	MANDAL
+పెదకాకాని	MANDAL
+చిలకలూరిపేట	MANDAL
+సత్తెనపల్లి	MANDAL
+వినుకొండ	MANDAL
+నరసరావుపేట	MANDAL
+పిడుగురాళ్ల	MANDAL
+కరవాడ	MANDAL
+మాచవరం	MANDAL
+పార్వతీపురం	MANDAL
+పులిగడ్డ	MANDAL
+పెదనందిపాడు	MANDAL
+పులికట్	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+కృష్ణా	DISTRICT
+గుడివాడ	MANDAL
+మచిలీపట్నం	MANDAL
+పెదనందిపాడు	MANDAL
+నందిగామ	MANDAL
+ముసునూరు	MANDAL
+ఆమలాపురం	MANDAL
+రాజానగరం	MANDAL
+కొవ్వూరు	MANDAL
+కొల్లేరు	MANDAL
+పమిడి	MANDAL
+పెదపాడు	MANDAL
+రావులపాలెం	MANDAL
+జగ్గంపేట	MANDAL
+తుమ్మలపల్లి	MANDAL
+కోటనందిగామ	MANDAL
+మైనావరం	MANDAL
+పెనుగంచిప్రోలు	MANDAL
+కోట్ల	MANDAL
+నల్లజర్ల	MANDAL
+దేవుపల్లి	MANDAL
+కె. ఆర్. పురం	MANDAL
+పెదబయలు	MANDAL
+ముదినేపల్లి	MANDAL
+పులివెందుల	MANDAL
+బొమ్మలపాలెం	MANDAL
+నెల్లూరు	DISTRICT
+నెల్లూరు	MANDAL
+కావలి	MANDAL
+అత్తిలి	MANDAL
+సర్వేపల్లి	MANDAL
+కొడురు	MANDAL
+సీతానగరం	MANDAL
+పులికట్	MANDAL
+తాడిపత్రి	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+బాపట్ల	MANDAL
+కొల్లిపాలెం	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+ములకలపల్లి	MANDAL
+చింతలపూడి	MANDAL
+మునగపాక	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+కొయిలకుంట్ల	MANDAL
+పశ్చిమ గోదావరి	DISTRICT
+ఏలూరు	MANDAL
+పాలకొల్లు	MANDAL
+నరసాపురం	MANDAL
+భీమవరం	MANDAL
+తణుకు	MANDAL
+పెనుగొండ	MANDAL
+చింతలపూడి	MANDAL
+పెదవీరభద్రాపురం	MANDAL
+కొయ్యలగూడెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+కొల్లిపాక	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+పల్నాడు	DISTRICT
+చిలకలూరిపేట	MANDAL
+సత్తెనపల్లి	MANDAL
+వినుకొండ	MANDAL
+నరసరావుపేట	MANDAL
+పిడుగురాళ్ల	MANDAL
+కరవాడ	MANDAL
+మాచవరం	MANDAL
+పార్వతీపురం	MANDAL
+పులిగడ్డ	MANDAL
+పెదనందిపాడు	MANDAL
+పులికట్	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+బాపట్ల	MANDAL
+కొల్లిపాలెం	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+ప్రకాశం	DISTRICT
+ఒంగోలు	MANDAL
+కందుకూరు	MANDAL
+మార్కాపురం	MANDAL
+కొండపి	MANDAL
+పెర్లి	MANDAL
+యర్రగొండపాలెం	MANDAL
+తాళ్లపల్లి	MANDAL
+పులివర్రు	MANDAL
+సంతనూతలపాడు	MANDAL
+పెదబయలు	MANDAL
+పులివెందుల	MANDAL
+బొమ్మలపాలెం	MANDAL
+చీడికాడ	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+కొల్లిపాక	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+ములకలపల్లి	MANDAL
+చింతలపూడి	MANDAL
+మునగపాక	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+కొయిలకుంట్ల	MANDAL
+పులికట్	MANDAL
+తాడిపత్రి	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+బాపట్ల	MANDAL
+కొల్లిపాలెం	MANDAL
+శ్రీకాకుళం	DISTRICT
+శ్రీకాకుళం	MANDAL
+పాలాస	MANDAL
+సత్యవాడ	MANDAL
+కోటబొమ్మాలి	MANDAL
+హిరండల	MANDAL
+పురుషోత్తపురం	MANDAL
+పుట్టిపల్లి	MANDAL
+మెలియాపుత్తి	MANDAL
+అముదాలవలస	MANDAL
+నారాయణపురం	MANDAL
+గోపాలపురం	MANDAL
+లావెడి	MANDAL
+బొమ్మారం	MANDAL
+ఎటపాక	MANDAL
+మారికవలస	MANDAL
+కొణిసర్ల	MANDAL
+జలుమూరు	MANDAL
+పెదభట్లపల్లి	MANDAL
+చింతామనేని పల్లి	MANDAL
+నందిగామ	MANDAL
+రాజాం	MANDAL
+సరుపాలెం	MANDAL
+కొమరగిరి	MANDAL
+పెదపాడు	MANDAL
+కొత్తపల్లి	MANDAL
+రాజుపాలెం	MANDAL
+ఉమ్మాల	MANDAL
+పెదశిరిడిపి	MANDAL
+చింతపల్లి	MANDAL
+కోట	MANDAL
+తిరుపతి	DISTRICT
+తిరుపతి	MANDAL
+రేపల్లి	MANDAL
+కురబలకోట	MANDAL
+వాల్మీకినగరం	MANDAL
+పుత్తూరు	MANDAL
+పుంగనూరు	MANDAL
+పాలమనేరు	MANDAL
+చంద్రగిరి	MANDAL
+పెనుమాకుల	MANDAL
+కొవ్వూరు	MANDAL
+పులివెందుల	MANDAL
+బొమ్మలపాలెం	MANDAL
+చీడికాడ	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+కొల్లిపాక	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+ములకలపల్లి	MANDAL
+చింతలపూడి	MANDAL
+మునగపాక	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+కొయిలకుంట్ల	MANDAL
+పులికట్	MANDAL
+తాడిపత్రి	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+విజయవాడ	DISTRICT
+విజయవాడ అర్బన్	MANDAL
+విజయవాడ రూరల్	MANDAL
+గుడివాడ	MANDAL
+మచిలీపట్నం	MANDAL
+పెదనందిపాడు	MANDAL
+నందిగామ	MANDAL
+ముసునూరు	MANDAL
+ఆమలాపురం	MANDAL
+రాజానగరం	MANDAL
+కొవ్వూరు	MANDAL
+కొల్లేరు	MANDAL
+పమిడి	MANDAL
+పెదపాడు	MANDAL
+రావులపాలెం	MANDAL
+జగ్గంపేట	MANDAL
+తుమ్మలపల్లి	MANDAL
+కోటనందిగామ	MANDAL
+మైనావరం	MANDAL
+పెనుగంచిప్రోలు	MANDAL
+కోట్ల	MANDAL
+విజయనగరం	DISTRICT
+విజయనగరం	MANDAL
+బొబ్బిలి	MANDAL
+చింతపల్లి	MANDAL
+రామభద్రపురం	MANDAL
+పోచమ్మపాలెం	MANDAL
+గంజం	MANDAL
+సాలూరు	MANDAL
+కోట	MANDAL
+జమ్మలమడుగు	MANDAL
+పాడేరు	MANDAL
+రాజావొమ్మంగి	MANDAL
+దేవిపట్నం	MANDAL
+ముమ్మిడివరం	MANDAL
+జగ్గంపేట	MANDAL
+కొయ్యలగూడెం	MANDAL
+రాంపురం	MANDAL
+అంబాజీపేట	MANDAL
+అర్రావుపేట	MANDAL
+ఎర్రాపల్లి	MANDAL
+ఉప్పల	MANDAL
+వెంకటాచలం	MANDAL
+చింతూరు	MANDAL
+గోకవరం	MANDAL
+కొట్టూరు	MANDAL
+మాడుగుల	MANDAL
+నారాయణపురం	MANDAL
+పెదబయలు	MANDAL
+విశాఖపట్నం	DISTRICT
+విశాఖపట్నం అర్బన్	MANDAL
+విశాఖపట్నం రూరల్	MANDAL
+పాడేరు	MANDAL
+రాజావొమ్మంగి	MANDAL
+దేవిపట్నం	MANDAL
+ముమ్మిడివరం	MANDAL
+జగ్గంపేట	MANDAL
+కొయ్యలగూడెం	MANDAL
+రాంపురం	MANDAL
+అంబాజీపేట	MANDAL
+అర్రావుపేట	MANDAL
+చింతపల్లి	MANDAL
+ఎర్రాపల్లి	MANDAL
+ఉప్పల	MANDAL
+వెంకటాచలం	MANDAL
+చింతూరు	MANDAL
+గోకవరం	MANDAL
+కొట్టూరు	MANDAL
+మాడుగుల	MANDAL
+నారాయణపురం	MANDAL
+పెదబయలు	MANDAL
+పెద్దాపురం	MANDAL
+సంతకవిటి	MANDAL
+తుమ్మలపల్లి	MANDAL
+వియ్యాల	MANDAL
+కొరుకు	MANDAL
+అనంతగిరి	MANDAL
+పార్వతీపురం మన్యం	DISTRICT
+పార్వతీపురం	MANDAL
+సాలూరు	MANDAL
+కోట	MANDAL
+జమ్మలమడుగు	MANDAL
+బొబ్బిలి	MANDAL
+చింతపల్లి	MANDAL
+రామభద్రపురం	MANDAL
+పోచమ్మపాలెం	MANDAL
+గంజం	MANDAL
+పాడేరు	MANDAL
+రాజావొమ్మంగి	MANDAL
+దేవిపట్నం	MANDAL
+ముమ్మిడివరం	MANDAL
+జగ్గంపేట	MANDAL
+కొయ్యలగూడెం	MANDAL
+రాంపురం	MANDAL
+అంబాజీపేట	MANDAL
+అర్రావుపేట	MANDAL
+నంద్యాల	DISTRICT
+నంద్యాల	MANDAL
+అల్లగడ్డ	MANDAL
+బనగానపల్లె	MANDAL
+బొమ్మలగుంట	MANDAL
+చింతకమల	MANDAL
+చుంచుల	MANDAL
+దొన్నికోట	MANDAL
+గోపవరం	MANDAL
+కమలాపురం	MANDAL
+కొండమల్లి	MANDAL
+కొట్టూరు	MANDAL
+మార్లపల్లి	MANDAL
+ముదుముల	MANDAL
+నందికోట్ల	MANDAL
+ఓబులవారిపల్లి	MANDAL
+పులివెందుల	MANDAL
+పుల్లంపేట	MANDAL
+రామచంద్రపురం	MANDAL
+సంగం	MANDAL
+సాయి కల	MANDAL
+సిరివెల	MANDAL
+తాడిపత్రి	MANDAL
+తోగుటి	MANDAL
+వేలాయల	MANDAL
+వెలుగోడు	MANDAL
+యాలమంచిలి	MANDAL
+యెమిగనూరు	MANDAL
+యెర్రగొండపాలెం	MANDAL
+జువ్విగుంట	MANDAL
+అన్నమయ్య	DISTRICT
+రాజంపేట	MANDAL
+కమలాపురం	MANDAL
+చొక్కాల	MANDAL
+మదనపల్లె	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+మువ్వలపల్లి	MANDAL
+పులికట్	MANDAL
+తాడిపత్రి	MANDAL
+మార్షల్ పాలెం	MANDAL
+పామురు	MANDAL
+కలికిరి	MANDAL
+రాపూరు	MANDAL
+అకివీడు	MANDAL
+కొల్లిపాక	MANDAL
+మాగువాడ	MANDAL
+కొండపాక	MANDAL
+దేవరకొండ	MANDAL
+నరసాపురం	MANDAL
+కాట్రెగుంట	MANDAL
+బుచ్చయ్యపేట	MANDAL
+ములకలపల్లి	MANDAL
+చింతలపూడి	MANDAL
+మునగపాక	MANDAL
+పెనుమాక	MANDAL
+నారాయణపురం	MANDAL
+కొయిలకుంట్ల	MANDAL
+సిద్ధవటం	MANDAL
+ఎలూరు	DISTRICT
+ఎలూరు	MANDAL
+పాలకొల్లు	MANDAL
+నరసాపురం	MANDAL
+భీమవరం	MANDAL
+తణుకు	MANDAL
+పెనుగొండ	MANDAL
+చింతలపూడి	MANDAL
+పెదవీరభద్రాపురం	MANDAL
+కొయ్యలగూడెం	MANDAL
+పొలవరం	MANDAL
+ఉయ్యూరు	MANDAL
+కొమ్మవరం	MANDAL
+కొణిదెన	MANDAL
+కొయ్యలగూడెం	MANDAL
+ముంచింగిపుత్తి	MANDAL
+నిడమాడు	MANDAL
+పెదపాడు	MANDAL
+పోలవరం	MANDAL
+రావులపాలెం	MANDAL
+సంప్రాల	MANDAL
+తాడేపల్లిగూడెం	MANDAL
+తెన్నేరు	MANDAL
+వెంకటాచలం	MANDAL
+వేలంచెర్ల	MANDAL
+యెర్రామల్లి	MANDAL
+జంగారెడ్డిగూడెం	MANDAL
+కాకినాడ	MANDAL
+ఆమలాపురం	MANDAL
+మోచర్ల	VILLAGE
+అలంపూర్	VILLAGE
+నాగార్జున కొండ	VILLAGE
+ఘంటసాల	VILLAGE
+బొల్లాపురం	VILLAGE
+వేదాద్రి	VILLAGE
+అవనిగడ్డ	VILLAGE
+పులికట్	VILLAGE
+మాచవరం	VILLAGE
+పులివెందుల	VILLAGE
+బొమ్మలపాలెం	VILLAGE
+చీడికాడ	VILLAGE
+పామురు	VILLAGE
+కలికిరి	VILLAGE
+రాపూరు	VILLAGE
+అకివీడు	VILLAGE
+బాపట్ల	VILLAGE
+కొల్లిపాలెం	VILLAGE
+మాగువాడ	VILLAGE
+కొండపాక	VILLAGE
+దేవరకొండ	VILLAGE
+నరసాపురం	VILLAGE
+కాట్రెగుంట	VILLAGE
+బుచ్చయ్యపేట	VILLAGE
+ములకలపల్లి	VILLAGE
+చింతలపూడి	VILLAGE
+మునగపాక	VILLAGE
+పెనుమాక	VILLAGE
+నారాయణపురం	VILLAGE
+కొయిలకుంట్ల	VILLAGE
+పులిపాడు	VILLAGE
+పెద్దాపురం	VILLAGE
+మువ్వలపల్లి	VILLAGE
+హిరణ్య కాశిపు పురం	VILLAGE
+పెదవీరభద్రాపురం	VILLAGE
+ముసునూరు	VILLAGE
+మామిడికుదురు	VILLAGE
+కొల్లిపాక	VILLAGE
+బొమ్మలగుంట	VILLAGE
+కోటపాడు	VILLAGE
+నాదెండ్ల	VILLAGE
+రాయవోలు	VILLAGE
+పిల్లిగుంట	VILLAGE
+పాలకొల్లు	VILLAGE
+మాచెర్ల	VILLAGE
+వెంకటాగిరి	VILLAGE
+తాడేపల్లిగూడెం	VILLAGE
+జంగారెడ్డిగూడెం	VILLAGE
+వెంకటాచలం	VILLAGE
+కురుపాం	VILLAGE
+వియ్యాల	VILLAGE
+పెండ్లిమర్రి	VILLAGE
+మార్షల్ పాలెం	VILLAGE
+పెనుగంచిప్రోలు	VILLAGE
+కోట్ల	VILLAGE
+గోపాలపురం	VILLAGE
+పాములపాడు	VILLAGE
+బోయినపల్లి	VILLAGE
+పాలకొండ	VILLAGE
+అనంతగిరి	VILLAGE
+కొరుకు	VILLAGE
+సుంకరాని	VILLAGE
+మేడిచెర్ల	VILLAGE
+పాపి కొండలు	VILLAGE
+నల్లమల	VILLAGE
+అరకు	VILLAGE
+లంబసాగరం	VILLAGE
+మాధవిలోయ	VILLAGE
+హర్షిల్	VILLAGE
+కొత్తపల్లి	VILLAGE
+రాజుపాలెం	VILLAGE
+కొల్లేరు	VILLAGE
+ఉప్పలపల్లి	VILLAGE
+ధవళేశ్వరం	VILLAGE
+పోలవరం	VILLAGE
+సమనాపల్లి	VILLAGE
+పొట్లపాడు	VILLAGE
+దర్శి	VILLAGE
+చిరాల	VILLAGE
+యర్రగొండపాలెం	VILLAGE
+పెర్లి	VILLAGE
+కందుకూరు	VILLAGE
+మార్కాపురం	VILLAGE
+ఒంగోలు	VILLAGE
+పుత్తూరు	VILLAGE
+పుంగనూరు	VILLAGE
+చంద్రగిరి	VILLAGE
+రేపల్లి	VILLAGE
+కురబలకోట	VILLAGE
+వాల్మీకినగరం	VILLAGE
+పెనుమాకుల	VILLAGE
+ముదుముల	VILLAGE
+తిరువూరు	VILLAGE
+కొండమల్లి	VILLAGE
+పులియల	VILLAGE
+సరస్వతీపురం	VILLAGE
+యెర్రముఖల	VILLAGE
+పొన్నూరు	VILLAGE
+ఆదిమాపురం	VILLAGE
+కుప్పం	VILLAGE
+రామకుప్పం	VILLAGE
+బుచ్చినాయుడుపల్లి	VILLAGE
+గూడూరు	VILLAGE
+విశ్వనాథపురం	VILLAGE
+పుల్లంపేట	VILLAGE
+చింతమండు	VILLAGE
+కొట్లమడుగు	VILLAGE
+మద్దిపల్లి	VILLAGE
+అల్లగడ్డ	VILLAGE
+బనగానపల్లె	VILLAGE
+చింతకమల	VILLAGE
+చుంచుల	VILLAGE
+దొన్నికోట	VILLAGE
+గోపవరం	VILLAGE
+మార్లపల్లి	VILLAGE
+నందికోట్ల	VILLAGE
+ఓబులవారిపల్లి	VILLAGE
+సంగం	VILLAGE
+సాయి కల	VILLAGE
+సిరివెల	VILLAGE
+తోగుటి	VILLAGE
+వేలాయల	VILLAGE
+వెలుగోడు	VILLAGE
+యాలమంచిలి	VILLAGE
+యెమిగనూరు	VILLAGE
+జువ్విగుంట	VILLAGE
+సిద్ధవటం	VILLAGE
+పొలవరం	VILLAGE
+ఉయ్యూరు	VILLAGE
+కొమ్మవరం	VILLAGE
+కొణిదెన	VILLAGE
+ముంచింగిపుత్తి	VILLAGE
+నిడమాడు	VILLAGE
+సంప్రాల	VILLAGE
+తెన్నేరు	VILLAGE
+వేలంచెర్ల	VILLAGE
+యెర్రామల్లి	VILLAGE
+ద్రాక్షారామం	TEMPLE
+అమలాపురం లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కోటిలింగేశ్వర స్వామి ఆలయం (సమలకోట)	TEMPLE
+అంతర్వేది లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+పాలకుర్తి రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+కొప్పోతు కామాఖ్య పీఠం	TEMPLE
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE
+ముక్కోటి ఏకాదశ రుద్ర స్వామి ఆలయం	TEMPLE
+సామర్లకోట శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కోటిపల్లి శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+పాడేరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+అప్పానమండపం శ్రీ రాఘవేంద్ర స్వామి ఆలయం	TEMPLE
+మామిడికుదురు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కొయ్యలగూడెం శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పెదపాడు శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+రాజమండ్రి శ్రీ కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE
+కొవ్వూరు శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+పెద్దాపురం శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పామురు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+రావులపాలెం శ్రీ శివ స్వామి ఆలయం	TEMPLE
+జగ్గంపేట శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+తుమ్మలపల్లి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కొల్లేరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+ఆమలాపురం శ్రీ సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+రాజానగరం శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+నందిగామ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+ముసునూరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పమిడి శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కాకినాడ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కాకినాడ శ్రీ కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE
+అన్నవరం శ్రీ సత్యనారాయణ స్వామి ఆలయం	TEMPLE
+తిరుమల శ్రీ వేంకటేశ్వర స్వామి ఆలయం	TEMPLE
+అన్నవరం శ్రీ సత్యనారాయణ స్వామి ఆలయం	TEMPLE
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE
+కొల్లిపాక శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+సామర్లకోట శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE
+అంతర్వేది లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE
+కొప్పోతు కామాఖ్య పీఠం	TEMPLE
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE
+మోచర్ల శ్రీ రామాలయం	TEMPLE
+చీడికాడ శ్రీ భోగ నరసింహ స్వామి ఆలయం	TEMPLE
+పాలకొల్లు సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+మాచెర్ల సోమేశ్వర స్వామి ఆలయం	TEMPLE
+ఘంటసాల బౌద్ధ స్థూపం	HISTORICAL_SITE
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE
+అవనిగడ్డ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పులివెందుల శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+కాట్రెగుంట శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+ఏలూరు రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+కాకినాడ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+రాజమండ్రి కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE
+ఒంగోలు శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+చంద్రగిరి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పుత్తూరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+నంద్యాల శ్రీ యోగ నరసింహ స్వామి ఆలయం	TEMPLE
+అన్నమయ్య జిల్లా శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కడప శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+విజయవాడ కనకదుర్గ ఆలయం	TEMPLE
+మంగళగిరి పాండురంగ స్వామి ఆలయం	TEMPLE
+శ్రీకాకుళం శ్రీ సూర్య నారాయణ స్వామి ఆలయం	TEMPLE
+అరకు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+telagan temples list like this format యాదాద్రి లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+భద్రాచలం శ్రీ రామాలయం	TEMPLE
+మేడిపల్లి శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE
+కోటి లింగాల ఆలయం (గడిచర్ల)	TEMPLE
+శ్రీ సాయిబాబా ఆలయం (పార్థసారథి నగర్, హైదరాబాద్)	TEMPLE
+చిలుకూరు బాలాజి ఆలయం	TEMPLE
+ఉజ్జయిని మహంకాళి ఆలయం (సికింద్రాబాద్)	TEMPLE
+ఆలంపూర్ జోగేశ్వర స్వామి ఆలయం	TEMPLE
+పాలమూరు శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+నర్సాపూర్ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+వికారాబాద్ శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE
+శంకర్ పల్లి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+పాల్వంచ శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE
+మంచిర్యాల శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+కామారెడ్డి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE
+నిజామాబాద్ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	
