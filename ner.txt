@@ -1,0 +1,3984 @@
+																									
+Name	Subtype																								
+హైదరాబాద్	CITY																								
+గోదావరి	RIVER																								
+విజయవాడ	CITY																								
+తెలంగాణ	STATE																								
+తిరుమల	TEMPLE																								
+హైదరాబాద్	CITY																								
+విజయవాడ	CITY																								
+విశాఖపట్నం	CITY																								
+తిరుపతి	CITY																								
+గుంటూరు	CITY																								
+నెల్లూరు	CITY																								
+కరీంనగర్	CITY																								
+వారంగల్	CITY																								
+ఖమ్మం	CITY																								
+రాజమండ్రి	CITY																								
+ఏలూరు	CITY																								
+అనంతపురం	CITY																								
+కడప	CITY																								
+చిత్తూరు	CITY																								
+కర్నూలు	CITY																								
+ఓంగోలు	CITY																								
+మచిలీపట్నం	CITY																								
+అదోని	TOWN																								
+భద్రాచలం	TOWN																								
+భీమవరం	TOWN																								
+ధర్మవరం	TOWN																								
+గూడూరు	TOWN																								
+హిందూపురం	TOWN																								
+జగ్గయ్యపేట	TOWN																								
+కామారెడ్డి	TOWN																								
+మహబూబ్నగర్	TOWN																								
+నిజామాబాద్	CITY																								
+పల్నాడు	TOWN																								
+సిద్ధిపేట	TOWN																								
+సూర్యాపేట	TOWN																								
+వానపర్తి	TOWN																								
+గోదావరి	RIVER																								
+కృష్ణ	RIVER																								
+తుంగభద్ర	RIVER																								
+పెన్న	RIVER																								
+చిత్రవూళ	RIVER																								
+పాపాఘ్ని	RIVER																								
+నాగావళి	RIVER																								
+వంశధార	RIVER																								
+మంజీరా	RIVER																								
+భీమ	RIVER																								
+ముసీ	RIVER																								
+కాళేశ్వరం	RIVER																								
+హైదరాబాద్ హుస్సేన్ సాగర్	LAKE																								
+ఓస్మాన్ సాగర్	LAKE																								
+హిమాయత్ సాగర్	LAKE																								
+పులిచింతల	LAKE																								
+కొల్లేరు	LAKE																								
+పకాల	LAKE																								
+నాగార్జున సాగర్	RESERVOIR																								
+శ్రీశైలం	RESERVOIR																								
+జూలుకల్లు	RESERVOIR																								
+ధోన్	RESERVOIR																								
+పోచంపాడ	RESERVOIR																								
+హైదరాబాద్	CITY																								
+విజయవాడ																									
+విశాఖపట్నం	CITY																								
+గుంటూరు	CITY																								
+నెల్లూరు	CITY																								
+తిరుపతి	CITY																								
+కర్నూలు	CITY																								
+రాజమండ్రి	CITY																								
+కాకినాడ	CITY																								
+అనంతపురం	CITY																								
+చిత్తూరు	CITY																								
+మచిలీపట్నం	CITY																								
+ఒంగోలు	CITY																								
+తిరువూరు	CITY																								
+ప్రొద్దుతూరు	CITY																								
+గుడివాడ	CITY																								
+సత్తెనపల్లి	CITY																								
+నంద్యాల	CITY																								
+అదోని	CITY																								
+మార్షల్ పాలెం	CITY																								
+గోదావరి	RIVER																								
+కృష్ణా	RIVER																								
+పెన్నా	RIVER																								
+తుంగభద్ర	RIVER																								
+నాగావలి	RIVER																								
+పెన్నరు	RIVER																								
+వంశధార	RIVER																								
+చంపావతి	RIVER																								
+వేగావతి	RIVER																								
+సువర్ణముఖి	RIVER																								
+తిరుమల	TEMPLE																								
+శ్రీకాకుళం	TEMPLE																								
+సింహాచలం	TEMPLE																								
+అన్నమయ్య ఆలయం	TEMPLE																								
+వేంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కాళహస్తి ఆలయం	TEMPLE																								
+ద్రాక్షారామం	TEMPLE																								
+సామర్లకోట	TEMPLE																								
+అమరావతి బౌద్ధ స్తూపం	HISTORICAL_SITE																								
+నాగార్జున కొండ	HISTORICAL_SITE																								
+బాపట్ల కోట	HISTORICAL_SITE																								
+చంద్రగిరి కోట	HISTORICAL_SITE																								
+గోల్కొండ కోట	HISTORICAL_SITE																								
+ఉదయగిరి కోట	HISTORICAL_SITE																								
+మచిలీపట్నం ఫోర్ట్	HISTORICAL_SITE																								
+తిరుమల కొండలు	MOUNTAIN																								
+నల్లమల కొండలు	MOUNTAIN																								
+పాలకొండలు	MOUNTAIN																								
+అనంతగిరి కొండలు	MOUNTAIN																								
+వెల్లికందురు కొండలు	MOUNTAIN																								
+అరకు లోయ	HILL_STATION																								
+హర్షిల్	HILL_STATION																								
+పాపి కొండలు	FOREST																								
+నల్లమల అడవులు	FOREST																								
+కొరుకు అడవి	FOREST																								
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST																								
+పులికట్ సరస్సు	LAKE																								
+కొల్లేరు సరస్సు	LAKE																								
+ఉప్పలపల్లి సరస్సు	LAKE																								
+గుండ్లకమ్మ జలాశయం	LAKE																								
+పోలవరం జలాశయం	LAKE																								
+ధవళేశ్వరం జలాశయం	LAKE																								
+విజయనగరం	CITY																								
+పిఠాపురం	CITY																								
+ఏలూరు	CITY																								
+తణుకు	CITY																								
+మార్కాపురం	CITY																								
+పర్వతిపురం	CITY																								
+నరసరావుపేట	CITY																								
+బొబ్బిలి	CITY																								
+పాడేరు	CITY																								
+చిలకలూరిపేట	CITY																								
+మొహమ్మదాబాద్	CITY																								
+కొవ్వూరు	CITY																								
+అవనిగడ్డ	CITY																								
+పెదపాడు	CITY																								
+కోవూరు (నెల్లూరు)	CITY																								
+యానాం	CITY																								
+మాచెర్ల	CITY																								
+వెంకటాగిరి	CITY																								
+తాడేపల్లిగూడెం	CITY																								
+పామురు	CITY																								
+కలికిరి	CITY																								
+రాపూరు	CITY																								
+అమలాపురం	CITY																								
+కొత్తపేట	CITY																								
+చీడికాడ	CITY																								
+కొయ్యలగూడెం	CITY																								
+పెనుగంచిప్రోలు	CITY																								
+కోట్ల	CITY																								
+ముదినేపల్లి	CITY																								
+గోపాలపురం	CITY																								
+హిరణ్య కాశిపు పురం	CITY																								
+పెదబయలు	CITY																								
+అకివీడు	CITY																								
+బాపట్ల	CITY																								
+నరసరావుపేట	CITY																								
+కొల్లిపాలెం	CITY																								
+మాగువాడ	CITY																								
+ముదినేపల్లి	CITY																								
+కొండపాక	CITY																								
+దేవరకొండ	CITY																								
+నరసాపురం	CITY																								
+బాలాఘాట్	CITY																								
+కాట్రెగుంట	CITY																								
+బుచ్చయ్యపేట	CITY																								
+ములకలపల్లి	CITY																								
+చింతలపూడి	CITY																								
+మునగపాక	CITY																								
+పెనుమాక	CITY																								
+నారాయణపురం	CITY																								
+పెద్దపురం	CITY																								
+కొయిలకుంట్ల	CITY																								
+పులిపాడు	CITY																								
+బొమ్మలపాలెం	CITY																								
+పెద్దాపురం	CITY																								
+మువ్వలపల్లి	CITY																								
+మహబూబ్ నగర్	CITY																								
+అమరావతి	CITY																								
+అవనిగడ్డ	CITY																								
+తాళ్లపల్లి	CITY																								
+పెద్దపాడు	CITY																								
+కొయ్యలగూడెం	CITY																								
+పులివెందుల	CITY																								
+మాచవరం	CITY																								
+పెండ్లిమర్రి	CITY																								
+జంగారెడ్డిగూడెం	CITY																								
+వెంకటాచలం	CITY																								
+కురుపాం	CITY																								
+వియ్యాల	CITY																								
+పెదబయలు	CITY																								
+చిలకలూరిపేట	CITY																								
+ముదినేపల్లి	CITY																								
+పులికట్ సరస్సు	LAKE																								
+కొల్లేరు సరస్సు	LAKE																								
+ఉప్పలపల్లి సరస్సు	LAKE																								
+గుండ్లకమ్మ జలాశయం	LAKE																								
+పోలవరం జలాశయం	LAKE																								
+ధవళేశ్వరం జలాశయం	LAKE																								
+ప్రకాశం బ్యారేజి	LAKE																								
+తమసా జలాశయం	LAKE																								
+నాగార్జున సాగర్ జలాశయం (AP భాగం)	LAKE																								
+మాచేర్ల జలాశయం	LAKE																								
+సమనాపల్లి జలాశయం	LAKE																								
+హంపి కోట (AP-AP border, కొంత భాగం)	HISTORICAL_SITE																								
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE																								
+ఘంటసాల	HISTORICAL_SITE																								
+వేలూరు కోట	HISTORICAL_SITE																								
+ఎలూరు కోట	HISTORICAL_SITE																								
+కాకతీయ శిథిలాలు (AP లోని భాగాలు)	HISTORICAL_SITE																								
+పులికట్ గోపురం	HISTORICAL_SITE																								
+బాపట్ల సముద్ర తీర కోట	HISTORICAL_SITE																								
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE																								
+ఏలూరు రామలింగేశ్వర ఆలయం	TEMPLE																								
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE																								
+తిరుపతి గోవిందరాజ స్వామి ఆలయం	TEMPLE																								
+శ్రీకాకుళం సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+అనమయ్య ఆలయం (మాచవరం)	TEMPLE																								
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE																								
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+నరసింహ క్షేత్రం (అమరావతి)	TEMPLE																								
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE																								
+మోచర్ల రామాలయం	TEMPLE																								
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కాట్రెగుంట శివాలయం	TEMPLE																								
+పెదబయలు రామాలయం	TEMPLE																								
+నల్లమల కొండలు	MOUNTAIN																								
+పాలకొండలు	MOUNTAIN																								
+అనంతగిరి కొండలు	MOUNTAIN																								
+వెల్లికందురు కొండలు	MOUNTAIN																								
+అరకు కొండలు	MOUNTAIN																								
+పాపి కొండలు	MOUNTAIN																								
+హిమవత్ గిరి	MOUNTAIN																								
+రాంపచోడ కొండలు	MOUNTAIN																								
+మామిడి కొండలు	MOUNTAIN																								
+బొమ్మలగుంట కొండలు	MOUNTAIN																								
+అరకు లోయ	HILL_STATION																								
+హర్షిల్	HILL_STATION																								
+లంబసాగరం	HILL_STATION																								
+మాధవిలోయ	HILL_STATION																								
+పాపి కొండలు	FOREST																								
+నల్లమల అడవులు	FOREST																								
+కొరుకు అడవి	FOREST																								
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST																								
+సుంకరాని అడవి	FOREST																								
+మేడిచెర్ల అడవి	FOREST																								
+కాట్రెగుంట అడవి	FOREST																								
+పక్షి సంరక్షణ కేంద్రం (కొల్లేరు)	FOREST																								
+మార్షల్ పాలెం	CITY																								
+కొయ్యలగూడెం	CITY																								
+పెనుమాక	CITY																								
+పులివెందుల	CITY																								
+వెంకటాచలం	CITY																								
+పెండ్లిమర్రి	CITY																								
+జంగారెడ్డిగూడెం	CITY																								
+కురుపాం	CITY																								
+వియ్యాల	CITY																								
+మాచవరం	CITY																								
+మువ్వలపల్లి	CITY																								
+మహబూబ్ నగర్	CITY																								
+అమరావతి	CITY																								
+తాళ్లపల్లి	CITY																								
+పెద్దపాడు	CITY																								
+నరసాపురం	CITY																								
+బుచ్చయ్యపేట	CITY																								
+ములకలపల్లి	CITY																								
+చింతలపూడి	CITY																								
+మునగపాక	CITY																								
+నారాయణపురం	CITY																								
+పెద్దపురం	CITY																								
+కొయిలకుంట్ల	CITY																								
+పులిపాడు	CITY																								
+బొమ్మలపాలెం	CITY																								
+మాచెర్ల	CITY																								
+వెంకటాగిరి	CITY																								
+తాడేపల్లిగూడెం	CITY																								
+పామురు	CITY																								
+కలికిరి	CITY																								
+రాపూరు	CITY																								
+అమలాపురం	CITY																								
+కొత్తపేట	CITY																								
+చీడికాడ	CITY																								
+పెనుగంచిప్రోలు	CITY																								
+కోట్ల	CITY																								
+ముదినేపల్లి	CITY																								
+గోపాలపురం	CITY																								
+హిరణ్య కాశిపు పురం	CITY																								
+అకివీడు	CITY																								
+బాపట్ల	CITY																								
+కొల్లిపాలెం	CITY																								
+మాగువాడ	CITY																								
+కొండపాక	CITY																								
+దేవరకొండ	CITY																								
+బాలాఘాట్	CITY																								
+కాట్రెగుంట	CITY																								
+పిల్లిగుంట	CITY																								
+కొయ్యలగూడెం	CITY																								
+పాలకొల్లు	CITY																								
+పెదవీరభద్రాపురం	CITY																								
+ముసునూరు	CITY																								
+మామిడికుదురు	CITY																								
+కొల్లిపాక	CITY																								
+పులివెందుల	CITY																								
+బొమ్మలగుంట	CITY																								
+కోటపాడు	CITY																								
+నాదెండ్ల	CITY																								
+ముదినేపల్లి	CITY																								
+రాయవోలు	CITY																								
+చిలకలూరిపేట	CITY																								
+పులికట్ సరస్సు	LAKE																								
+కొల్లేరు సరస్సు	LAKE																								
+ఉప్పలపల్లి సరస్సు	LAKE																								
+గుండ్లకమ్మ జలాశయం	LAKE																								
+పోలవరం జలాశయం	LAKE																								
+ధవళేశ్వరం జలాశయం	LAKE																								
+ప్రకాశం బ్యారేజి	LAKE																								
+తమసా జలాశయం	LAKE																								
+నాగార్జున సాగర్ జలాశయం (AP భాగం)	LAKE																								
+మాచేర్ల జలాశయం	LAKE																								
+సమనాపల్లి జలాశయం	LAKE																								
+కొట్టూరు జలాశయం	LAKE																								
+వెంకటాపురం జలాశయం	LAKE																								
+పాములపాడు జలాశయం	LAKE																								
+బాపట్ల జలాశయం	LAKE																								
+కృష్ణా నది	RIVER																								
+గోదావరి నది	RIVER																								
+పెన్నా నది	RIVER																								
+తుంగభద్ర నది	RIVER																								
+నాగావలి నది	RIVER																								
+పెన్నరు నది	RIVER																								
+వంశధార నది	RIVER																								
+చంపావతి నది	RIVER																								
+వేగావతి నది	RIVER																								
+సువర్ణముఖి నది	RIVER																								
+పాముల నది	RIVER																								
+ముసి నది	RIVER																								
+పాలేరు నది	RIVER																								
+నిజాం సాగర్ జలాశయం (AP భాగం)	LAKE																								
+బుద్ధ ఆశ్రమం (అమరావతి)	HISTORICAL_SITE																								
+నాగార్జున కొండ	HISTORICAL_SITE																								
+ఘంటసాల బౌద్ధ స్థలం	HISTORICAL_SITE																								
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE																								
+వేలూరు కోట	HISTORICAL_SITE																								
+ఎలూరు కోట	HISTORICAL_SITE																								
+పులికట్ గోపురం	HISTORICAL_SITE																								
+బాపట్ల సముద్ర తీర కోట	HISTORICAL_SITE																								
+కొండవీడు కోట	HISTORICAL_SITE																								
+చంద్రగిరి కోట	HISTORICAL_SITE																								
+ఉదయగిరి కోట	HISTORICAL_SITE																								
+మచిలీపట్నం ఫోర్ట్	HISTORICAL_SITE																								
+విజయనగరం రాజ ప్రాసాదం	HISTORICAL_SITE																								
+తిరుమల శ్రీ వేంకటేశ్వర ఆలయం	TEMPLE																								
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE																								
+ఏలూరు రామలింగేశ్వర ఆలయం	TEMPLE																								
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE																								
+తిరుపతి గోవిందరాజ స్వామి ఆలయం	TEMPLE																								
+శ్రీకాకుళం సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+అనమయ్య ఆలయం (మాచవరం)	TEMPLE																								
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE																								
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+నరసింహ క్షేత్రం (అమరావతి)	TEMPLE																								
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE																								
+మోచర్ల రామాలయం	TEMPLE																								
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కాట్రెగుంట శివాలయం	TEMPLE																								
+పెదబయలు రామాలయం	TEMPLE																								
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE																								
+చీడికాడ శివాలయం	TEMPLE																								
+పాలకొల్లు సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+మాచెర్ల సోమేశ్వర స్వామి ఆలయం	TEMPLE																								
+విజయనగరం రామాలయం	TEMPLE																								
+నల్లమల కొండలు	MOUNTAIN																								
+పాలకొండలు	MOUNTAIN																								
+అనంతగిరి కొండలు	MOUNTAIN																								
+వెల్లికందురు కొండలు	MOUNTAIN																								
+అరకు కొండలు	MOUNTAIN																								
+పాపి కొండలు	MOUNTAIN																								
+హిమవత్ గిరి	MOUNTAIN																								
+రాంపచోడ కొండలు	MOUNTAIN																								
+మామిడి కొండలు	MOUNTAIN																								
+బొమ్మలగుంట కొండలు	MOUNTAIN																								
+నల్ల కొండ	MOUNTAIN																								
+బోర్ర కొండలు	MOUNTAIN																								
+తిరుమల కొండలు	MOUNTAIN																								
+అరకు లోయ	HILL_STATION																								
+హర్షిల్	HILL_STATION																								
+లంబసాగరం	HILL_STATION																								
+మాధవిలోయ	HILL_STATION																								
+అనంతగిరి హిల్స్	HILL_STATION																								
+పాపి కొండలు	FOREST																								
+నల్లమల అడవులు	FOREST																								
+కొరుకు అడవి	FOREST																								
+కృష్ణా జిల్లా మాంగ్రోవ్ అడవులు	FOREST																								
+సుంకరాని అడవి	FOREST																								
+మేడిచెర్ల అడవి	FOREST																								
+కాట్రెగుంట అడవి	FOREST																								
+పక్షి సంరక్షణ కేంద్రం (కొల్లేరు)	FOREST																								
+కృష్ణా జిల్లా ఉప్పు అడవులు	FOREST																								
+పశ్చిమ గోదావరి మాంగ్రోవ్ అడవులు	FOREST																								
+అనకాపల్లి	DISTRICT																								
+అనంతపురం	DISTRICT																								
+అల్లూరి సీతారామ రాజు	DISTRICT																								
+కొణసీమ	DISTRICT																								
+బాపట్ల	DISTRICT																								
+కడప	DISTRICT																								
+కాకినాడ	DISTRICT																								
+ఈస్ట్ గోదావరి	DISTRICT																								
+గుంటూరు	DISTRICT																								
+కృష్ణా	DISTRICT																								
+నెల్లూరు	DISTRICT																								
+పశ్చిమ గోదావరి	DISTRICT																								
+పల్నాడు	DISTRICT																								
+ప్రకాశం	DISTRICT																								
+శ్రీ పొట్టి శ్రీరాములు నెల్లూరు	DISTRICT																								
+శ్రీకాకుళం	DISTRICT																								
+తిరుపతి	DISTRICT																								
+విజయవాడ	DISTRICT																								
+విజయనగరం	DISTRICT																								
+విశాఖపట్నం	DISTRICT																								
+పార్వతీపురం మన్యం	DISTRICT																								
+నంద్యాల	DISTRICT																								
+అన్నమయ్య	DISTRICT																								
+ఎలూరు	DISTRICT																								
+కృష్ణా జిల్లా	DISTRICT																								
+గుంటూరు జిల్లా	DISTRICT																								
+ఆదిలాబాద్	DISTRICT																								
+మంచిర్యాల	DISTRICT																								
+నిర్మల్	DISTRICT																								
+కొమరం భీం అసిఫాబాద్	DISTRICT																								
+ఖమ్మం	DISTRICT																								
+మహబూబాబాద్	DISTRICT																								
+జయశంకర్ భూపాలపల్లి	DISTRICT																								
+వరంగల్ గ్రామీణ	DISTRICT																								
+వరంగల్ పట్టణ	DISTRICT																								
+హనుమకొండ	DISTRICT																								
+కరీంనగర్	DISTRICT																								
+పెద్దపల్లి	DISTRICT																								
+సంగారెడ్డి	DISTRICT																								
+మెదక్	DISTRICT																								
+సిద్ధిపేట	DISTRICT																								
+హైదరాబాద్	DISTRICT																								
+రంగారెడ్డి	DISTRICT																								
+మహబూబ్‌నగర్	DISTRICT																								
+నారాయణపేట	DISTRICT																								
+నల్గొండ	DISTRICT																								
+యాదాద్రి భువనగిరి	DISTRICT																								
+వికారాబాద్	DISTRICT																								
+ములుగు	DISTRICT																								
+మహబూబాబాద్	DISTRICT																								
+అమరావతి	CAPITAL																								
+విశాఖపట్నం	CAPITAL																								
+కర్నూలు	CAPITAL																								
+ఇటానగర్	CAPITAL																								
+దిస్పూర్	CAPITAL																								
+పాట్నా	CAPITAL																								
+రాయ్‌పూర్	CAPITAL																								
+పణజి	CAPITAL																								
+గాంధీనగర్	CAPITAL																								
+చండీగఢ్	CAPITAL																								
+శిమ్లా	CAPITAL																								
+ధర్మశాల	CAPITAL																								
+రాంచీ	CAPITAL																								
+బెంగళూరు	CAPITAL																								
+తిరువనంతపురం	CAPITAL																								
+భోపాల్	CAPITAL																								
+ముంబై	CAPITAL																								
+ఇంఫాల్	CAPITAL																								
+షిల్లాంగ్	CAPITAL																								
+ఐజావల్	CAPITAL																								
+కోహిమా	CAPITAL																								
+భువనేశ్వర్	CAPITAL																								
+జైపూర్	CAPITAL																								
+గంగ్‌టోక్	CAPITAL																								
+చెన్నై	CAPITAL																								
+హైదరాబాద్	CAPITAL																								
+అగర్తల	CAPITAL																								
+లక్నో	CAPITAL																								
+డెహ్రాడూన్	CAPITAL																								
+గైర్‌సైన్	CAPITAL																								
+కోల్‌కతా	CAPITAL																								
+పోర్ట్ బ్లెయర్	CAPITAL																								
+దమన్	CAPITAL																								
+న్యూ ఢిల్లీ	CAPITAL																								
+శ్రీనగర్	CAPITAL																								
+జమ్మూ	CAPITAL																								
+లెహ్	CAPITAL																								
+కార్గిల్	CAPITAL																								
+కవరత్తి	CAPITAL																								
+పుదుచ్చేరి	CAPITAL																								
+తాజ్ మహల్	PLACE																								
+ఖజురాహో దేవాలయాలు	PLACE																								
+అజంతా గుహలు	PLACE																								
+ఎల్లోరా గుహలు	PLACE																								
+కొండాపల్లి గుహలు	PLACE																								
+మహాబలిపురం	PLACE																								
+కొణార్క్ సూర్య దేవాలయం	PLACE																								
+హంపి	PLACE																								
+ఫతేపూర్ సిక్రీ	PLACE																								
+లాల్ కోట	PLACE																								
+ఖుదాబాద్ కోట	PLACE																								
+గోల్ కొండ కోట	PLACE																								
+మీనాక్షి అమ్మవారి దేవాలయం	PLACE																								
+విజయ స్తంభం (చిత్తోర్ గఢ్)	PLACE																								
+జంతర్ మంతర్ (జైపూర్)	PLACE																								
+సాంచి స్తూపం	PLACE																								
+విక్టోరియా మెమోరియల్	PLACE																								
+ఇండియా గేట్	PLACE																								
+రెడ్ ఫోర్ట్ (ఢిల్లీ)	PLACE																								
+రెడ్ ఫోర్ట్ (ఆగ్రా)	PLACE																								
+అమరావతి స్తూపం	PLACE																								
+సారనాథ్	PLACE																								
+నాలంద విశ్వవిద్యాలయం	PLACE																								
+విక్రమశిల విశ్వవిద్యాలయం	PLACE																								
+మాచు పిచుకు కోట (మధ్య ప్రదేశ్)	PLACE																								
+జైసల్మేర్ ఫోర్ట్	PLACE																								
+మేహరాంగఢ్ ఫోర్ట్	PLACE																								
+ఉదయ్ పుర్ ప్యాలెస్	PLACE																								
+మైసూర్ ప్యాలెస్	PLACE																								
+హావా మహల్	PLACE																								
+బులంద్ దర్వాజా	PLACE																								
+అజ్మీర్ షరీఫ్ దర్గా	PLACE																								
+వేలూరు కోట	PLACE																								
+చిత్రదుర్గ కోట	PLACE																								
+పాండిచ్చేరి ఫ్రెంచ్ క్వార్టర్	PLACE																								
+దార్జిలింగ్ హిమాలయన్ రైల్వే	PLACE																								
+కాంచిపురం దేవాలయాలు	PLACE																								
+బేలూర్ మఠం	PLACE																								
+శ్రీశైలం	PLACE																								
+వేములవాడ భీమేశ్వర ఆలయం	PLACE																								
+ఆంధ్ర భువనేశ్వరి ఆలయం	PLACE																								
+సిక్కింలోని గంగ్టోక్ మొనాస్టరీలు	PLACE																								
+అఫ్గానిస్తాన్	COUNTRY																								
+ఆల్బేనియా	COUNTRY																								
+అల్జీరియా	COUNTRY																								
+అండోరా	COUNTRY																								
+అంగోలా	COUNTRY																								
+ఆంటిగ్వా మరియు బర్బుడా	COUNTRY																								
+అర్జెంటీనా	COUNTRY																								
+అర్మేనియా	COUNTRY																								
+ఆస్ట్రేలియా	COUNTRY																								
+ఆస్ట్రియా	COUNTRY																								
+అజెర్బైజాన్	COUNTRY																								
+బహమాస్	COUNTRY																								
+బహ్రెయిన్	COUNTRY																								
+బంగ్లాదేశ్	COUNTRY																								
+బార్బడోస్	COUNTRY																								
+బెలారస్	COUNTRY																								
+బెల్జియం	COUNTRY																								
+బెలిజ్	COUNTRY																								
+బెనిన్	COUNTRY																								
+భూటాన్	COUNTRY																								
+బొలీవియా	COUNTRY																								
+బోస్నియా మరియు హెర్జెగోవినా	COUNTRY																								
+బొట్స్వానా	COUNTRY																								
+బ్రజీల్	COUNTRY																								
+బ్రూనేయి	COUNTRY																								
+బల్గేరియా	COUNTRY																								
+బుర్కినా ఫాసో	COUNTRY																								
+బురుండి	COUNTRY																								
+కెంబోడియా	COUNTRY																								
+కెమెరూన్	COUNTRY																								
+కెనడా	COUNTRY																								
+కేప్ వెర్డె	COUNTRY																								
+సెంట్రల్ అఫ్రికన్ రిపబ్లిక్	COUNTRY																								
+చాడ్	COUNTRY																								
+చిలీ	COUNTRY																								
+చైనా	COUNTRY																								
+కొలంబియా	COUNTRY																								
+కొమొరోస్	COUNTRY																								
+కాంగో - బ్రజావిల్లే	COUNTRY																								
+కాంగో - కిన్షాసా	COUNTRY																								
+కోస్టా రికా	COUNTRY																								
+క్రొయేషియా	COUNTRY																								
+క్యూబా	COUNTRY																								
+సైప్రస్	COUNTRY																								
+చెక్ రిపబ్లిక్	COUNTRY																								
+డెన్మార్క్	COUNTRY																								
+జిబౌటి	COUNTRY																								
+డొమినికా	COUNTRY																								
+డొమినికన్ రిపబ్లిక్	COUNTRY																								
+ఈక్వెడార్	COUNTRY																								
+ఈజిప్ట్	COUNTRY																								
+ఎల్ సాల్వడార్	COUNTRY																								
+ఈక్వటోరియల్ గినియా	COUNTRY																								
+ఎరిట్రియా	COUNTRY																								
+ఎస్టోనియా	COUNTRY																								
+ఇథియోపియా	COUNTRY																								
+ఫిజి	COUNTRY																								
+ఫిన్లాండ్	COUNTRY																								
+ఫ్రాన్స్	COUNTRY																								
+గాబాన్	COUNTRY																								
+గంబియా	COUNTRY																								
+జార్జియా	COUNTRY																								
+జర్మనీ	COUNTRY																								
+ఘనా	COUNTRY																								
+గ్రీస్	COUNTRY																								
+గ్రెనేడా	COUNTRY																								
+గ్వాటెమాలా	COUNTRY																								
+గినియా	COUNTRY																								
+గినియా-బిస్సావు	COUNTRY																								
+గయానా	COUNTRY																								
+హైతి	COUNTRY																								
+హోండూరస్	COUNTRY																								
+హంగేరీ	COUNTRY																								
+ఐస్లాండ్	COUNTRY																								
+భారతదేశం	COUNTRY																								
+ఇండోనేషియా	COUNTRY																								
+ఇరాన్	COUNTRY																								
+ఇరాక్	COUNTRY																								
+ఐర్లాండ్	COUNTRY																								
+ఇజ్రాయెల్	COUNTRY																								
+ఇటలీ	COUNTRY																								
+జమైకా	COUNTRY																								
+జపాన్	COUNTRY																								
+జోర్డాన్	COUNTRY																								
+కజక్స్తాన్	COUNTRY																								
+కెన్యా	COUNTRY																								
+కిరిబాతి	COUNTRY																								
+కొరియా దక్షిణ	COUNTRY																								
+కొరియా ఉత్తర	COUNTRY																								
+కువైట్	COUNTRY																								
+కిర్గిజ్స్తాన్	COUNTRY																								
+లావోస్	COUNTRY																								
+లాట్వియా	COUNTRY																								
+లెబనాన్	COUNTRY																								
+లెసోతో	COUNTRY																								
+లైబీరియా	COUNTRY																								
+లిబియా	COUNTRY																								
+లైచెన్స్టీన్	COUNTRY																								
+లిథువేనియా	COUNTRY																								
+లక్సెంబర్గ్	COUNTRY																								
+మాడగాస్కర్	COUNTRY																								
+మలావి	COUNTRY																								
+మలేషియా	COUNTRY																								
+మాల్దీవులు	COUNTRY																								
+మాలి	COUNTRY																								
+మాల్టా	COUNTRY																								
+మార్షల్ దీవులు	COUNTRY																								
+మౌరిటానియా	COUNTRY																								
+మారిషస్	COUNTRY																								
+మెక్సికో	COUNTRY																								
+మైక్రోనేషియా	COUNTRY																								
+మొల్దోవా	COUNTRY																								
+మొనాకో	COUNTRY																								
+మంగోలియా	COUNTRY																								
+మాంటెనెగ్రో	COUNTRY																								
+మొరాకో	COUNTRY																								
+మొజాంబిక్	COUNTRY																								
+మయన్మార్	COUNTRY																								
+నమీబియా	COUNTRY																								
+నౌరు	COUNTRY																								
+నేపాల్	COUNTRY																								
+నెదర్లాండ్స్	COUNTRY																								
+న్యూజిలాండ్	COUNTRY																								
+నికారాగువా	COUNTRY																								
+నైజర్	COUNTRY																								
+నైజీరియా	COUNTRY																								
+ఉత్తర మెసిడోనియా	COUNTRY																								
+నార్వే	COUNTRY																								
+ఒమన్	COUNTRY																								
+పాకిస్తాన్	COUNTRY																								
+పలావు	COUNTRY																								
+పనామా	COUNTRY																								
+పపువా న్యూ గినియా	COUNTRY																								
+పరాగ్వే	COUNTRY																								
+పెరూ	COUNTRY																								
+ఫిలిప్పీన్స్	COUNTRY																								
+పోలాండ్	COUNTRY																								
+పోర్చుగల్	COUNTRY																								
+కతార్	COUNTRY																								
+రొమేనియా	COUNTRY																								
+రష్యా	COUNTRY																								
+రువాండా	COUNTRY																								
+సెయింట్ కిట్స్ మరియు నెవిస్	COUNTRY																								
+సెయింట్ లూసియా	COUNTRY																								
+సెయింట్ విన్సెంట్ మరియు గ్రెనడీన్స్	COUNTRY																								
+సమోవా	COUNTRY																								
+సాన్ మారినో	COUNTRY																								
+సావో టోమే మరియు ప్రిన్సిపే	COUNTRY																								
+సౌదీ అరేబియా	COUNTRY																								
+సెనెగల్	COUNTRY																								
+సెర్బియా	COUNTRY																								
+సెయిషెల్స్	COUNTRY																								
+సియెర్రా లియోన్	COUNTRY																								
+సింగపూర్	COUNTRY																								
+స్లోవాకియా	COUNTRY																								
+స్లోవేనియా	COUNTRY																								
+సొలోమన్ దీవులు	COUNTRY																								
+సోమాలియా	COUNTRY																								
+దక్షిణ ఆఫ్రికా	COUNTRY																								
+దక్షిణ సుడాన్	COUNTRY																								
+స్పెయిన్	COUNTRY																								
+శ్రీలంక	COUNTRY																								
+సూడాన్	COUNTRY																								
+సూరినామ్	COUNTRY																								
+స్వీడన్	COUNTRY																								
+స్విట్జర్లాండ్	COUNTRY																								
+సిరియా	COUNTRY																								
+తజాకిస్తాన్	COUNTRY																								
+తాంజానియా	COUNTRY																								
+థాయిలాండ్	COUNTRY																								
+టిమోర్-లెస్టే	COUNTRY																								
+టోగో	COUNTRY																								
+టోంగా	COUNTRY																								
+ట్రినిడాడ్ మరియు టొబాగో	COUNTRY																								
+టునీషియా	COUNTRY																								
+టర్కీ	COUNTRY																								
+తుర్క్మెనిస్తాన్	COUNTRY																								
+తువాలు	COUNTRY																								
+యుగాండా	COUNTRY																								
+యుక్రెయిన్	COUNTRY																								
+యునైటెడ్ అరబ్ ఎమిరేట్స్	COUNTRY																								
+యునైటెడ్ కింగ్డమ్	COUNTRY																								
+యునైటెడ్ స్టేట్స్	COUNTRY																								
+ఉరుగ్వే	COUNTRY																								
+ఉజ్బెకిస్తాన్	COUNTRY																								
+వనువాటు	COUNTRY																								
+వాటికన్ సిటీ	COUNTRY																								
+వెనెజులా	COUNTRY																								
+వియత్నాం	COUNTRY																								
+యెమెన్	COUNTRY																								
+జాంబియా	COUNTRY																								
+జింబాబ్వే	COUNTRY																								
+తాజ్ మహల్	PLACE																								
+పిరమిడ్స్ ఆఫ్ గిజా	PLACE																								
+స్ఫింక్స్	PLACE																								
+మచు పిచు	PLACE																								
+పెట్రా	PLACE																								
+కొలోస్సియం	PLACE																								
+పాంథియాన్	PLACE																								
+ఎఫిల్ టవర్	PLACE																								
+స్టేచ్యూ ఆఫ్ లిబర్టీ	PLACE																								
+గ్రాండ్ కెన్యాన్	PLACE																								
+స్టోన్‌హెంజ్	PLACE																								
+అక్రోపోలిస్ ఆఫ్ ఏథెన్స్	PLACE																								
+పార్థినాన్	PLACE																								
+మెసోపొటమియా రువిన్స్ (ఉరుక్, బాబిలోన్)	PLACE																								
+పాంపేయి	PLACE																								
+హేగియా సోఫియా	PLACE																								
+టెంపుల్ ఆఫ్ హేఫెస్టస్	PLACE																								
+అంగ్ కోర్ వాట్	PLACE																								
+బొరోబుదూర్	PLACE																								
+సియాన్ టెరాకోట్ట సైనికులు	PLACE																								
+మొహెంజొదారో	PLACE																								
+హరప్పా	PLACE																								
+చిచెన్ ఇట్జా	PLACE																								
+టికల్	PLACE																								
+పాలెన్క్వే	PLACE																								
+మొంటె ఆల్బాన్	PLACE																								
+మాచు పిచు	PLACE																								
+ఈస్టర్ ఐలాండ్ మూర్తులు	PLACE																								
+టియావానాకు	PLACE																								
+పాంథియాన్ (రోమ్)	PLACE																								
+వెనిస్ గ్రాండ్ కెనాల్	PLACE																								
+సెయింట్ పీటర్స్ బసిలికా	PLACE																								
+వాల్ ఆఫ్ చైనా	PLACE																								
+ఫోర్బిడెన్ సిటీ	PLACE																								
+టెంపుల్ ఆఫ్ హీబ్రూ	PLACE																								
+జెరూసలెం ఓల్డ్ సిటీ	PLACE																								
+డమాస్కస్ ఓల్డ్ సిటీ	PLACE																								
+బాబ్ ఎల్ మందబ్	PLACE																								
+కైరో సిటీ ఆఫ్ ది డెడ్	PLACE																								
+సిగిరియా	PLACE																								
+బుద్ధ గయ	PLACE																								
+సాంచి స్తూపం	PLACE																								
+అజంతా గుహలు	PLACE																								
+ఎల్లోరా గుహలు	PLACE																								
+హంపి	PLACE																								
+ఫతేపూర్ సిక్రీ	PLACE																								
+రెడ్ ఫోర్ట్ (ఆగ్రా)	PLACE																								
+ఖజురాహో దేవాలయాలు	PLACE																								
+కొణార్క్ సూర్య దేవాలయం	PLACE																								
+కాబుల్	CITY																								
+తిరానా	CITY																								
+అల్జీర్స్	CITY																								
+అండోరా లా వెల్లా	CITY																								
+లువాండా	CITY																								
+సెయింట్ జాన్స్	CITY																								
+బుయినస్ అయిర్స్	CITY																								
+యెరెవాన్	CITY																								
+కాన్బెర్రా	CITY																								
+వియన్నా	CITY																								
+బాకు	CITY																								
+నస్సావు	CITY																								
+మనామా	CITY																								
+ఢాకా	CITY																								
+బ్రిడ్జ్ టౌన్	CITY																								
+మిన్స్క్	CITY																								
+బ్రస్సెల్స్	CITY																								
+బెల్మోపాన్	CITY																								
+పోర్టో నోవో	CITY																								
+థింపు	CITY																								
+లా పాజ్	CITY																								
+సారాజెవో	CITY																								
+గాబొరోన్	CITY																								
+బ్రసీలియా	CITY																								
+బందర్ సెరి బెగావాన్	CITY																								
+సోఫియా	CITY																								
+వాగాడుగౌ	CITY																								
+గిటెగా	CITY																								
+ఫ్నోం పెన్	CITY																								
+యామౌస్సుక్రో	CITY																								
+యామౌస్సుక్రో	CITY																								
+బంజుల్	CITY																								
+బంగ్యు	CITY																								
+ఒట్టావా	CITY																								
+ప్రయా	CITY																								
+బంగ్యు	CITY																								
+బంజుల్	CITY																								
+సాంటియాగో	CITY																								
+బీజింగ్	CITY																								
+బొగోటా	CITY																								
+మొరొని	CITY																								
+బ్రజావిల్లె	CITY																								
+కిన్షాసా	CITY																								
+సాన్ జోస్	CITY																								
+జగ్రెబ్	CITY																								
+హావానా	CITY																								
+నికోసియా	CITY																								
+ప్రాగ్	CITY																								
+కోపెన్ హేగెన్	CITY																								
+జిబౌటి	CITY																								
+రోజౌ	CITY																								
+సాంటో డొమింగో	CITY																								
+క్విటో	CITY																								
+కైరో	CITY																								
+సాన్ సల్వడోర్	CITY																								
+మలాబో	CITY																								
+అస్మారా	CITY																								
+తల్లిన్	CITY																								
+అద్దిస్ అబాబా	CITY																								
+సువా	CITY																								
+హెల్సింకి	CITY																								
+పారిస్	CITY																								
+లిబ్రివిల్లె	CITY																								
+బాంజుల్	CITY																								
+త్బిలిసి	CITY																								
+బెర్లిన్	CITY																								
+అక్రా	CITY																								
+ఏథెన్స్	CITY																								
+సెయింట్ జార్జ్స్	CITY																								
+గ్వాటెమాలా సిటీ	CITY																								
+కొనాక్రీ	CITY																								
+బిస్సావు	CITY																								
+జార్జి టౌన్	CITY																								
+పోర్ట్ అవ్ స్పెయిన్	CITY																								
+అస్మారా	CITY																								
+తల్లిన్	CITY																								
+అద్దిస్ అబాబా	CITY																								
+సువా	CITY																								
+హెల్సింకి	CITY																								
+పారిస్	CITY																								
+లిబ్రివిల్లె	CITY																								
+బాంజుల్	CITY																								
+త్బిలిసి	CITY																								
+బెర్లిన్	CITY																								
+అక్రా	CITY																								
+ఏథెన్స్	CITY																								
+సెయింట్ జార్జ్స్	CITY																								
+గ్వాటెమాలా సిటీ	CITY																								
+కొనాక్రీ	CITY																								
+బిస్సావు	CITY																								
+జార్జి టౌన్	CITY																								
+పోర్ట్ అవ్ స్పెయిన్	CITY																								
+పోర్ట్ అవ్ స్పెయిన్	CITY																								
+అథెన్స్	CITY																								
+బుదపెస్ట్	CITY																								
+రెయ్క్జావిక్	CITY																								
+న్యూ ఢిల్లీ	CITY																								
+జకార్తా	CITY																								
+తెహ్రాన్	CITY																								
+బాగ్దాద్	CITY																								
+డబ్లిన్	CITY																								
+జెరూసలెం	CITY																								
+రోమ్	CITY																								
+కింగ్స్టన్	CITY																								
+టోక్యో	CITY																								
+అమ్మాన్	CITY																								
+నూర్-సుల్తాన్	CITY																								
+నైరోబి	CITY																								
+సౌతారా	CITY																								
+ప్యోంగ్ యాంగ్	CITY																								
+సియోల్	CITY																								
+కువైట్ సిటీ	CITY																								
+బిష్కెక్	CITY																								
+వియెంటియాన్	CITY																								
+రిగా	CITY																								
+బైరూత్	CITY																								
+మసెరు	CITY																								
+మొన్రోవియా	CITY																								
+త్రిపోలి	CITY																								
+వాడుజ్	CITY																								
+విల్నియస్	CITY																								
+లక్సెంబర్గ్ సిటీ	CITY																								
+అంతననారివో	CITY																								
+లిలోంగ్వే	CITY																								
+కౌలాలంపూర్	CITY																								
+మాలే	CITY																								
+బమాకో	CITY																								
+వాలెట్టా	CITY																								
+మజూరో	CITY																								
+నౌక్చోత్	CITY																								
+పోర్ట్ లూయిస్	CITY																								
+మెక్సికో సిటీ	CITY																								
+పాలికిర్	CITY																								
+చిసినౌ	CITY																								
+మొనాకో	CITY																								
+ఉలాన్ బాటర్	CITY																								
+పోడ్ గొరిసా	CITY																								
+రబాత్	CITY																								
+మపుటో	CITY																								
+నేపియర్	CITY																								
+కాథ్మాండు	CITY																								
+అమ్స్టర్ డామ్	CITY																								
+వెల్లింగ్టన్	CITY																								
+మనాగువా	CITY																								
+నియామీ	CITY																								
+అబుజా	CITY																								
+స్కోప్జె	CITY																								
+ఓస్లో	CITY																								
+మస్కట్	CITY																								
+ఇస్లామాబాద్	CITY																								
+న్గెరుల్ముద్	CITY																								
+పనామా సిటీ	CITY																								
+పోర్ట్ మోర్స్బీ	CITY																								
+అసున్సియన్	CITY																								
+లీమా	CITY																								
+మనిలా	CITY																								
+వార్సా	CITY																								
+లిస్బన్	CITY																								
+దోహా	CITY																								
+బుచారెస్ట్	CITY																								
+మాస్కో	CITY																								
+కిగాలి	CITY																								
+బాస్టర్	CITY																								
+కాస్ట్రీస్	CITY																								
+కింగ్స్టన్	CITY																								
+అపియా	CITY																								
+సాన్ మారినో	CITY																								
+సావో టోమే	CITY																								
+రియాధ్	CITY																								
+డకార్	CITY																								
+బెల్ గ్రేడ్	CITY																								
+విక్టోరియా	CITY																								
+ఫ్రీటౌన్	CITY																								
+సింగపూర్	CITY																								
+బ్రాటిస్లావా	CITY																								
+ల్యుబ్ల్యానా	CITY																								
+హోనియారా	CITY																								
+మొగదిషు	CITY																								
+ప్రిటోరియా	CITY																								
+జుబా	CITY																								
+మాడ్రిడ్	CITY																								
+కొలంబో	CITY																								
+ఖార్తూమ్	CITY																								
+పరమారిబో	CITY																								
+స్టాక్ హోమ్	CITY																								
+బెర్న్	CITY																								
+డమాస్కస్	CITY																								
+దుషాంబె	CITY																								
+దోదోమా	CITY																								
+బాంకాక్	CITY																								
+దిలి	CITY																								
+లోమే	CITY																								
+నుకు అలోఫా	CITY																								
+పోర్ట్ ఆఫ్ స్పెయిన్	CITY																								
+త్యూనిస్	CITY																								
+అంకారా	CITY																								
+అష్గాబాత్	CITY																								
+ఫునాఫుతి	CITY																								
+కంపాలా	CITY																								
+కీవ్	CITY																								
+అబు ధాబీ	CITY																								
+లండన్	CITY																								
+వాషింగ్టన్, D.C.	CITY																								
+మాంటెవిడియో	CITY																								
+తష్కెంత్	CITY																								
+వాలెట్టా	CITY																								
+వాటికన్ సిటీ	CITY																								
+కరకాస్	CITY																								
+హనోయి	CITY																								
+సానా	CITY																								
+లుసాకా	CITY																								
+హరారే	CITY																								
+నైలు నది	RIVER																								
+అమెజాన్ నది	RIVER																								
+మిసిసిప్పి నది	RIVER																								
+యాంగ్ట్సీ నది	RIVER																								
+గంగా నది	RIVER																								
+మిసౌరి నది	RIVER																								
+యుఫ్రటీస్ నది	RIVER																								
+టైగ్రిస్ నది	RIVER																								
+డాన్యూబ్ నది	RIVER																								
+మెకాంగ్ నది	RIVER																								
+కాంగో నది	RIVER																								
+ఇందస్ నది	RIVER																								
+బ్రహ్మపుత్ర నది	RIVER																								
+ఓబ్ నది	RIVER																								
+ఇరావతి నది	RIVER																								
+యుకాన్ నది	RIVER																								
+రైన్ నది	RIVER																								
+సెయింట్ లారెన్స్ నది	RIVER																								
+జాంబెజి నది	RIVER																								
+గోదావరి నది	RIVER																								
+కృష్ణా నది	RIVER																								
+నర్మదా నది	RIVER																								
+కావేరి నది	RIVER																								
+మహానది నది	RIVER																								
+తపతి నది	RIVER																								
+సత్లజ్ నది	RIVER																								
+చెనాబ్ నది	RIVER																								
+జ్హెజియాంగ్ నది	RIVER																								
+అమూర్ నది	RIVER																								
+లెనా నది	RIVER																								
+కాస్పియన్ సముద్రం	LAKE																								
+సుపీరియర్ సరస్సు	LAKE																								
+విక్టోరియా సరస్సు	LAKE																								
+హురాన్ సరస్సు	LAKE																								
+మిచిగాన్ సరస్సు	LAKE																								
+టాంగానికా సరస్సు	LAKE																								
+బైకాల్ సరస్సు	LAKE																								
+గ్రేట్ స్లేవ్ సరస్సు	LAKE																								
+మలావి సరస్సు	LAKE																								
+ఓంటారియో సరస్సు	LAKE																								
+ఎరీ సరస్సు	LAKE																								
+పాట్రియార్క్ సరస్సు	LAKE																								
+మారాల్ సరస్సు	LAKE																								
+టిటికాక సరస్సు	LAKE																								
+జెనీవా సరస్సు	LAKE																								
+కొడార్ సరస్సు	LAKE																								
+లోమాన్డ్ సరస్సు	LAKE																								
+ప్లావో సరస్సు	LAKE																								
+అల్బర్ట్ సరస్సు	LAKE																								
+ఎడ్వర్డ్ సరస్సు	LAKE																								
+సింధు సరస్సు	LAKE																								
+డాల్ సరస్సు	LAKE																								
+వేమన సరస్సు	LAKE																								
+పులికట్ సరస్సు	LAKE																								
+చిల్కా సరస్సు	LAKE																								
+వేంబనాడ్ సరస్సు	LAKE																								
+లోనార్ సరస్సు	LAKE																								
+భీమా సరస్సు	LAKE																								
+హుస్సేన్ సాగర్	LAKE																								
+ఉమామహేశ్వరం సరస్సు	LAKE																								
+పసిఫిక్ మహాసముద్రం	OCEAN																								
+అట్లాంటిక్ మహాసముద్రం	OCEAN																								
+హిందూ మహాసముద్రం	OCEAN																								
+ఆర్క్టిక్ మహాసముద్రం	OCEAN																								
+దక్షిణ మహాసముద్రం	OCEAN																								
+అరేబియా సముద్రం	SEA																								
+బంగాళాఖాతం	SEA																								
+మెడిటరేనియన్ సముద్రం	SEA																								
+కాస్పియన్ సముద్రం	SEA																								
+కరీబియన్ సముద్రం	SEA																								
+దక్షిణ చైనా సముద్రం	SEA																								
+జపాన్ సముద్రం	SEA																								
+ఎర్ర సముద్రం	SEA																								
+ఉత్తర సముద్రం	SEA																								
+బాల్టిక్ సముద్రం	SEA																								
+అడ్రియాటిక్ సముద్రం	SEA																								
+ఐరిష్ సముద్రం	SEA																								
+నార్వేజియన్ సముద్రం	SEA																								
+బెరింగ్ సముద్రం	SEA																								
+ఓఖోట్స్క్ సముద్రం	SEA																								
+టస్కాన్ సముద్రం	SEA																								
+ఇయోనియన్ సముద్రం	SEA																								
+సాలింగ్ సముద్రం	SEA																								
+మకాసర్ సముద్రం	SEA																								
+సులు సముద్రం	SEA																								
+సెలెబెస్ సముద్రం	SEA																								
+ఆండమాన్ సముద్రం	SEA																								
+లాబ్రడార్ సముద్రం	SEA																								
+గుల్ఫ్ ఆఫ్ మెక్సికో	SEA																								
+గుల్ఫ్ ఆఫ్ కాలిఫోర్నియా	SEA																								
+గుల్ఫ్ ఆఫ్ అడెన్	SEA																								
+గుల్ఫ్ ఆఫ్ బెంగాల్	SEA																								
+పర్షియన్ గల్ఫ్	SEA																								
+ఎవరెస్ట్ పర్వతం	MOUNTAIN																								
+కె2 (గాడ్విన్ ఆస్టిన్)	MOUNTAIN																								
+కంచన్ జంగా	MOUNTAIN																								
+లోట్సే	MOUNTAIN																								
+మకాలు	MOUNTAIN																								
+చో ఓయు	MOUNTAIN																								
+ధౌలాగిరి	MOUNTAIN																								
+మనాస్లు	MOUNTAIN																								
+నంగా పర్బతం	MOUNTAIN																								
+అన్నపూర్ణ	MOUNTAIN																								
+హిమాలయ పర్వత శ్రేణి	MOUNTAIN																								
+కారకోరం పర్వత శ్రేణి	MOUNTAIN																								
+హిందూ కుష్ పర్వత శ్రేణి	MOUNTAIN																								
+ఆల్ప్స్ పర్వత శ్రేణి	MOUNTAIN																								
+ఆండిస్ పర్వత శ్రేణి	MOUNTAIN																								
+రాకీ పర్వత శ్రేణి	MOUNTAIN																								
+అప్పలేచియన్ పర్వత శ్రేణి	MOUNTAIN																								
+ఉరాల్ పర్వత శ్రేణి	MOUNTAIN																								
+కాకసస్ పర్వత శ్రేణి	MOUNTAIN																								
+డ్రాకెన్స్ బర్గ్ పర్వత శ్రేణి	MOUNTAIN																								
+అరావళి పర్వత శ్రేణి	MOUNTAIN																								
+వింధ్య పర్వత శ్రేణి	MOUNTAIN																								
+సాత్పురా పర్వత శ్రేణి	MOUNTAIN																								
+పశ్చిమ కనుమలు	MOUNTAIN																								
+తూర్పు కనుమలు	MOUNTAIN																								
+నీలగిరి పర్వతాలు	MOUNTAIN																								
+అనామలై పర్వతాలు	MOUNTAIN																								
+కాంబెర్ పర్వతం	MOUNTAIN																								
+మౌంట్ కిలిమంజారో	MOUNTAIN																								
+మౌంట్ కెనియా	MOUNTAIN																								
+మౌంట్ రైనియర్	MOUNTAIN																								
+మౌంట్ ఫ్యూజి	MOUNTAIN																								
+మౌంట్ ఎట్నా	MOUNTAIN																								
+మౌంట్ వెసువియస్	MOUNTAIN																								
+డెనాలి (మౌంట్ మెక్ కిన్లీ)	MOUNTAIN																								
+ఎల్బ్రస్ పర్వతం	MOUNTAIN																								
+మట్టర్ హార్న్	MOUNTAIN																								
+అమెజాన్ అడవి	FOREST																								
+కాంగో అడవి	FOREST																								
+డార్జిలింగ్ హిమాలయన్ అడవులు	FOREST																								
+సుందర్బన్స్ అడవి	FOREST																								
+బోర్నియో అడవులు	FOREST																								
+న్యూ గినియా అడవులు	FOREST																								
+వెస్ట్రన్ ఘట్స్ అడవులు	FOREST																								
+ఈస్ట్రన్ ఘట్స్ అడవులు	FOREST																								
+సిహిమాలయన్ అడవులు	FOREST																								
+అండమాన్ అడవులు	FOREST																								
+నీలగిరి అడవులు	FOREST																								
+కాజిరంగా అడవి	FOREST																								
+సరిస్కా అడవి	FOREST																								
+రాణ్తంబోర్ అడవి	FOREST																								
+గిర్ అడవి	FOREST																								
+కాన్హా అడవి	FOREST																								
+బాందిపుర్ అడవి	FOREST																								
+పెరియార్ అడవి	FOREST																								
+సిలెంట్ వ్యాలీ అడవి	FOREST																								
+దండేలి అడవి	FOREST																								
+పచ్చమరం అడవులు (మంగ్రోవ్ ఫారెస్ట్స్)	FOREST																								
+బ్లాక్ ఫారెస్ట్ (జర్మనీ)	FOREST																								
+బొరియల్ అడవులు (టైగా)	FOREST																								
+పాసిఫిక్ టెంపరేట్ రెయిన్ ఫారెస్ట్	FOREST																								
+మడగాస్కర్ అడవులు	FOREST																								
+కొలోరాడో ప్లాట్టెయిన్ అడవులు	FOREST																								
+తాజ్ మహల్	TEMPLE																								
+మీనాక్షి అమ్మవారి దేవాలయం	TEMPLE																								
+వెంకటేశ్వర స్వామి దేవాలయం (తిరుపతి)	TEMPLE																								
+అక్షరధామ్ దేవాలయం	TEMPLE																								
+బృహదీశ్వర దేవాలయం (తంజావూరు)	TEMPLE																								
+కొణార్క్ సూర్య దేవాలయం	TEMPLE																								
+ఖజురాహో దేవాలయాలు	TEMPLE																								
+సోమనాథ్ దేవాలయం	TEMPLE																								
+విశ్వనాథ దేవాలయం (వారణాసి)	TEMPLE																								
+జగన్నాథ దేవాలయం (పురీ)	TEMPLE																								
+రామేశ్వరం దేవాలయం	TEMPLE																								
+కాశీ విశ్వనాథ దేవాలయం	TEMPLE																								
+శ్రీ రంగనాథస్వామి దేవాలయం (శ్రీరంగం)	TEMPLE																								
+శివాలయం (పాటన్, నేపాల్)	TEMPLE																								
+పశుపతినాథ్ దేవాలయం	TEMPLE																								
+వేలూరు కాళహస్తి దేవాలయం	TEMPLE																								
+మల్లికార్జున దేవాలయం (శ్రీశైలం)	TEMPLE																								
+వేములవాడ భీమేశ్వర దేవాలయం	TEMPLE																								
+అమరావతి అమరేశ్వర దేవాలయం	TEMPLE																								
+బిమలేశ్వర దేవాలయం	TEMPLE																								
+దాక్షాయణి దేవాలయం (కొట్టారం)	TEMPLE																								
+హజార రామ దేవాలయం (హంపి)	TEMPLE																								
+విఠ్ఠల దేవాలయం (హంపి)	TEMPLE																								
+సిద్ధి వినాయక దేవాలయం (ముంబై)	TEMPLE																								
+శిరడీ సాయి బాబా మందిర్	TEMPLE																								
+గోల్డెన్ టెంపుల్ (అమృతసర్)	TEMPLE																								
+అజంతా గుహలు (బౌద్ధ చైత్యాలయాలు)	TEMPLE																								
+ఎల్లోరా గుహలు (కైలాసనాథ దేవాలయం)	TEMPLE																								
+సాంచి స్తూపం	TEMPLE																								
+మహాబోధి దేవాలయం (బుద్ధ గయ)	TEMPLE																								
+వాట్ ఫ్రా కీరీ (థాయిలాండ్)	TEMPLE																								
+అంగ్కోర్ వాట్ (కంబోడియా)	TEMPLE																								
+బోరోబుదూర్ (ఇండోనేషియా)	TEMPLE																								
+పగోడా ఆఫ్ షావోలిన్ టెంపుల్ (చైనా)	TEMPLE																								
+శ్వేదాగాన్ పగోడా (మయన్మార్)	TEMPLE																								
+ఇస్కాన్ దేవాలయాలు	TEMPLE																								
+జైన మందిరం (రాణాక్ పుర్)	TEMPLE																								
+షాంతినాథ జైన దేవాలయం (ఖజురాహో)	TEMPLE																								
+దిల్వారా జైన దేవాలయాలు (మౌంట్ అబు)	TEMPLE																								
+హర్మిందర్ సాహిబ్ (గోల్డెన్ టెంపుల్)	TEMPLE																								
+మక్కా మసీదు (అల్-హరామ్ మసీదు)	PLACE																								
+మదీనా మసీదు (అల్-నబవీ మసీదు)	PLACE																								
+అల్-అక్సా మసీదు	PLACE																								
+ఫతీమా మసీదు (ఢాకా)	PLACE																								
+జామా మసీదు (దిల్లీ)	PLACE																								
+జామా మసీదు (ఆగ్రా)	PLACE																								
+మీనార్ మసీదు (హైదరాబాద్)	PLACE																								
+చౌమహల్లా మసీదు (హైదరాబాద్)	PLACE																								
+హజ్రత్ బాల్ మసీదు (శ్రీనగర్)	PLACE																								
+మొహినుద్దీన్ మసీదు (అజ్మీర్)	PLACE																								
+బడ్షాహీ మసీదు (లాహోర్)	PLACE																								
+సుల్తాన్ అహ్మద్ మసీదు (బ్లూ మసీదు, ఇస్తాంబుల్)	PLACE																								
+షేక్ జాయెద్ మసీదు (అబుదాబి)	PLACE																								
+ఇమాం మసీదు (ఇస్ఫహాన్)	PLACE																								
+సెయింట్ పీటర్స్ బసిలికా (వాటికన్ సిటీ)	PLACE																								
+హాగియా సోఫియా (ఇస్తాంబుల్)	PLACE																								
+నోట్రే డేమ్ కెథడ్రల్ (పారిస్)	PLACE																								
+కోలోన్ కెథడ్రల్ (జర్మనీ)	PLACE																								
+వెస్ట్ మినిస్టర్ అబ్బే (లండన్)	PLACE																								
+సెయింట్ పాల్స్ కెథడ్రల్ (లండన్)	PLACE																								
+సెయింట్ బసిల్స్ కెథడ్రల్ (మాస్కో)	PLACE																								
+ఫ్లోరెన్స్ కెథడ్రల్ (ఇటలీ)	PLACE																								
+సాగ్రాడా ఫామిలియా (బార్సిలోనా)	PLACE																								
+చెన్నై సెయింట్ థామస్ చర్చి	PLACE																								
+వెల్లోర్ క్రైస్తవ చర్చి	PLACE																								
+ముంబై సెయింట్ థామస్ కెథడ్రల్	PLACE																								
+కొలకత్తా సెయింట్ పాల్స్ కెథడ్రల్	PLACE																								
+గోవా సెయింట్ కాథరీన్ కెథడ్రల్	PLACE																								
+అనకాపల్లి	DISTRICT																								
+అనకాపల్లి	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+పెడన	MANDAL																								
+రామచంద్రపురం	MANDAL																								
+శాంతిపురం	MANDAL																								
+అత్తిలి	MANDAL																								
+ఉప్పలపాడు	MANDAL																								
+పెనుగంచిప్రోలు	MANDAL																								
+కోట్ల	MANDAL																								
+నల్లజర్ల	MANDAL																								
+దేవుపల్లి	MANDAL																								
+కె. ఆర్. పురం	MANDAL																								
+పెదబయలు	MANDAL																								
+ముదినేపల్లి	MANDAL																								
+పులివెందుల	MANDAL																								
+బొమ్మలపాలెం	MANDAL																								
+చీడికాడ	MANDAL																								
+పామురు	MANDAL																								
+అనంతపురం	DISTRICT																								
+అనంతపురం రూరల్	MANDAL																								
+అనంతపురం అర్బన్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+పెద్దపాడు	MANDAL																								
+రామాపురం	MANDAL																								
+కొయిలకుంట్ల	MANDAL																								
+పులిపాడు	MANDAL																								
+బొమ్మలపాలెం	MANDAL																								
+పెద్దాపురం	MANDAL																								
+మువ్వలపల్లి	MANDAL																								
+హిరణ్య కాశిపు పురం	MANDAL																								
+పెదవీరభద్రాపురం	MANDAL																								
+ముసునూరు	MANDAL																								
+మామిడికుదురు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+బొమ్మలగుంట	MANDAL																								
+కోటపాడు	MANDAL																								
+నాదెండ్ల	MANDAL																								
+ముదినేపల్లి	MANDAL																								
+రాయవోలు	MANDAL																								
+పిల్లిగుంట	MANDAL																								
+పాలకొల్లు	MANDAL																								
+మాచెర్ల	MANDAL																								
+వెంకటాగిరి	MANDAL																								
+తాడేపల్లిగూడెం	MANDAL																								
+పాములపాడు	MANDAL																								
+బోయినపల్లి	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+పాలకొండ	MANDAL																								
+అనంతగిరి	MANDAL																								
+కొరుకు	MANDAL																								
+అల్లూరి సీతారామ రాజు	DISTRICT																								
+పాడేరు	MANDAL																								
+రాజావొమ్మంగి	MANDAL																								
+దేవిపట్నం	MANDAL																								
+ముమ్మిడివరం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+రాంపురం	MANDAL																								
+అంబాజీపేట	MANDAL																								
+అర్రావుపేట	MANDAL																								
+చింతపల్లి	MANDAL																								
+ఎర్రాపల్లి	MANDAL																								
+ఉప్పల	MANDAL																								
+వెంకటాచలం	MANDAL																								
+చింతూరు	MANDAL																								
+గోకవరం	MANDAL																								
+కొట్టూరు	MANDAL																								
+మాడుగుల	MANDAL																								
+నారాయణపురం	MANDAL																								
+పెదబయలు	MANDAL																								
+పెద్దాపురం	MANDAL																								
+సంతకవిటి	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+వియ్యాల	MANDAL																								
+అమలాపురం	DISTRICT																								
+అమలాపురం	MANDAL																								
+రాజవొమ్మంగి	MANDAL																								
+ముమ్మిడివరం	MANDAL																								
+పి.గన్నవరం	MANDAL																								
+అలంపూర్	MANDAL																								
+బొమ్మలగుంట	MANDAL																								
+చింతపల్లి	MANDAL																								
+ఎర్రాపల్లి	MANDAL																								
+ఉప్పల	MANDAL																								
+వెంకటాచలం	MANDAL																								
+రాంపురం	MANDAL																								
+అంబాజీపేట	MANDAL																								
+అర్రావుపేట	MANDAL																								
+చింతూరు	MANDAL																								
+గోకవరం	MANDAL																								
+కొట్టూరు	MANDAL																								
+మాడుగుల	MANDAL																								
+సంతకవిటి	MANDAL																								
+బాపట్ల	DISTRICT																								
+బాపట్ల	MANDAL																								
+కొత్తపేట	MANDAL																								
+నిజాంపట్నం	MANDAL																								
+వేమూరు	MANDAL																								
+నరసరావుపేట	MANDAL																								
+పిడుగురాళ్ల	MANDAL																								
+కరవాడ	MANDAL																								
+కొల్లిపాలెం	MANDAL																								
+మాచవరం	MANDAL																								
+వినుకొండ	MANDAL																								
+పార్వతీపురం	MANDAL																								
+పులిగడ్డ	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+పులికట్	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+కడప	DISTRICT																								
+కడప	MANDAL																								
+పులివెందుల	MANDAL																								
+బద్వేలు	MANDAL																								
+రాజంపేట	MANDAL																								
+కమలాపురం	MANDAL																								
+చొక్కాల	MANDAL																								
+మదనపల్లె	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+మువ్వలపల్లి	MANDAL																								
+పులికట్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+బాపట్ల	MANDAL																								
+కొల్లిపాలెం	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+ములకలపల్లి	MANDAL																								
+చింతలపూడి	MANDAL																								
+మునగపాక	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+కాకినాడ	DISTRICT																								
+కాకినాడ	MANDAL																								
+పమిడి	MANDAL																								
+పెదపాడు	MANDAL																								
+రావులపాలెం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+కొవ్వూరు	MANDAL																								
+కొల్లేరు	MANDAL																								
+ఆమలాపురం	MANDAL																								
+రాజానగరం	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+నందిగామ	MANDAL																								
+ముసునూరు	MANDAL																								
+పెదకాకాని	MANDAL																								
+చిలకలూరిపేట	MANDAL																								
+సత్తెనపల్లి	MANDAL																								
+వినుకొండ	MANDAL																								
+నరసరావుపేట	MANDAL																								
+పిడుగురాళ్ల	MANDAL																								
+కరవాడ	MANDAL																								
+కృష్ణా జిల్లా	MANDAL																								
+ఈస్ట్ గోదావరి	DISTRICT																								
+రాజమండ్రి	MANDAL																								
+కొవ్వూరు	MANDAL																								
+అనపర్తి	MANDAL																								
+రావులపాలెం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+కొల్లేరు	MANDAL																								
+ఆమలాపురం	MANDAL																								
+రాజానగరం	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+నందిగామ	MANDAL																								
+ముసునూరు	MANDAL																								
+పమిడి	MANDAL																								
+పెదపాడు	MANDAL																								
+కోటనందిగామ	MANDAL																								
+రామచంద్రపురం	MANDAL																								
+శాంతిపురం	MANDAL																								
+అత్తిలి	MANDAL																								
+ఉప్పలపాడు	MANDAL																								
+పెనుగంచిప్రోలు	MANDAL																								
+కోట్ల	MANDAL																								
+నల్లజర్ల	MANDAL																								
+దేవుపల్లి	MANDAL																								
+కె. ఆర్. పురం	MANDAL																								
+పెదబయలు	MANDAL																								
+ముదినేపల్లి	MANDAL																								
+పులివెందుల	MANDAL																								
+గుంటూరు	DISTRICT																								
+గుంటూరు	MANDAL																								
+తెనాలి	MANDAL																								
+పెదకాకాని	MANDAL																								
+చిలకలూరిపేట	MANDAL																								
+సత్తెనపల్లి	MANDAL																								
+వినుకొండ	MANDAL																								
+నరసరావుపేట	MANDAL																								
+పిడుగురాళ్ల	MANDAL																								
+కరవాడ	MANDAL																								
+మాచవరం	MANDAL																								
+పార్వతీపురం	MANDAL																								
+పులిగడ్డ	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+పులికట్	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+కృష్ణా	DISTRICT																								
+గుడివాడ	MANDAL																								
+మచిలీపట్నం	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+నందిగామ	MANDAL																								
+ముసునూరు	MANDAL																								
+ఆమలాపురం	MANDAL																								
+రాజానగరం	MANDAL																								
+కొవ్వూరు	MANDAL																								
+కొల్లేరు	MANDAL																								
+పమిడి	MANDAL																								
+పెదపాడు	MANDAL																								
+రావులపాలెం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+కోటనందిగామ	MANDAL																								
+మైనావరం	MANDAL																								
+పెనుగంచిప్రోలు	MANDAL																								
+కోట్ల	MANDAL																								
+నల్లజర్ల	MANDAL																								
+దేవుపల్లి	MANDAL																								
+కె. ఆర్. పురం	MANDAL																								
+పెదబయలు	MANDAL																								
+ముదినేపల్లి	MANDAL																								
+పులివెందుల	MANDAL																								
+బొమ్మలపాలెం	MANDAL																								
+నెల్లూరు	DISTRICT																								
+నెల్లూరు	MANDAL																								
+కావలి	MANDAL																								
+అత్తిలి	MANDAL																								
+సర్వేపల్లి	MANDAL																								
+కొడురు	MANDAL																								
+సీతానగరం	MANDAL																								
+పులికట్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+బాపట్ల	MANDAL																								
+కొల్లిపాలెం	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+ములకలపల్లి	MANDAL																								
+చింతలపూడి	MANDAL																								
+మునగపాక	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+కొయిలకుంట్ల	MANDAL																								
+పశ్చిమ గోదావరి	DISTRICT																								
+ఏలూరు	MANDAL																								
+పాలకొల్లు	MANDAL																								
+నరసాపురం	MANDAL																								
+భీమవరం	MANDAL																								
+తణుకు	MANDAL																								
+పెనుగొండ	MANDAL																								
+చింతలపూడి	MANDAL																								
+పెదవీరభద్రాపురం	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+పల్నాడు	DISTRICT																								
+చిలకలూరిపేట	MANDAL																								
+సత్తెనపల్లి	MANDAL																								
+వినుకొండ	MANDAL																								
+నరసరావుపేట	MANDAL																								
+పిడుగురాళ్ల	MANDAL																								
+కరవాడ	MANDAL																								
+మాచవరం	MANDAL																								
+పార్వతీపురం	MANDAL																								
+పులిగడ్డ	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+పులికట్	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+బాపట్ల	MANDAL																								
+కొల్లిపాలెం	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+ప్రకాశం	DISTRICT																								
+ఒంగోలు	MANDAL																								
+కందుకూరు	MANDAL																								
+మార్కాపురం	MANDAL																								
+కొండపి	MANDAL																								
+పెర్లి	MANDAL																								
+యర్రగొండపాలెం	MANDAL																								
+తాళ్లపల్లి	MANDAL																								
+పులివర్రు	MANDAL																								
+సంతనూతలపాడు	MANDAL																								
+పెదబయలు	MANDAL																								
+పులివెందుల	MANDAL																								
+బొమ్మలపాలెం	MANDAL																								
+చీడికాడ	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+ములకలపల్లి	MANDAL																								
+చింతలపూడి	MANDAL																								
+మునగపాక	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+కొయిలకుంట్ల	MANDAL																								
+పులికట్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+బాపట్ల	MANDAL																								
+కొల్లిపాలెం	MANDAL																								
+శ్రీకాకుళం	DISTRICT																								
+శ్రీకాకుళం	MANDAL																								
+పాలాస	MANDAL																								
+సత్యవాడ	MANDAL																								
+కోటబొమ్మాలి	MANDAL																								
+హిరండల	MANDAL																								
+పురుషోత్తపురం	MANDAL																								
+పుట్టిపల్లి	MANDAL																								
+మెలియాపుత్తి	MANDAL																								
+అముదాలవలస	MANDAL																								
+నారాయణపురం	MANDAL																								
+గోపాలపురం	MANDAL																								
+లావెడి	MANDAL																								
+బొమ్మారం	MANDAL																								
+ఎటపాక	MANDAL																								
+మారికవలస	MANDAL																								
+కొణిసర్ల	MANDAL																								
+జలుమూరు	MANDAL																								
+పెదభట్లపల్లి	MANDAL																								
+చింతామనేని పల్లి	MANDAL																								
+నందిగామ	MANDAL																								
+రాజాం	MANDAL																								
+సరుపాలెం	MANDAL																								
+కొమరగిరి	MANDAL																								
+పెదపాడు	MANDAL																								
+కొత్తపల్లి	MANDAL																								
+రాజుపాలెం	MANDAL																								
+ఉమ్మాల	MANDAL																								
+పెదశిరిడిపి	MANDAL																								
+చింతపల్లి	MANDAL																								
+కోట	MANDAL																								
+తిరుపతి	DISTRICT																								
+తిరుపతి	MANDAL																								
+రేపల్లి	MANDAL																								
+కురబలకోట	MANDAL																								
+వాల్మీకినగరం	MANDAL																								
+పుత్తూరు	MANDAL																								
+పుంగనూరు	MANDAL																								
+పాలమనేరు	MANDAL																								
+చంద్రగిరి	MANDAL																								
+పెనుమాకుల	MANDAL																								
+కొవ్వూరు	MANDAL																								
+పులివెందుల	MANDAL																								
+బొమ్మలపాలెం	MANDAL																								
+చీడికాడ	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+ములకలపల్లి	MANDAL																								
+చింతలపూడి	MANDAL																								
+మునగపాక	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+కొయిలకుంట్ల	MANDAL																								
+పులికట్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+విజయవాడ	DISTRICT																								
+విజయవాడ అర్బన్	MANDAL																								
+విజయవాడ రూరల్	MANDAL																								
+గుడివాడ	MANDAL																								
+మచిలీపట్నం	MANDAL																								
+పెదనందిపాడు	MANDAL																								
+నందిగామ	MANDAL																								
+ముసునూరు	MANDAL																								
+ఆమలాపురం	MANDAL																								
+రాజానగరం	MANDAL																								
+కొవ్వూరు	MANDAL																								
+కొల్లేరు	MANDAL																								
+పమిడి	MANDAL																								
+పెదపాడు	MANDAL																								
+రావులపాలెం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+కోటనందిగామ	MANDAL																								
+మైనావరం	MANDAL																								
+పెనుగంచిప్రోలు	MANDAL																								
+కోట్ల	MANDAL																								
+విజయనగరం	DISTRICT																								
+విజయనగరం	MANDAL																								
+బొబ్బిలి	MANDAL																								
+చింతపల్లి	MANDAL																								
+రామభద్రపురం	MANDAL																								
+పోచమ్మపాలెం	MANDAL																								
+గంజం	MANDAL																								
+సాలూరు	MANDAL																								
+కోట	MANDAL																								
+జమ్మలమడుగు	MANDAL																								
+పాడేరు	MANDAL																								
+రాజావొమ్మంగి	MANDAL																								
+దేవిపట్నం	MANDAL																								
+ముమ్మిడివరం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+రాంపురం	MANDAL																								
+అంబాజీపేట	MANDAL																								
+అర్రావుపేట	MANDAL																								
+ఎర్రాపల్లి	MANDAL																								
+ఉప్పల	MANDAL																								
+వెంకటాచలం	MANDAL																								
+చింతూరు	MANDAL																								
+గోకవరం	MANDAL																								
+కొట్టూరు	MANDAL																								
+మాడుగుల	MANDAL																								
+నారాయణపురం	MANDAL																								
+పెదబయలు	MANDAL																								
+విశాఖపట్నం	DISTRICT																								
+విశాఖపట్నం అర్బన్	MANDAL																								
+విశాఖపట్నం రూరల్	MANDAL																								
+పాడేరు	MANDAL																								
+రాజావొమ్మంగి	MANDAL																								
+దేవిపట్నం	MANDAL																								
+ముమ్మిడివరం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+రాంపురం	MANDAL																								
+అంబాజీపేట	MANDAL																								
+అర్రావుపేట	MANDAL																								
+చింతపల్లి	MANDAL																								
+ఎర్రాపల్లి	MANDAL																								
+ఉప్పల	MANDAL																								
+వెంకటాచలం	MANDAL																								
+చింతూరు	MANDAL																								
+గోకవరం	MANDAL																								
+కొట్టూరు	MANDAL																								
+మాడుగుల	MANDAL																								
+నారాయణపురం	MANDAL																								
+పెదబయలు	MANDAL																								
+పెద్దాపురం	MANDAL																								
+సంతకవిటి	MANDAL																								
+తుమ్మలపల్లి	MANDAL																								
+వియ్యాల	MANDAL																								
+కొరుకు	MANDAL																								
+అనంతగిరి	MANDAL																								
+పార్వతీపురం మన్యం	DISTRICT																								
+పార్వతీపురం	MANDAL																								
+సాలూరు	MANDAL																								
+కోట	MANDAL																								
+జమ్మలమడుగు	MANDAL																								
+బొబ్బిలి	MANDAL																								
+చింతపల్లి	MANDAL																								
+రామభద్రపురం	MANDAL																								
+పోచమ్మపాలెం	MANDAL																								
+గంజం	MANDAL																								
+పాడేరు	MANDAL																								
+రాజావొమ్మంగి	MANDAL																								
+దేవిపట్నం	MANDAL																								
+ముమ్మిడివరం	MANDAL																								
+జగ్గంపేట	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+రాంపురం	MANDAL																								
+అంబాజీపేట	MANDAL																								
+అర్రావుపేట	MANDAL																								
+నంద్యాల	DISTRICT																								
+నంద్యాల	MANDAL																								
+అల్లగడ్డ	MANDAL																								
+బనగానపల్లె	MANDAL																								
+బొమ్మలగుంట	MANDAL																								
+చింతకమల	MANDAL																								
+చుంచుల	MANDAL																								
+దొన్నికోట	MANDAL																								
+గోపవరం	MANDAL																								
+కమలాపురం	MANDAL																								
+కొండమల్లి	MANDAL																								
+కొట్టూరు	MANDAL																								
+మార్లపల్లి	MANDAL																								
+ముదుముల	MANDAL																								
+నందికోట్ల	MANDAL																								
+ఓబులవారిపల్లి	MANDAL																								
+పులివెందుల	MANDAL																								
+పుల్లంపేట	MANDAL																								
+రామచంద్రపురం	MANDAL																								
+సంగం	MANDAL																								
+సాయి కల	MANDAL																								
+సిరివెల	MANDAL																								
+తాడిపత్రి	MANDAL																								
+తోగుటి	MANDAL																								
+వేలాయల	MANDAL																								
+వెలుగోడు	MANDAL																								
+యాలమంచిలి	MANDAL																								
+యెమిగనూరు	MANDAL																								
+యెర్రగొండపాలెం	MANDAL																								
+జువ్విగుంట	MANDAL																								
+అన్నమయ్య	DISTRICT																								
+రాజంపేట	MANDAL																								
+కమలాపురం	MANDAL																								
+చొక్కాల	MANDAL																								
+మదనపల్లె	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+మువ్వలపల్లి	MANDAL																								
+పులికట్	MANDAL																								
+తాడిపత్రి	MANDAL																								
+మార్షల్ పాలెం	MANDAL																								
+పామురు	MANDAL																								
+కలికిరి	MANDAL																								
+రాపూరు	MANDAL																								
+అకివీడు	MANDAL																								
+కొల్లిపాక	MANDAL																								
+మాగువాడ	MANDAL																								
+కొండపాక	MANDAL																								
+దేవరకొండ	MANDAL																								
+నరసాపురం	MANDAL																								
+కాట్రెగుంట	MANDAL																								
+బుచ్చయ్యపేట	MANDAL																								
+ములకలపల్లి	MANDAL																								
+చింతలపూడి	MANDAL																								
+మునగపాక	MANDAL																								
+పెనుమాక	MANDAL																								
+నారాయణపురం	MANDAL																								
+కొయిలకుంట్ల	MANDAL																								
+సిద్ధవటం	MANDAL																								
+ఎలూరు	DISTRICT																								
+ఎలూరు	MANDAL																								
+పాలకొల్లు	MANDAL																								
+నరసాపురం	MANDAL																								
+భీమవరం	MANDAL																								
+తణుకు	MANDAL																								
+పెనుగొండ	MANDAL																								
+చింతలపూడి	MANDAL																								
+పెదవీరభద్రాపురం	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+పొలవరం	MANDAL																								
+ఉయ్యూరు	MANDAL																								
+కొమ్మవరం	MANDAL																								
+కొణిదెన	MANDAL																								
+కొయ్యలగూడెం	MANDAL																								
+ముంచింగిపుత్తి	MANDAL																								
+నిడమాడు	MANDAL																								
+పెదపాడు	MANDAL																								
+పోలవరం	MANDAL																								
+రావులపాలెం	MANDAL																								
+సంప్రాల	MANDAL																								
+తాడేపల్లిగూడెం	MANDAL																								
+తెన్నేరు	MANDAL																								
+వెంకటాచలం	MANDAL																								
+వేలంచెర్ల	MANDAL																								
+యెర్రామల్లి	MANDAL																								
+జంగారెడ్డిగూడెం	MANDAL																								
+కాకినాడ	MANDAL																								
+ఆమలాపురం	MANDAL																								
+మోచర్ల	VILLAGE																								
+అలంపూర్	VILLAGE																								
+నాగార్జున కొండ	VILLAGE																								
+ఘంటసాల	VILLAGE																								
+బొల్లాపురం	VILLAGE																								
+వేదాద్రి	VILLAGE																								
+అవనిగడ్డ	VILLAGE																								
+పులికట్	VILLAGE																								
+మాచవరం	VILLAGE																								
+పులివెందుల	VILLAGE																								
+బొమ్మలపాలెం	VILLAGE																								
+చీడికాడ	VILLAGE																								
+పామురు	VILLAGE																								
+కలికిరి	VILLAGE																								
+రాపూరు	VILLAGE																								
+అకివీడు	VILLAGE																								
+బాపట్ల	VILLAGE																								
+కొల్లిపాలెం	VILLAGE																								
+మాగువాడ	VILLAGE																								
+కొండపాక	VILLAGE																								
+దేవరకొండ	VILLAGE																								
+నరసాపురం	VILLAGE																								
+కాట్రెగుంట	VILLAGE																								
+బుచ్చయ్యపేట	VILLAGE																								
+ములకలపల్లి	VILLAGE																								
+చింతలపూడి	VILLAGE																								
+మునగపాక	VILLAGE																								
+పెనుమాక	VILLAGE																								
+నారాయణపురం	VILLAGE																								
+కొయిలకుంట్ల	VILLAGE																								
+పులిపాడు	VILLAGE																								
+పెద్దాపురం	VILLAGE																								
+మువ్వలపల్లి	VILLAGE																								
+హిరణ్య కాశిపు పురం	VILLAGE																								
+పెదవీరభద్రాపురం	VILLAGE																								
+ముసునూరు	VILLAGE																								
+మామిడికుదురు	VILLAGE																								
+కొల్లిపాక	VILLAGE																								
+బొమ్మలగుంట	VILLAGE																								
+కోటపాడు	VILLAGE																								
+నాదెండ్ల	VILLAGE																								
+రాయవోలు	VILLAGE																								
+పిల్లిగుంట	VILLAGE																								
+పాలకొల్లు	VILLAGE																								
+మాచెర్ల	VILLAGE																								
+వెంకటాగిరి	VILLAGE																								
+తాడేపల్లిగూడెం	VILLAGE																								
+జంగారెడ్డిగూడెం	VILLAGE																								
+వెంకటాచలం	VILLAGE																								
+కురుపాం	VILLAGE																								
+వియ్యాల	VILLAGE																								
+పెండ్లిమర్రి	VILLAGE																								
+మార్షల్ పాలెం	VILLAGE																								
+పెనుగంచిప్రోలు	VILLAGE																								
+కోట్ల	VILLAGE																								
+గోపాలపురం	VILLAGE																								
+పాములపాడు	VILLAGE																								
+బోయినపల్లి	VILLAGE																								
+పాలకొండ	VILLAGE																								
+అనంతగిరి	VILLAGE																								
+కొరుకు	VILLAGE																								
+సుంకరాని	VILLAGE																								
+మేడిచెర్ల	VILLAGE																								
+పాపి కొండలు	VILLAGE																								
+నల్లమల	VILLAGE																								
+అరకు	VILLAGE																								
+లంబసాగరం	VILLAGE																								
+మాధవిలోయ	VILLAGE																								
+హర్షిల్	VILLAGE																								
+కొత్తపల్లి	VILLAGE																								
+రాజుపాలెం	VILLAGE																								
+కొల్లేరు	VILLAGE																								
+ఉప్పలపల్లి	VILLAGE																								
+ధవళేశ్వరం	VILLAGE																								
+పోలవరం	VILLAGE																								
+సమనాపల్లి	VILLAGE																								
+పొట్లపాడు	VILLAGE																								
+దర్శి	VILLAGE																								
+చిరాల	VILLAGE																								
+యర్రగొండపాలెం	VILLAGE																								
+పెర్లి	VILLAGE																								
+కందుకూరు	VILLAGE																								
+మార్కాపురం	VILLAGE																								
+ఒంగోలు	VILLAGE																								
+పుత్తూరు	VILLAGE																								
+పుంగనూరు	VILLAGE																								
+చంద్రగిరి	VILLAGE																								
+రేపల్లి	VILLAGE																								
+కురబలకోట	VILLAGE																								
+వాల్మీకినగరం	VILLAGE																								
+పెనుమాకుల	VILLAGE																								
+ముదుముల	VILLAGE																								
+తిరువూరు	VILLAGE																								
+కొండమల్లి	VILLAGE																								
+పులియల	VILLAGE																								
+సరస్వతీపురం	VILLAGE																								
+యెర్రముఖల	VILLAGE																								
+పొన్నూరు	VILLAGE																								
+ఆదిమాపురం	VILLAGE																								
+కుప్పం	VILLAGE																								
+రామకుప్పం	VILLAGE																								
+బుచ్చినాయుడుపల్లి	VILLAGE																								
+గూడూరు	VILLAGE																								
+విశ్వనాథపురం	VILLAGE																								
+పుల్లంపేట	VILLAGE																								
+చింతమండు	VILLAGE																								
+కొట్లమడుగు	VILLAGE																								
+మద్దిపల్లి	VILLAGE																								
+అల్లగడ్డ	VILLAGE																								
+బనగానపల్లె	VILLAGE																								
+చింతకమల	VILLAGE																								
+చుంచుల	VILLAGE																								
+దొన్నికోట	VILLAGE																								
+గోపవరం	VILLAGE																								
+మార్లపల్లి	VILLAGE																								
+నందికోట్ల	VILLAGE																								
+ఓబులవారిపల్లి	VILLAGE																								
+సంగం	VILLAGE																								
+సాయి కల	VILLAGE																								
+సిరివెల	VILLAGE																								
+తోగుటి	VILLAGE																								
+వేలాయల	VILLAGE																								
+వెలుగోడు	VILLAGE																								
+యాలమంచిలి	VILLAGE																								
+యెమిగనూరు	VILLAGE																								
+జువ్విగుంట	VILLAGE																								
+సిద్ధవటం	VILLAGE																								
+పొలవరం	VILLAGE																								
+ఉయ్యూరు	VILLAGE																								
+కొమ్మవరం	VILLAGE																								
+కొణిదెన	VILLAGE																								
+ముంచింగిపుత్తి	VILLAGE																								
+నిడమాడు	VILLAGE																								
+సంప్రాల	VILLAGE																								
+తెన్నేరు	VILLAGE																								
+వేలంచెర్ల	VILLAGE																								
+యెర్రామల్లి	VILLAGE																								
+ద్రాక్షారామం	TEMPLE																								
+అమలాపురం లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కోటిలింగేశ్వర స్వామి ఆలయం (సమలకోట)	TEMPLE																								
+అంతర్వేది లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+పాలకుర్తి రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+కొప్పోతు కామాఖ్య పీఠం	TEMPLE																								
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE																								
+ముక్కోటి ఏకాదశ రుద్ర స్వామి ఆలయం	TEMPLE																								
+సామర్లకోట శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కోటిపల్లి శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+పాడేరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+అప్పానమండపం శ్రీ రాఘవేంద్ర స్వామి ఆలయం	TEMPLE																								
+మామిడికుదురు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కొయ్యలగూడెం శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పెదపాడు శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+రాజమండ్రి శ్రీ కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE																								
+కొవ్వూరు శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+పెద్దాపురం శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పామురు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+రావులపాలెం శ్రీ శివ స్వామి ఆలయం	TEMPLE																								
+జగ్గంపేట శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+తుమ్మలపల్లి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కొల్లేరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+ఆమలాపురం శ్రీ సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+రాజానగరం శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+నందిగామ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+ముసునూరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పమిడి శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కాకినాడ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కాకినాడ శ్రీ కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE																								
+అన్నవరం శ్రీ సత్యనారాయణ స్వామి ఆలయం	TEMPLE																								
+తిరుమల శ్రీ వేంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+అన్నవరం శ్రీ సత్యనారాయణ స్వామి ఆలయం	TEMPLE																								
+సింహాచలం వరాహ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+ద్రాక్షారామ బృహదీశ్వరాలయం	TEMPLE																								
+అమరావతి అమరేశ్వర స్వామి ఆలయం	TEMPLE																								
+కొల్లిపాక శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+సామర్లకోట శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE																								
+అంతర్వేది లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+పిఠాపురం కామాఖ్య పీఠం	TEMPLE																								
+కొప్పోతు కామాఖ్య పీఠం	TEMPLE																								
+వేదాద్రి నరసింహ స్వామి ఆలయం	TEMPLE																								
+మోచర్ల శ్రీ రామాలయం	TEMPLE																								
+చీడికాడ శ్రీ భోగ నరసింహ స్వామి ఆలయం	TEMPLE																								
+పాలకొల్లు సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+మాచెర్ల సోమేశ్వర స్వామి ఆలయం	TEMPLE																								
+ఘంటసాల బౌద్ధ స్థూపం	HISTORICAL_SITE																								
+బొల్లాపురం శిథిలాలు	HISTORICAL_SITE																								
+అవనిగడ్డ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పులివెందుల శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+బాపట్ల లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+కాట్రెగుంట శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+ఏలూరు రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+కాకినాడ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+రాజమండ్రి కాళహస్తీశ్వర స్వామి ఆలయం	TEMPLE																								
+ఒంగోలు శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+చంద్రగిరి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పుత్తూరు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+నంద్యాల శ్రీ యోగ నరసింహ స్వామి ఆలయం	TEMPLE																								
+అన్నమయ్య జిల్లా శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కడప శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+విజయవాడ కనకదుర్గ ఆలయం	TEMPLE																								
+మంగళగిరి పాండురంగ స్వామి ఆలయం	TEMPLE																								
+శ్రీకాకుళం శ్రీ సూర్య నారాయణ స్వామి ఆలయం	TEMPLE																								
+అరకు శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+telagan temples list like this format యాదాద్రి లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+భద్రాచలం శ్రీ రామాలయం	TEMPLE																								
+మేడిపల్లి శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+అలంపూర్ నవ బ్రహ్మ ఆలయాలు	TEMPLE																								
+కోటి లింగాల ఆలయం (గడిచర్ల)	TEMPLE																								
+శ్రీ సాయిబాబా ఆలయం (పార్థసారథి నగర్, హైదరాబాద్)	TEMPLE																								
+చిలుకూరు బాలాజి ఆలయం	TEMPLE																								
+ఉజ్జయిని మహంకాళి ఆలయం (సికింద్రాబాద్)	TEMPLE																								
+ఆలంపూర్ జోగేశ్వర స్వామి ఆలయం	TEMPLE																								
+పాలమూరు శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+నర్సాపూర్ శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+వికారాబాద్ శ్రీ లక్ష్మీ నరసింహ స్వామి ఆలయం	TEMPLE																								
+శంకర్ పల్లి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+పాల్వంచ శ్రీ రామలింగేశ్వర స్వామి ఆలయం	TEMPLE																								
+మంచిర్యాల శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+కామారెడ్డి శ్రీ వెంకటేశ్వర స్వామి ఆలయం	TEMPLE																								
+నిజామాబాద్ శ్రీ వెంకటేశ్వర స్వామి ఆలయం																									
+ఆదిలాబాద్ జిల్లా:																									
+ఆదిలాబాద్	MANDAL																								
+బజార్హత్నూర్	MANDAL																								
+బేలా	MANDAL																								
+బోథ్	MANDAL																								
+దిలావర్పూర్	MANDAL																								
+గడిగూడ	MANDAL																								
+గూడిహత్నూర్	MANDAL																								
+ఇచోడ	MANDAL																								
+ఇంద్రవెల్లి	MANDAL																								
+జైనాద్	MANDAL																								
+జైపూర్	MANDAL																								
+కథ్లాపూర్	MANDAL																								
+కుంటాల	MANDAL																								
+నర్నూర్	MANDAL																								
+రేణuka	MANDAL																								
+ఉత్నూర్	MANDAL																								
+కొమరంభీం జిల్లా:																									
+అసిఫాబాద్	MANDAL																								
+బేజ్జూర్	MANDAL																								
+దౌలతాబాద్	MANDAL																								
+కాగజ్నగర్	MANDAL																								
+కరీంనగర్	MANDAL																								
+కేరూర్	MANDAL																								
+నసర్యల్	MANDAL																								
+రామాదుగ్	MANDAL																								
+రేబెల్లి	MANDAL																								
+తాడ్వాయ్	MANDAL																								
+వైరా	MANDAL																								
+నిర్మల్ జిల్లా:																									
+దేవెర్పల్లి	MANDAL																								
+ధన్వాడ	MANDAL																								
+కదం	MANDAL																								
+కుంటala	MANDAL																								
+లక్ష్మీపూర్	MANDAL																								
+మామడ	MANDAL																								
+ముదిగొండ	MANDAL																								
+నిర్మల్	MANDAL																								
+సారంగాపూర్	MANDAL																								
+భద్రాద్రి కొత్తగూడెం జిల్లా:																									
+అశ్వారావుపేట	MANDAL																								
+భద్రాచలం	MANDAL																								
+చేర్లa	MANDAL																								
+దుమ్ముగూడెం	MANDAL																								
+గూడేముల్లa	MANDAL																								
+కుర్నూల్	MANDAL																								
+నెల్లిపాకa	MANDAL																								
+పినపాకa	MANDAL																								
+తెకులాపల్లి	MANDAL																								
+హన్మకొండ జిల్లా:																									
+హన్మకొండ	MANDAL																								
+కమేపల్లి	MANDAL																								
+మదీరa	MANDAL																								
+శయంపేట	MANDAL																								
+జయశంకర్ భూపాలపల్లి జిల్లా:																									
+భూపాలపల్లి	MANDAL																								
+చందూర్తి	MANDAL																								
+గార్లa	MANDAL																								
+జULURU	MANDAL																								
+కొతగూడెం	MANDAL																								
+మహadevపూర్	MANDAL																								
+ములుగు	MANDAL																								
+పాల్వంచa	MANDAL																								
+రేగొండa	MANDAL																								
+తెకమల్లి	MANDAL																								
+వేనకపల్లి	MANDAL																								
+జోగులంబ గద్వాల జిల్లా:																									
+ఆల్లాపూర్	MANDAL																								
+జోగులంబ	MANDAL																								
+గద్వాల	MANDAL																								
+లింగాల	MANDAL																								
+వనపర్తి జిల్లా:																									
+వనపర్తి	MANDAL																								
+కేశమపల్లి	MANDAL																								
+నawabpet	MANDAL																								
+పెబ్బైర్	MANDAL																								
+నాగర్కర్నూల్ జిల్లా:																									
+నాగర్కర్నూల్	MANDAL																								
+ఉప్పununun	MANDAL																								
+వంగూరు	MANDAL																								
+వికారాబాద్ జిల్లా:																									
+వికారాబాద్	MANDAL																								
+దౌలతాబాద్	MANDAL																								
+పుదూర్	MANDAL																								
+తాండూరు	MANDAL																								
+మహబూబ్నగర్ జిల్లా:																									
+మహబూబ్నగర్	MANDAL																								
+కోదాంగల్	MANDAL																								
+మదనపూర్	MANDAL																								
+నల్గొండ జిల్లా:																									
+నల్గొండ	MANDAL																								
+చోటుప్పల్లి	MANDAL																								
+కాటంగూర్	MANDAL																								
+నకrekal	MANDAL																								
+నూథన్కల్	MANDAL																								
+సూర్యాపేట జిల్లా:																									
+సూర్యాపేట	MANDAL																								
+కోడాడ్	MANDAL																								
+నేరెడుగొండ	MANDAL																								
+యాదాద్రి భువనగిరి జిల్లా:																									
+యాదాద్రి	MANDAL																								
+భువనగిరి	MANDAL																								
+చoutuppal	MANDAL																								
+మothe	MANDAL																								
+రామannapeta	MANDAL																								
+మెదక్ జిల్లా:																									
+మెదక్	MANDAL																								
+రామాయంపేట	MANDAL																								
+సంగారెడ్డి	MANDAL																								
+సిద్ధిపేట జిల్లా:																									
+సిద్ధిపేట	MANDAL																								
+చిన్న కోడూర్	MANDAL																								
+గజ్వేల్	MANDAL																								
+హుజూరాబాద్	MANDAL																								
+జగదేవ్పూర్	MANDAL																								
+కొండపాక్	MANDAL																								
+కొండూరు	MANDAL																								
+మిర్యాలగూడ	MANDAL																								
+నర్సాపూర్	MANDAL																								
+పెద్దపల్లి	MANDAL																								
+రాజన్నపేట	MANDAL																								
+రామగుండం	MANDAL																								
+సిద్ధిపేట	MANDAL																								
+తొరూరు	MANDAL																								
+హైదరాబాద్ జిల్లా:																									
+హైదరాబాద్	MANDAL																								
+ఆమీర్పేట	MANDAL																								
+బహాదూర్పూరా	MANDAL																								
+బంజారా హిల్స్	MANDAL																								
+రంగారెడ్డి జిల్లా:																									
+రంగారెడ్డి	MANDAL																								
+ఇబ్రహింపట్నం	MANDAL																								
+కుకat్పల్లి	MANDAL																								
+మన్చాల్	MANDAL																								
+పరిగి	MANDAL																								
+శంషీరాబాద్	MANDAL																								
+తాండూరు	MANDAL																								
+వికారాబాద్	MANDAL																								
+మెద్చల్ మల్కాజ్గిరి జిల్లా:																									
+మెద్చల్	MANDAL																								
+మల్కాజ్గిరి	MANDAL																								
+ఘట్కేసర్	MANDAL																								
+కుకat్పల్లి	MANDAL																								
+ఖైరతాబాద్	MANDAL																								
+ఎల్.బి.నగర్	MANDAL																								
+ఖాజాగూడ	MANDAL																								
+సరూర్నగర్	MANDAL																								
+ఉప్పల్	MANDAL																								
+మాసాచ్యుసెట్స్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ	UNIVERSITY																								
+స్టాన్ఫోర్డ్ యూనివర్సిటీ	UNIVERSITY																								
+హార్వర్డ్ యూనివర్సిటీ	UNIVERSITY																								
+కాలిఫోర్నియా ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ	UNIVERSITY																								
+ఒక్స్ఫర్డ్ యూనివర్సిటీ	UNIVERSITY																								
+కేంబ్రిడ్జ్ యూనివర్సిటీ	UNIVERSITY																								
+ఇంపీరియల్ కాలేజ్ లండన్	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ చికాగో	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ పెన్సిల్వేనియా	UNIVERSITY																								
+జాన్స్ హాప్కిన్స్ యూనివర్సిటీ	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ కాలిఫోర్నియా, బెర్క్లీ	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ టోక్యో	UNIVERSITY																								
+నేషనల్ యూనివర్సిటీ ఆఫ్ సింగపూర్	UNIVERSITY																								
+ప్రిన్స్టన్ యూనివర్సిటీ	UNIVERSITY																								
+కొలంబియా యూనివర్సిటీ	UNIVERSITY																								
+యేల్ యూనివర్సిటీ	UNIVERSITY																								
+కార్నెల్ యూనివర్సిటీ	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ మిచిగాన్	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ టొరాంటో	UNIVERSITY																								
+సోల్ నేషనల్ యూనివర్సిటీ	UNIVERSITY																								
+లుడ్విగ్-మాక్సిమిలియన్స్-యూనివర్సిటీ మ్యూనిచ్	UNIVERSITY																								
+క్యోటో యూనివర్సిటీ	UNIVERSITY																								
+పెకింగ్ యూనివర్సిటీ	UNIVERSITY																								
+త్సింగ్ హువా యూనివర్సిటీ	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ ఎడిన్బర్గ్	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ మాంచెస్టర్	UNIVERSITY																								
+యూనివర్సిటీ ఆఫ్ బ్రిటిష్ కొలంబియా	UNIVERSITY																								
+సిడ్నీ యూనివర్సిటీ	UNIVERSITY																								
+మెల్బోర్న్ యూనివర్సిటీ	UNIVERSITY																								
+ఐఐటి బొంబాయి	UNIVERSITY																								
+ఐఐటి ఢిల్లీ	UNIVERSITY																								
+ఐఐఎస్సీ బెంగళూరు	UNIVERSITY																								
+ఐఐటి మద్రాస్	UNIVERSITY																								
+జవహర్ లాల్ నెహ్రూ యూనివర్సిటీ	UNIVERSITY																								
+ఢిల్లీ యూనివర్సిటీ	UNIVERSITY																								
+హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ	UNIVERSITY																								
+ఆంధ్ర విశ్వవిద్యాలయం	UNIVERSITY																								
+ఓస్మానియా యూనివర్సిటీ	UNIVERSITY																								
+ఆంధ్ర విశ్వవిద్యాలయం	UNIVERSITY																								
+శ్రీ వెంకటేశ్వర విశ్వవిద్యాలయం	UNIVERSITY																								
+కాకతీయ విశ్వవిద్యాలయం	UNIVERSITY																								
+ఆచార్య నాగార్జున విశ్వవిద్యాలయం	UNIVERSITY																								
+డాక్టర్ బి.ఆర్. అంబేద్కర్ ఓపెన్ యూనివర్సిటీ	UNIVERSITY																								
+జవహర్ లాల్ నెహ్రూ టెక్నాలజికల్ యూనివర్సిటీ, అనంతపురం	UNIVERSITY																								
+జవహర్ లాల్ నెహ్రూ టెక్నాలజికల్ యూనివర్సిటీ, కాకినాడ	UNIVERSITY																								
+వికాస్ విశ్వవిద్యాలయం	UNIVERSITY																								
+పాశ్చాత్య గోదావరి విశ్వవిద్యాలయం	UNIVERSITY																								
+నెల్లూరు విశ్వవిద్యాలయం	UNIVERSITY																								
+కృష్ణా విశ్వవిద్యాలయం	UNIVERSITY																								
+కొణసీమ విశ్వవిద్యాలయం	UNIVERSITY																								
+అన్నమయ్య విశ్వవిద్యాలయం	UNIVERSITY																								
+నంద్యాల విశ్వవిద్యాలయం	UNIVERSITY																								
+విజయవాడ విశ్వవిద్యాలయం	UNIVERSITY																								
+తిరుపతి విశ్వవిద్యాలయం	UNIVERSITY																								
+ఓస్మానియా విశ్వవిద్యాలయం	UNIVERSITY																								
+కాకతీయ విశ్వవిద్యాలయం	UNIVERSITY																								
+మహాత్మా గాంధీ విశ్వవిద్యాలయం	UNIVERSITY																								
+పాలమూరు విశ్వవిద్యాలయం	UNIVERSITY																								
+సత్య విశ్వవిద్యాలయం	UNIVERSITY																								
+జవహర్ లాల్ నెహ్రూ టెక్నాలజికల్ యూనివర్సిటీ, హైదరాబాద్	UNIVERSITY																								
+ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ, హైదరాబాద్	UNIVERSITY																								
+ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ మేనేజ్మెంట్, హైదరాబాద్	UNIVERSITY																								
+టాటా ఇన్స్టిట్యూట్ ఆఫ్ సోషల్ సైన్సెస్, హైదరాబాద్	UNIVERSITY																								
+హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ	UNIVERSITY																								
+ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ ఇన్ఫర్మేషన్ టెక్నాలజీ, హైదరాబాద్	UNIVERSITY																								
+నల్లంద విశ్వవిద్యాలయం	UNIVERSITY																								
+ప్రొద్దుతూరు విశ్వవిద్యాలయం	UNIVERSITY																								
+రామగుండం విశ్వవిద్యాలయం	UNIVERSITY																								
+సిద్ధిపేట విశ్వవిద్యాలయం	UNIVERSITY																								
+జంగావోని విశ్వవిద్యాలయం	UNIVERSITY																								
+మహబూబ్ నగర్ విశ్వవిద్యాలయం	UNIVERSITY																								
+దామరం విశ్వవిద్యాలయం	UNIVERSITY																								
+మహాత్మా గాంధీ విశ్వవిద్యాలయం, నల్లమల	UNIVERSITY																								
+రాజమండ్రి విశ్వవిద్యాలయం	UNIVERSITY																								
+జాక్ లాంగ్ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, టోక్యో	AIRPORT																								
+హీత్రో ఎయిర్పోర్ట్, లండన్	AIRPORT																								
+జాన్ ఎఫ్ కెన్నెడీ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, న్యూయార్క్	AIRPORT																								
+డల్లాస్/ఫోర్ట్ వర్త్ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, USA	AIRPORT																								
+డ్యూసెల్డోర్ఫ్ ఎయిర్పోర్ట్, జర్మనీ	AIRPORT																								
+పారిస్ చార్లెస్ డి గౌల్ ఎయిర్పోర్ట్, ఫ్రాన్స్	AIRPORT																								
+దుబాయ్ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, UAE	AIRPORT																								
+ఇందిరా గాంధీ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, ఢిల్లీ	AIRPORT																								
+ఛత్రపతి శివాజీ మహారాజ్ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, ముంబై	AIRPORT																								
+కెంపేగౌడ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, బెంగళూరు	AIRPORT																								
+చెన్నై ఇంటర్నేషనల్ ఎయిర్పోర్ట్, చెన్నై	AIRPORT																								
+నెటాజీ సుభాష్ చంద్ర బోస్ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, కోల్‌కతా	AIRPORT																								
+స్వర్ణ ద్వీప ఇంటర్నేషనల్ ఎయిర్పోర్ట్, పోర్ట్ బ్లెయిర్	AIRPORT																								
+పుణె ఇంటర్నేషనల్ ఎయిర్పోర్ట్, పుణె	AIRPORT																								
+విజయవాడ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+విశాఖపట్నం ఇంటర్నేషనల్ ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+తిరుపతి ఇంటర్నేషనల్ ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+రాజమండ్రి ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+కడప ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+అన్నాకపల్లి ఎయిర్పోర్ట్, ఆంధ్రప్రదేశ్	AIRPORT																								
+రాజీవ్ గాంధీ ఇంటర్నేషనల్ ఎయిర్పోర్ట్, హైదరాబాద్	AIRPORT																								
+వరంగల్ ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+కరీంనగర్ ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+నిజామాబాద్ ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+ఖమ్మం ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+ఆదిలాబాద్ ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+మహబూబ్ నగర్ ఎయిర్పోర్ట్, తెలంగాణ	AIRPORT																								
+షాంఘై పోర్ట్, చైనా	PORT																								
+సింగపూర్ పోర్ట్, సింగపూర్	PORT																								
+రోటెర్డామ్ పోర్ట్, నెదర్లాండ్స్	PORT																								
+లాస్ ఏంజిల్స్ పోర్ట్, USA	PORT																								
+డ్యూబై పోర్ట్, UAE	PORT																								
+హాంబర్గ్ పోర్ట్, జర్మనీ	PORT																								
+బుసాన్ పోర్ట్, దక్షిణ కొరియా	PORT																								
+జవహర్లాల్ నెహ్రూ పోర్ట్ (న్హావా షేవా), ముంబై	PORT																								
+ముంబై పోర్ట్, మహారాష్ట్ర	PORT																								
+చెన్నై పోర్ట్, తమిళనాడు	PORT																								
+కాండ్లా పోర్ట్, గుజరాత్	PORT																								
+కోల్‌కతా పోర్ట్, పశ్చిమ బెంగాల్	PORT																								
+విశాఖపట్నం పోర్ట్, ఆంధ్రప్రదేశ్	PORT																								
+కొచ్చి పోర్ట్, కేరళ	PORT																								
+మంగళూరు పోర్ట్, కర్ణాటక	PORT																								
+పారాదీప్ పోర్ట్, ఒడిశా	PORT																								
+తూతుకుడి పోర్ట్, తమిళనాడు	PORT																								
+ఎన్నోర్ పోర్ట్, తమిళనాడు	PORT																								
+																									
+విశాఖపట్నం పోర్ట్, ఆంధ్రప్రదేశ్	PORT																								
+కాకినాడ పోర్ట్, ఆంధ్రప్రదేశ్	PORT																								
+కృష్ణాపట్నం పోర్ట్, ఆంధ్రప్రదేశ్	PORT																								
+నెల్లూరు పోర్ట్ (డియో పోర్ట్ / గాన్నవరం), ఆంధ్రప్రదేశ్	PORT																								
+(తెలంగాణ రాష్ట్రంలో సముద్ర తీర పోర్టులు లేవు)	PORT																								
+పోర్ట్ అథరిటీ బస్ టెర్మినల్, న్యూయార్క్, USA	BUS_STAND																								
+విక్టోరియా కోచ్ స్టేషన్, లండన్, UK	BUS_STAND																								
+ఎస్టాసియోన్ డి ఓబుస్, సావో పావులో, బ్రెజిల్	BUS_STAND																								
+మెక్సికో సిటీ నార్త్ బస్ టెర్మినల్, మెక్సికో	BUS_STAND																								
+ఇందిరా బస్ స్టాండ్, ఢిల్లీ	BUS_STAND																								
+మాతాధిష్ఠిత బస్ స్టాండ్ (ISBT), ఢిల్లీ	BUS_STAND																								
+కెఎస్ఆర్‌టిసి బస్ స్టాండ్, బెంగళూరు	BUS_STAND																								
+చెన్నై మోఫుసిల్ బస్ టెర్మినల్ (CMBT), చెన్నై	BUS_STAND																								
+ముంబై సెంట్రల్ బస్ స్టాండ్, ముంబై	BUS_STAND																								
+హౌరా బస్ స్టాండ్, కోల్‌కతా	BUS_STAND																								
+ఎంజి రోడ్ బస్ స్టాండ్, అహ్మదాబాద్	BUS_STAND																								
+పిపి బస్ స్టాండ్ (పాండిల్లా పుల్లారావు), విజయవాడ, ఆంధ్రప్రదేశ్	BUS_STAND																								
+మూర్తి నగర్ బస్ స్టాండ్, విశాఖపట్నం, ఆంధ్రప్రదేశ్	BUS_STAND																								
+రామానగరం బస్ స్టాండ్, తిరుపతి, ఆంధ్రప్రదేశ్	BUS_STAND																								
+అనంతపురం బస్ స్టాండ్, ఆంధ్రప్రదేశ్	BUS_STAND																								
+కడప బస్ స్టాండ్, ఆంధ్రప్రదేశ్	BUS_STAND																								
+రాజమండ్రి బస్ స్టాండ్, ఆంధ్రప్రదేశ్	BUS_STAND																								
+నెల్లూరు బస్ స్టాండ్, ఆంధ్రప్రదేశ్	BUS_STAND																								
+కర్నూలు బస్ స్టాండ్, ఆంధ్రప్రదేశ్	BUS_STAND																								
+మహాత్మా గాంధీ బస్ స్టాండ్ (ఎంజీబిఎస్), హైదరాబాద్, తెలంగాణ	BUS_STAND																								
+జియుఎస్ బస్ స్టాండ్, హైదరాబాద్, తెలంగాణ	BUS_STAND																								
+రాష్ట్రపతి బస్ స్టాండ్, వరంగల్, తెలంగాణ	BUS_STAND																								
+కరీంనగర్ బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+నిజామాబాద్ బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+ఖమ్మం బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+మహబూబ్ నగర్ బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+ఆదిలాబాద్ బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+నల్లగొండ బస్ స్టాండ్, తెలంగాణ	BUS_STAND																								
+టోక్యో స్టేషన్, జపాన్	RAILWAY_STATION																								
+లండన్ కింగ్స్ క్రాస్ స్టేషన్, UK	RAILWAY_STATION																								
+గ్రాండ్ సెంట్రల్ టెర్మినల్, న్యూయార్క్, USA	RAILWAY_STATION																								
+పారిస్ గేర్ డు నార్డ్, ఫ్రాన్స్	RAILWAY_STATION																								
+మ్యూనిచ్ హౌప్ట్ బహ్న్ హోఫ్, జర్మనీ	RAILWAY_STATION																								
+మాస్కో కుర్స్క్ స్టేషన్, రష్యా	RAILWAY_STATION																								
+చాత్రపతి శివాజీ టెర్మినస్, ముంబై	RAILWAY_STATION																								
+హౌరా జంక్షన్, కోల్‌కతా	RAILWAY_STATION																								
+చెన్నై సెంట్రల్ రైల్వే స్టేషన్, చెన్నై	RAILWAY_STATION																								
+న్యూ ఢిల్లీ రైల్వే స్టేషన్, ఢిల్లీ	RAILWAY_STATION																								
+బెంగళూరు సిటి రైల్వే స్టేషన్, బెంగళూరు	RAILWAY_STATION																								
+మద్రాస్ ఎగ్మోర్ స్టేషన్, చెన్నై	RAILWAY_STATION																								
+అహ్మదాబాద్ జంక్షన్, గుజరాత్	RAILWAY_STATION																								
+విజయవాడ జంక్షన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+విశాఖపట్నం రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+తిరుపతి రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+రాజమండ్రి రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+గుంటూరు జంక్షన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+నెల్లూరు రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+కడప రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+అనంతపురం రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+కర్నూలు రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+మాచిలీపట్నం రైల్వే స్టేషన్, ఆంధ్రప్రదేశ్	RAILWAY_STATION																								
+సికింద్రాబాద్ జంక్షన్, తెలంగాణ	RAILWAY_STATION																								
+హైదరాబాద్ డెక్కన్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+కాచిగూడ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+వరంగల్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+కరీంనగర్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+నిజామాబాద్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+ఖమ్మం రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+మహబూబ్ నగర్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+ఆదిలాబాద్ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+నల్లగొండ రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+మంచిర్యాల రైల్వే స్టేషన్, తెలంగాణ	RAILWAY_STATION																								
+మేయో క్లినిక్, రాచెస్టర్, USA	HOSPITAL																								
+జాన్స్ హాప్కిన్స్ హాస్పిటల్, బాల్టిమోర్, USA	HOSPITAL																								
+క్లీవ్ల్యాండ్ క్లినిక్, ఓహియో, USA	HOSPITAL																								
+కింగ్ కాలేజ్ హాస్పిటల్, లండన్, UK	HOSPITAL																								
+చారిటీ హాస్పిటల్, బెర్లిన్, జర్మనీ	HOSPITAL																								
+సింగపూర్ జెనరల్ హాస్పిటల్, సింగపూర్	HOSPITAL																								
+టోక్యో జెనరల్ హాస్పిటల్, జపాన్	HOSPITAL																								
+ఎయిమ్స్, ఢిల్లీ	HOSPITAL																								
+పాండవ్ పురం ఎయిమ్స్, ఢిల్లీ	HOSPITAL																								
+ఎస్‌ఎస్‌కేఎం హాస్పిటల్, కోల్‌కతా	HOSPITAL																								
+ఎంజీఎం మెడికల్ కాలేజ్ & హాస్పిటల్, కేరళ	HOSPITAL																								
+సిటీ హాస్పిటల్, బెంగళూరు	HOSPITAL																								
+స్టాన్లీ మెడికల్ కాలేజ్ హాస్పిటల్, చెన్నై	HOSPITAL																								
+జెఎన్‌ఎం హాస్పిటల్, కొల్లేజీ ఆఫ్ మెడిసిన్, కోల్‌కతా	HOSPITAL																								
+నిమ్స్, విజయవాడ, ఆంధ్రప్రదేశ్	HOSPITAL																								
+కింగ్ జార్జి హాస్పిటల్, విశాఖపట్నం, ఆంధ్రప్రదేశ్	HOSPITAL																								
+ఎస్‌విఆర్ఆర్ జిహెచ్, గుంటూరు, ఆంధ్రప్రదేశ్	HOSPITAL																								
+రామానాయుడు హాస్పిటల్, తిరుపతి, ఆంధ్రప్రదేశ్	HOSPITAL																								
+ఆర్‌విఆర్ హాస్పిటల్, రాజమండ్రి, ఆంధ్రప్రదేశ్	HOSPITAL																								
+గోవిందరాజుల హాస్పిటల్, నెల్లూరు, ఆంధ్రప్రదేశ్	HOSPITAL																								
+ఎస్‌పిఆర్ హాస్పిటల్, కడప, ఆంధ్రప్రదేశ్	HOSPITAL																								
+పిఎస్ఆర్ హాస్పిటల్, అనంతపురం, ఆంధ్రప్రదేశ్	HOSPITAL																								
+కర్నూలు జిల్లా హాస్పిటల్, ఆంధ్రప్రదేశ్	HOSPITAL																								
+నిమ్స్, హైదరాబాద్, తెలంగాణ	HOSPITAL																								
+యశోద హాస్పిటల్స్, హైదరాబాద్, తెలంగాణ	HOSPITAL																								
+అపోలో హాస్పిటల్స్, హైదరాబాద్, తెలంగాణ	HOSPITAL																								
+ఓస్మానియా జిహెచ్, హైదరాబాద్, తెలంగాణ	HOSPITAL																								
+ఎస్‌ఎల్‌జి హాస్పిటల్, హైదరాబాద్, తెలంగాణ	HOSPITAL																								
+మహబూబ్ నగర్ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+కరీంనగర్ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+వరంగల్ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+ఆదిలాబాద్ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+ఖమ్మం జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+నల్లగొండ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+నిజామాబాద్ జిల్లా హాస్పిటల్, తెలంగాణ	HOSPITAL																								
+అప్పిల్ ఇంక్., USA	CORP_COMPANY																								
+మైక్రోసాఫ్ట్ కార్పొరేషన్, USA	CORP_COMPANY																								
+గూగుల్ (అల్ఫాబెట్ ఇంక్.), USA	CORP_COMPANY																								
+అమెజాన్.కామ్, USA	CORP_COMPANY																								
+టెస్లా ఇంక్., USA	CORP_COMPANY																								
+సామ్సంగ్ ఎలక్ట్రానిక్స్, దక్షిణ కొరియా	CORP_COMPANY																								
+సోనీ గ్రూప్, జపాన్	CORP_COMPANY																								
+నెస్లె, స్విట్జర్లాండ్	CORP_COMPANY																								
+లోరియల్, ఫ్రాన్స్	CORP_COMPANY																								
+బిజిఎం గ్రూప్, UK	CORP_COMPANY																								
+రిలయెన్స్ ఇండస్ట్రీస్ లిమిటెడ్, ముంబై	CORP_COMPANY																								
+టాటా మోటార్స్, ముంబై	CORP_COMPANY																								
+టాటా కన్సల్టెన్సీ సర్వీసెస్ (టిసిఎస్), ముంబై	CORP_COMPANY																								
+ఇన్ఫోసిస్ లిమిటెడ్, బెంగళూరు	CORP_COMPANY																								
+విప్రో లిమిటెడ్, బెంగళూరు	CORP_COMPANY																								
+హిందుస్తాన్ యూనిలీవర్, ముంబై	CORP_COMPANY																								
+ఐసిఐసిఐ బ్యాంక్, ముంబై	CORP_COMPANY																								
+ఎస్బిఐ (స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా), ముంబై	CORP_COMPANY																								
+భారత్ పెట్రోలియం కార్పొరేషన్ లిమిటెడ్ (బిపిసిఎల్), ముంబై	CORP_COMPANY																								
+ఎయిర్టెల్, గురుగ్రామ్	CORP_COMPANY																								
+ఆంధ్ర బ్యాంక్ (ఇప్పుడు యునైటెడ్ బ్యాంక్ ఆఫ్ ఇండియాలో విలీనం), విజయవాడ, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+కోరమండల్ ఎంగ్రో లిమిటెడ్, చెన్నై (AP లో ప్రధాన కార్యాలయాలు), ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+ఎల్‌జి పావర్ ఇండియా, విశాఖపట్నం, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+ఎస్‌ఆర్‌ఎం గ్రూప్, అమరావతి, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+నారా గ్రూప్ (కొల్లు నారాయణ స్వామి), విజయవాడ, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+గోపాల్ ఇండస్ట్రీస్, గుంటూరు, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+ఎంఈఐఎల్ (మల్లా ఎనర్జీ), విజయవాడ, ఆంధ్రప్రదేశ్	CORP_COMPANY																								
+టాటా కన్సల్టెన్సీ సర్వీసెస్ (టిసిఎస్), హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+ఇన్ఫోసిస్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+విప్రో, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+డెల్ టెక్నాలజీస్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+మైక్రోసాఫ్ట్ ఇండియా, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+గూగుల్ ఇండియా, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+అమెజాన్ డెవలప్‌మెంట్ సెంటర్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+ఫిజర్ అండ్ పేకర్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+డా. రెడ్డీ’స్ లాబొరేటరీస్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+హెటెరో డ్రగ్స్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+మైలాన్ లాబొరేటరీస్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+సిటిఎస్ ఇండియా, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+ఎల్‌జి ఎలక్ట్రానిక్స్, హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+తెలంగాణ స్టేట్ ఫైనాన్షియల్ కార్పొరేషన్ (TSFC), హైదరాబాద్, తెలంగాణ	CORP_COMPANY																								
+
+నేను	I
+నన్ను	Me
+నా	My / Mine
+మేము	We (Exclusive)
+మనం	We (Inclusive)
+మమ్మల్ని	Us (Exclusive)
+మనల్ని	Us (Inclusive)
+మా	Our (Exclusive)
+మన	Our (Inclusive)
+నువ్వు	You (Informal)
+నిన్ను	You (Informal, Object)
+నీ	Your (Informal)
+మీరు	You (Formal/Plural)
+మిమ్మల్ని	You (Formal/Plural, Object)
+మీ	Your (Formal/Plural)
+వాడు	He (Distant, Common)
+అతడు / ఆయన	He (Distant, Respectful)
+వీడు	He (Proximate, Common)
+ఇతడు / ఈయన	He (Proximate, Respectful)
+వాడి	His (Common)
+అతని / ఆయన	His (Respectful)
+ఆమె / ఆవిడ	She (Distant, Respectful)
+ఈమె / ఈవిడ	She (Proximate, Respectful)
+ఆమె / ఆవిడ	Her
+అది	It (Distant)
+ఇది	It (Proximate)
+దాని	Its
+వారు	They (People, Respectful)
+వాళ్లు	They (People, Common)
+వీరు	They (People, Proximate, Respectful)
+వీళ్లు	They (People, Proximate, Common)
+వారి	Their (Respectful)
+వాళ్ల	Their (Common)
+అవి	They (Inanimate/Animals, Distant)
+ఇవి	They (Inanimate/Animals, Proximate)
+వాటి	Their (Inanimate/Animals)
+ఎవరు	Who
+ఎవరి	Whose
+ఏమి	What (Object)
+ఏది	What/Which (Subject)
+ఏవి	What (Plural)
+ఎవరో	Someone
+ఏదో	Something
+ఎవరైనా	Anyone
+ఏదైనా	Anything
+
+						
+Adverb (Telugu Script)	Transliteration	English Meaning	Category	Notes		
+ఇప్పుడు	Ippuḍu	now	Temporal			
+ఇప్పుడే	Ippuḍē	right now	Temporal	emphatic		
+ఇప్పుడిప్పుడే	Ippuḍippuḍē	just now	Temporal	reduplicated (recent past)		
+అప్పుడు	Appuḍu	then	Temporal			
+అప్పుడప్పుడు	Appuḍappuḍu	from time to time	Temporal	reduplicated = occasionally		
+ఇక	Ika	from now on	Temporal			
+ఇంకా	Iṅkā	still, yet	Temporal			
+ఇప్పటికే	Ippaṭikē	already	Temporal			
+ఈరోజు	Īrōju	today	Temporal			
+ఈ రాత్రి	Ī rātri	tonight	Temporal			
+నిన్న	Ninna	yesterday	Temporal			
+నిన్నుమున్న	Ninnu-munna	day before yesterday	Temporal			
+రేపు	Rēpu	tomorrow	Temporal			
+పరసు	Parasu	the day after tomorrow	Temporal			
+ఎప్పుడు	Eppuḍu	when?	Temporal	interrogative		
+ఎప్పుడైనా	Eppuḍainā	at any time	Temporal	indefinite		
+ఎప్పుడూ	Eppuḍū	always	Temporal			
+ఇంతకు ముందు	Intaku mundu	before this	Temporal			
+ఇంతకు తర్వాత	Intaku tarvāta	after this	Temporal			
+ఎప్పటికప్పుడు	Eppaṭikappuḍu	whenever	Temporal	conditional		
+సాధారణంగా	Sādhāraṇaṁgā	generally, usually	Frequency			
+అరుదుగా	Arudugā	rarely, seldom	Frequency			
+తరచుగా	Taracugā	often, frequently	Frequency			
+మళ్లీ	Maḷḷī	again	Frequency			
+మరల	Marala	again (literary)	Frequency			
+ఒకసారి	Okasāri	once	Frequency			
+రెండుసార్లు	Rendusārlu	twice	Frequency			
+ప్రతిసారి	Pratisāri	every time	Frequency			
+ఎప్పుడూ కాదు	Eppuḍū kādu	never	Frequency			
+ఇక్కడ	Ikkada	here	Locative			
+అక్కడ	Akkada	there	Locative			
+ఇక్కడికి	Ikkada-ki	hither	Locative	directional (to here)		
+అక్కడికి	Akkada-ki	thither	Locative	directional (to there)		
+ఎక్కడ	Ekkada	where?	Locative	interrogative		
+ఎక్కడైనా	Ekkadainā	anywhere	Locative	indefinite		
+ఎక్కడా	Ekkadā	nowhere (with neg)	Locative	negative polarity item		
+అక్కడా ఇక్కడా	Akkadā ikkadā	hither and thither	Locative	idiomatic movement		
+బాగా	Bāgā	well, nicely	Manner			
+చెడుగా	Ceḍugā	badly	Manner			
+త్వరగా	Tvaragā	quickly	Manner			
+నెమ్మదిగా	Nemmadigā	slowly	Manner			
+గట్టిగా	Gaṭṭigā	loudly, firmly	Manner			
+సరిగ్గా	Sariggā	exactly	Manner			
+స్పష్టంగా	Spaṣṭaṁgā	clearly	Manner			
+సులభంగా	Sulabhaṁgā	easily	Manner			
+కఠినంగా	Kaṭhinaṁgā	harshly, strictly	Manner			
+సహజంగా	Sahajaṁgā	naturally	Manner			
+కచ్చితంగా	Kacchitaṁgā	precisely	Manner			
+హాయిగా	Hāyigā	comfortably	Manner			
+అలసిపోకుండా	Alasipōkuṇḍā	without getting tired	Manner	adverbial participle		
+ఇంత	Iṁta	this much	Degree/Quantity			
+అంత	Aṁta	that much	Degree/Quantity			
+చాలా	Cālā	very, a lot	Degree/Quantity			
+కొంచెం	Koñceṁ	a little	Degree/Quantity			
+కొంచెమైనా	Koñcemainā	at least a little	Degree/Quantity			
+ఎంత	Enta	how much?	Degree/Quantity	interrogative		
+ఎంతో	Entō	very much (emphatic)	Degree/Quantity			
+అతిగా	Atigā	excessively	Degree/Quantity			
+స్వల్పంగా	Svalpaṁgā	slightly	Degree/Quantity			
+పూర్తిగా	Pūrtigā	completely	Degree/Quantity			
+స్థూలంగా	Sthūlaṁgā	roughly	Degree/Quantity			
+ఎలా	Elā	how?	Manner	interrogative		
+ఎలాగైనా	Elāgainā	somehow	Indefinite/Relative			
+ఎలాగూ	Elāgū	anyhow, in any case	Indefinite/Relative			
+ఏదో విధంగా	Ēdō vidhaṁgā	in some way	Indefinite/Relative	phrase, but functions adverbially		
+ఏ విధంగానైనా	Ē vidhaṁgānainā	by any means	Indefinite/Relative			
+ఒకవేళ	Okavēḷa	if (hypothetical)	Modal/Conditional			
+సాధ్యమైతే	Sādhyamaitē	if possible	Modal/Conditional			
+సందర్భానుసారంగా	Sandarbha-anusāraṁgā	accordingly	Modal/Conditional			
+నిజంగా	Nijaṁgā	truly, really	Modal/Attitudinal			
+వాస్తవంగా	Vāstavaṁgā	actually	Modal/Attitudinal			
+ఖచ్చితంగా	Khacchitaṁgā	definitely	Modal/Attitudinal			
+నిశ్చయంగా	Niścayaṁgā	certainly	Modal/Attitudinal			
+తప్పక	Tappaka	surely, without fail	Modal/Attitudinal			
+బహుశా	Bahuśā	perhaps	Modal/Attitudinal			
+ఏమో	Ēmō	maybe, I wonder	Modal/Attitudinal	discourse marker		
+అసలు	Asalu	at all (in negatives)	Negation-related	e.g., "అసలు రాలేదు"		
+ఏమాత్రం	Ēmātraṁ	at all (formal neg)	Negation-related			
+ఒక్కసారి కూడా	Okkasāri kūḍā	not even once	Negation-related			
+వెంటనే	Veṇṭanē	immediately	Discourse/Pragmatic			
+ఒకేసారి	Okēsāri	at once	Discourse/Pragmatic			
+మరి	Mari	what else? / well then	Discourse/Pragmatic	discourse particle		
+అయితే	Aitē	but / however	Discourse/Pragmatic	concessive		
+కాబట్టి	Kābaṭṭi	therefore	Discourse/Pragmatic			
+అందువల్ల	Anduval-la	therefore	Discourse/Pragmatic			
+ఇంకేం	Iṅkēṁ	what else now?	Discourse/Pragmatic	rhetorical		
+అలాగే	Alāgē	similarly, likewise	Discourse/Pragmatic			
+ఇలాగే	Ilāgē	just like this	Discourse/Pragmatic			
+ఎందుకంటే	Endukaṇṭe	because	Discourse/Pragmatic	often clausal, but used adverbially		
+సరే	Sarē	okay, alright	Discourse/Pragmatic	response particle		
+అవును	Avunu	yes (confirmatory)	Discourse/Pragmatic			
+కాదు	Kādu	no (denial)	Discourse/Pragmatic			
+శక్యమైనంత వరకు	Śakyamainanta varaku	as much as possible	Modal/Extent			
+అంతవరకు	Aṁtavaraku	up to that point	Temporal/Degree			
+ఇంతవరకు	Iṁtavaraku	up to now	Temporal/Degree			
+ప్రత్యేకించి	Pratyēkiñci	especially	Modal/Attitudinal			
+ముఖ్యంగా	Mukhyaṁgā	mainly, particularly	Modal/Attitudinal			
+సాధారణంగానే	Sādhāraṇaṁgānē	generally speaking	Modal/Attitudinal	emphatic		
+ఎప్పటిలాగే	Eppaṭilāgē	as usual	Temporal/Manner			
+						
+Adverb (Telugu Script)	Transliteration	English Meaning	Category	Notes		
+ఇప్పుడు	Ippuḍu	now	Temporal			
+ఇప్పుడే	Ippuḍē	right now	Temporal	emphatic		
+ఇప్పుడిప్పుడే	Ippuḍippuḍē	just now	Temporal	reduplicated (recent past)		
+అప్పుడు	Appuḍu	then	Temporal			
+అప్పుడప్పుడు	Appuḍappuḍu	from time to time	Temporal	reduplicated = occasionally		
+ఇక	Ika	from now on	Temporal			
+ఇంకా	Iṅkā	still, yet	Temporal			
+ఇప్పటికే	Ippaṭikē	already	Temporal			
+ఈరోజు	Īrōju	today	Temporal			
+ఈ రాత్రి	Ī rātri	tonight	Temporal			
+నిన్న	Ninna	yesterday	Temporal			
+నిన్నమున్న	Ninnamunna	day before yesterday	Temporal			
+రేపు	Rēpu	tomorrow	Temporal			
+పరసు	Parasu	the day after tomorrow	Temporal			
+ఎప్పుడు	Eppuḍu	when?	Temporal	interrogative		
+ఎప్పుడైనా	Eppuḍainā	at any time	Temporal	indefinite		
+ఎప్పుడూ	Eppuḍū	always	Temporal			
+ఇంతకు ముందు	Intaku mundu	before this	Temporal			
+ఇంతకు తర్వాత	Intaku tarvāta	after this	Temporal			
+ఎప్పటికప్పుడు	Eppaṭikappuḍu	whenever	Temporal	conditional		
+సాధారణంగా	Sādhāraṇaṁgā	generally, usually	Frequency			
+అరుదుగా	Arudugā	rarely, seldom	Frequency			
+తరచుగా	Taracugā	often, frequently	Frequency			
+మళ్లీ	Maḷḷī	again	Frequency			
+మరల	Marala	again (literary)	Frequency			
+ఒకసారి	Okasāri	once	Frequency			
+రెండుసార్లు	Rendusārlu	twice	Frequency			
+ప్రతిసారి	Pratisāri	every time	Frequency			
+ఎప్పుడూ కాదు	Eppuḍū kādu	never	Frequency			
+ఇక్కడ	Ikkada	here	Locative			
+అక్కడ	Akkada	there	Locative			
+ఇక్కడికి	Ikkadiki	hither	Locative	directional (to here)		
+అక్కడికి	Akkadiki	thither	Locative	directional (to there)		
+ఎక్కడ	Ekkada	where?	Locative	interrogative		
+ఎక్కడైనా	Ekkadainā	anywhere	Locative	indefinite		
+ఎక్కడా	Ekkadā	nowhere (with neg)	Locative	negative polarity item		
+అక్కడా ఇక్కడా	Akkadā ikkadā	hither and thither	Locative	idiomatic movement		
+బాగా	Bāgā	well, nicely	Manner			
+చెడుగా	Ceḍugā	badly	Manner			
+త్వరగా	Tvaragā	quickly	Manner			
+నెమ్మదిగా	Nemmadigā	slowly	Manner			
+గట్టిగా	Gaṭṭigā	loudly, firmly	Manner			
+సరిగ్గా	Sariggā	exactly	Manner			
+స్పష్టంగా	Spaṣṭaṁgā	clearly	Manner			
+సులభంగా	Sulabhaṁgā	easily	Manner			
+కఠినంగా	Kaṭhinaṁgā	harshly, strictly	Manner			
+సహజంగా	Sahajaṁgā	naturally	Manner			
+కచ్చితంగా	Kacchitaṁgā	precisely	Manner			
+హాయిగా	Hāyigā	comfortably	Manner			
+అలసిపోకుండా	Alasipōkuṇḍā	without getting tired	Manner	adverbial participle		
+ఇంత	Iṁta	this much	Degree/Quantity			
+అంత	Aṁta	that much	Degree/Quantity			
+చాలా	Cālā	very, a lot	Degree/Quantity			
+కొంచెం	Koñceṁ	a little	Degree/Quantity			
+కొంచెమైనా	Koñcemainā	at least a little	Degree/Quantity			
+ఎంత	Enta	how much?	Degree/Quantity	interrogative		
+ఎంతో	Entō	very much (emphatic)	Degree/Quantity			
+అతిగా	Atigā	excessively	Degree/Quantity			
+స్వల్పంగా	Svalpaṁgā	slightly	Degree/Quantity			
+పూర్తిగా	Pūrtigā	completely	Degree/Quantity			
+స్థూలంగా	Sthūlaṁgā	roughly	Degree/Quantity			
+ఎలా	Elā	how?	Manner	interrogative		
+ఎలాగైనా	Elāgainā	somehow	Indefinite/Relative			
+ఎలాగూ	Elāgū	anyhow, in any case	Indefinite/Relative			
+ఏదో విధంగా	Ēdō vidhaṁgā	in some way	Indefinite/Relative	phrase, but functions adverbially		
+ఏ విధంగానైనా	Ē vidhaṁgānainā	by any means	Indefinite/Relative			
+ఒకవేళ	Okavēḷa	if (hypothetical)	Modal/Conditional			
+సాధ్యమైతే	Sādhyamaitē	if possible	Modal/Conditional			
+సందర్భానుసారంగా	Sandarbhānusāraṁgā	accordingly	Modal/Conditional			
+నిజంగా	Nijaṁgā	truly, really	Modal/Attitudinal			
+వాస్తవంగా	Vāstavaṁgā	actually	Modal/Attitudinal			
+ఖచ్చితంగా	Khacchitaṁgā	definitely	Modal/Attitudinal			
+నిశ్చయంగా	Niścayaṁgā	certainly	Modal/Attitudinal			
+తప్పక	Tappaka	surely, without fail	Modal/Attitudinal			
+బహుశా	Bahuśā	perhaps	Modal/Attitudinal			
+ఏమో	Ēmō	maybe, I wonder	Modal/Attitudinal	discourse marker		
+అసలు	Asalu	at all (in negatives)	Negation-related	e.g., "అసలు రాలేదు"		
+ఏమాత్రం	Ēmātraṁ	at all (formal neg)	Negation-related			
+ఒక్కసారి కూడా	Okkasāri kūḍā	not even once	Negation-related			
+వెంటనే	Veṇṭanē	immediately	Discourse/Pragmatic			
+ఒకేసారి	Okēsāri	at once	Discourse/Pragmatic			
+మరి	Mari	what else? / well then	Discourse/Pragmatic	discourse particle		
+అయితే	Aitē	but / however	Discourse/Pragmatic	concessive		
+కాబట్టి	Kābaṭṭi	therefore	Discourse/Pragmatic			
+అందువలన	Anduvalana	therefore	Discourse/Pragmatic			
+ఇంకేం	Iṅkēṁ	what else now?	Discourse/Pragmatic	rhetorical		
+అలాగే	Alāgē	similarly, likewise	Discourse/Pragmatic			
+ఇలాగే	Ilāgē	just like this	Discourse/Pragmatic			
+ఎందుకంటే	Endukaṇṭē	because	Discourse/Pragmatic	often clausal, but used adverbially		
+సరే	Sarē	okay, alright	Discourse/Pragmatic	response particle		
+అవును	Avunu	yes (confirmatory)	Discourse/Pragmatic			
+కాదు	Kādu	no (denial)	Discourse/Pragmatic			
+శక్యమైనంత వరకు	Śakyamainanta varaku	as much as possible	Modal/Extent			
+అంతవరకు	Aṁtavaraku	up to that point	Temporal/Degree			
+ఇంతవరకు	Iṁtavaraku	up to now	Temporal/Degree			
+ప్రత్యేకించి	Pratyēkiñci	especially	Modal/Attitudinal			
+ముఖ్యంగా	Mukhyaṁgā	mainly, particularly	Modal/Attitudinal			
+సాధారణంగానే	Sādhāraṇaṁgānē	generally speaking	Modal/Attitudinal	emphatic		
+ఎప్పటిలాగే	Eppaṭilāgē	as usual	Temporal/Manner			
+ముందుగా	Mundugā	beforehand	Temporal/Sequence			
+తరువాత	Taruvāta	afterwards	Temporal/Sequence			
+చివరిగా	Chivarigā	finally	Temporal/Sequence			
+అందరికీ	Andarikī	to everyone	Locative (Dative)			
+ప్రత్యేకంగా	Pratyēkaṁgā	specially	Manner/Attitudinal			
+నిజంగానే	Nijaṁgānē	really (emphatic)	Modal/Attitudinal			
+అకస్మాత్తుగా	Akasmāttugā	suddenly	Manner			
+నిరంతరం	Niraṁtaraṁ	continuously	Frequency			
+తప్పనిసరిగా	Tappanisarigā	necessarily, compulsorily	Modal/Attitudinal			
+ఒకటో	Okaṭō	firstly	Discourse/Sequence			
+రెండో	Reṇḍō	secondly	Discourse/Sequence			
+						
+						
+Telugu Script	Transliteration	English Meaning	Type	Subtype	Usage Notes	
+ఎవరు	Evaru	who	Pronoun	Person	Respectful; used for both singular & plural human referents	
+ఎవడు	Evaḍu	who (masc.)	Pronoun	Person	Informal, masculine singular only	
+ఎవతె	Evate	who (fem.)	Pronoun	Person	Informal, feminine singular only (rare in modern usage)	
+ఏమి	Ēmi	what	Pronoun	Thing/Object	Used pre-verbally; neutral gender	
+ఏది	Ēdi	which one	Pronoun	Selection	Neuter; implies choice among visible/known items	
+ఎవరిది	Evaridi	whose	Pronoun	Possession	Genitive form of "ఎవరు"	
+ఎక్కడ	Ekkada	where	Adverb	Location		
+ఎప్పుడు	Eppuḍu	when	Adverb	Time		
+ఎందుకు	Enduku	why	Adverb	Reason/Cause		
+ఎలా	Elā	how	Adverb	Manner		
+ఎంత	Enta	how much	Adverb	Quantity (uncountable)		
+ఎన్ని	Enni	how many	Adverb	Count (countable nouns)		
+ఎవరితో	Evarito	with whom	Adverbial Phrase	Company/Companionship	Postpositional phrase	
+ఎవరికి	Evariki	to whom	Adverbial Phrase	Recipient	Dative case	
+ఎవరిని	Evarini	whom (accusative)	Pronoun	Object	Direct object form	
+ఏ రకమైన	Ē rakamaina	what kind of	Adjective Phrase	Type/Quality	Modifies nouns (e.g., "ఏ రకమైన పుస్తకం?")	
+ఏ విధంగా	Ē vidhaṁgā	in what way	Adverbial Phrase	Method/Formal manner	Literary/formal alternative to "ఎలా"	
+ఏ దగ్గర	Ē daggara	near what	Adverbial Phrase	Proximity	Colloquial; often "ఎవరి దగ్గర?"	
+ఎందులో	Endulō	in what	Adverbial Phrase	Container/Location		
+ఎప్పటి నుంచి	Eppaṭi nuñci	from when	Adverbial Phrase	Start Time		
+ఎప్పటి వరకు	Eppaṭi varaku	until when	Adverbial Phrase	End Time		
+ఎలాగు	Elāgu	how, in what way	Adverb	Manner	Colloquial variant of "ఎలా"	
+ఎంత సేపు	Enta sēpu	how long (duration)	Adverbial Phrase	Duration	Time spent	
+ఎంత దూరం	Enta dūraṁ	how far	Adverbial Phrase	Distance		
+ఎన్నో	Ennō	so many! / how many!	Exclamative	Intensifier	Emphatic; expresses surprise or admiration	
+ఏమిటి	Ēmiṭi	what is it?	Copular Phrase	Existence/Formal identity	Formal; often sentence-final in questions	
+ఎవరైనా	Evarainā	anyone	Indefinite Pronoun	Person	Used in open questions or conditional contexts	
+ఏమైనా	Ēmainā	anything	Indefinite Pronoun	Thing	Even something	
+ఎక్కడైనా	Ekkadainā	anywhere	Indefinite Adverb	Location		
+ఎప్పుడైనా	Eppuḍainā	anytime	Indefinite Adverb	Time		
+ఎలాగైనా	Elāgainā	anyhow, somehow	Indefinite Adverb	Manner		
+ఎందుకంటే	Endukaṇṭē	because	Conjunction	Reason	Not a question word per se; used in answers	
+						
+						
+Telugu Script	Transliteration	English Meaning	Location Type	GeoGranularity	Usage Notes	
+ఇల్లు	Ilлу	house	Building	Individual		
+గది	Gadi	room	Building Interior	Individual		
+ఆఫీసు	Āphīsu	office	Building	Individual/Organizational		
+పాఠశాల	Pāṭhaśāla	school	Building	Institutional		
+కాలేజీ	Kālējī	college	Building	Institutional		
+విశ్వవిద్యాలయం	Viśvavidyālayaṁ	university	Building	Institutional		
+ఆసుపత్రి	Āsupatri	hospital	Building	Institutional		
+కార్యాలయం	Kāryālayaṁ	office (govt.)	Building	Governmental		
+ఇంటి ముందు	Iṁṭi muṁdu	in front of the house	Relative Position	—		
+వెనుక	Venuka	behind	Relative Position	—		
+పక్కన	Pakkan	beside	Relative Position	—		
+మధ్యలో	Madhyalō	in the middle	Relative Position	—		
+పైన	Pain	on top	Relative Position	Vertical		
+కింద	Kinda	under/below	Relative Position	Vertical		
+గ్రామం	Grāmaṁ	village	Settlement	Rural, Small		
+పట్టణం	Paṭṭaṇaṁ	town	Settlement	Urban, Medium		
+నగరం	Nagaraṁ	city	Settlement	Urban, Large		
+మెట్రో	Meṭrō	metro city	Settlement	Megalopolis		
+రాజధాని	Rājadhāni	capital city	Settlement	Political		
+హైదరాబాదు	Haidarābādu	Hyderabad	Named City	—	Proper noun	
+విజయవాడ	Vijayavāḍa	Vijayawada	Named City	—	Proper noun	
+చెన్నై	Cennai	Chennai	Named City	—	Proper noun (loan)	
+బెంగళూరు	Beṅgaḷūru	Bengaluru	Named City	—		
+దేశం	Dēśaṁ	country	Geopolitical	Large		
+రాష్ట్రం	Rāṣṭraṁ	state	Geopolitical	Medium		
+జిల్లా	Jillā	district	Geopolitical	Small		
+మండలం	Maṇḍalaṁ	mandal (sub-district)	Geopolitical	Local		
+గల్లీ	Gallī	lane/alley	Street	—		
+రోడ్డు	Rōḍḍu	road	Street	—		
+రవాణా సదుపాయం	Ravaṇā sadupāyaṁ	transport hub	Infrastructure	—		
+బస్సు స్టాప్	Bassu sṭāp	bus stop	Infrastructure	Small		
+రైల్వే స్టేషన్	Railvē sṭēṣan	railway station	Infrastructure	Medium		
+విమానాశ్రయం	Vimānāśrayaṁ	airport	Infrastructure	Large		
+పోర్టు	Pōrṭu	port	Infrastructure	Coastal		
+నది	Nadi	river	Physical Feature	Natural		
+కొండ	Koṇḍa	hill	Physical Feature	Natural		
+పర్వతం	Parvataṁ	mountain	Physical Feature	Natural		
+సముద్రం	Samudraṁ	sea/ocean	Physical Feature	Natural		
+సరస్సు	Sarassu	lake	Physical Feature	Natural		
+అడవి	Aḍavi	forest	Physical Feature	Natural		
+తీరం	Tīraṁ	shore/coast	Physical Feature	Natural		
+ద్వీపం	Dvīpaṁ	island	Physical Feature	Natural		
+పార్కు	Pārku	park	Public Space	—		
+మార్కెట్	Mārkeṭu	market	Public Space	—		
+ప్లాజా	Plājā	plaza/mall	Public Space	—		
+క్షేత్రం	Kṣētraṁ	field/area	General Space	Abstract or physical		
+ప్రదేశం	Pradēśaṁ	region/area	General Space	Abstract		
+స్థలం	Sthalaṁ	place/site	General Space	Neutral term		
+దగ్గర	Daggara	nearby area	Proximity	Colloquial; often used in questions ("ఎవరి దగ్గర?")		
+						
+						
+Telugu Script	Transliteration	English Meaning	Type	Granularity	Notes	
+సమయం	Samayaṁ	time	General	—	Neutral term	
+ఈ సమయంలో	Ī samayaṁlō	at this time	Phrasal	—	Contextual	
+రోజు	Rōju	day	Date	Daily		
+ఈ రోజు	Ī rōju	today	Date	Daily		
+నిన్న	Ninna	yesterday	Date	Daily		
+రేపు	Rēpu	tomorrow	Date	Daily		
+నిన్నుమున్న	Ninnu-munna	day before yesterday	Date	Daily		
+పరసు	Parasu	day after tomorrow	Date	Daily		
+వారం	Vāraṁ	week	Date	Weekly		
+ఈ వారం	Ī vāraṁ	this week	Date	Weekly		
+గత వారం	Gata vāraṁ	last week	Date	Weekly		
+తదుపరి వారం	Tadupari vāraṁ	next week	Date	Weekly		
+నెల	Nela	month	Date	Monthly		
+ఈ నెల	Ī nela	this month	Date	Monthly		
+గత నెల	Gata nela	last month	Date	Monthly		
+తదుపరి నెల	Tadupari nela	next month	Date	Monthly		
+సంవత్సరం	Saṁvatsaraṁ	year	Date	Yearly		
+ఈ సంవత్సరం	Ī saṁvatsaraṁ	this year	Date	Yearly		
+గత సంవత్సరం	Gata saṁvatsaraṁ	last year	Date	Yearly		
+తదుపరి సంవత్సరం	Tadupari saṁvatsaraṁ	next year	Date	Yearly		
+శతాబ్దం	Śatābdaṁ	century	Date	Long-term		
+యుగం	Yugaṁ	era/age	Date	Historical		
+సోమవారం	Sōmavāraṁ	Monday	Day of Week	—		
+మంగళవారం	Maṅgaḷavāraṁ	Tuesday	Day of Week	—		
+బుధవారం	Budhavāraṁ	Wednesday	Day of Week	—		
+గురువారం	Guruvāraṁ	Thursday	Day of Week	—		
+శుక్రవారం	Śukravāraṁ	Friday	Day of Week	—		
+శనివారం	Śanivāraṁ	Saturday	Day of Week	—		
+ఆదివారం	Ādivāraṁ	Sunday	Day of Week	—		
+జనవరి	Janavarī	January	Month	—		
+ఫిబ్రవరి	Phibravarī	February	Month	—		
+మార్చి	Mārci	March	Month	—		
+ఏప్రిల్	Ēpril	April	Month	—		
+మే	Mē	May	Month	—		
+జూన్	Jūn	June	Month	—		
+జూలై	Jūlai	July	Month	—		
+ఆగస్టు	Āgasṭu	August	Month	—		
+సెప్టెంబర్	Sepṭembar	September	Month	—		
+అక్టోబర్	Akṭōbar	October	Month	—		
+నవంబర్	Navambar	November	Month	—		
+డిసెంబర్	Disembar	December	Month	—		
+ఉదయం	Udayaṁ	morning	Time of Day	—		
+మధ్యాహ్నం	Madhyāhnaṁ	afternoon	Time of Day	—		
+సాయంత్రం	Sāyantaraṁ	evening	Time of Day	—		
+రాత్రి	Rātri	night	Time of Day	—		
+అర్ధరాత్రి	Ardrarātri	midnight	Time of Day	—		
+మధ్యాహ్న భోజన సమయం	Madhyāhna bhōjana samayaṁ	lunchtime	Activity-Based Time	—		
+సాయంత్ర భోజన సమయం	Sāyantara bhōjana samayaṁ	dinnertime	Activity-Based Time	—		
+గంట	Gaṇṭa	hour	Time Unit	—		
+నిమిషం	Nimiṣaṁ	minute	Time Unit	—		
+సెకను	Seakanu	second	Time Unit	—		
+సమయం ఎంత?	Samayaṁ enta?	What time is it?	Interrogative Phrase	—		
+ఏ గంట?	Ē gaṇṭa?	Which hour?	Interrogative Phrase	Colloquial		
+ఏ సమయంలో?	Ē samayaṁlō?	At what time?	Interrogative Phrase	Formal		
+ఇప్పుడు	Ippuḍu	now	Temporal Adverb	—	(Also in your adverb list)	
+అప్పుడు	Appuḍu	then	Temporal Adverb	—		
+ఎప్పుడు	Eppuḍu	when?	Temporal Interrogative	—		
+ఎప్పటి నుంచి?	Eppaṭi nuñci?	From when?	Interrogative Phrase	—		
+ఎప్పటి వరకు?	Eppaṭi varaku?	Until when?	Interrogative Phrase	—		
+సాయంకాలం	Sāyaṅkālaṁ	evening (literary)	Time of Day	Formal synonym		
+పూర్వాహ్నం	Pūrvāhnaṁ	Forenoon (before noon)	Time of Day	Literary		
+ఉత్తరాహ్నం	Uttarāhnaṁ	Afternoon (post-noon)	Time of Day	Literary		
+కాలం	Kālaṁ	time / period	Abstract Temporal	Used in historical/philosophical contexts		
+						
+Telugu Script	Transliteration	English Equivalent	Calendar Type	Notes		
+జనవరి	Janavarī	January	Gregorian	Most common in modern usage		
+ఫిబ్రవరి	Phibravarī	February	Gregorian			
+మార్చి	Mārci	March	Gregorian			
+ఏప్రిల్	Ēpril	April	Gregorian			
+మే	Mē	May	Gregorian			
+జూన్	Jūn	June	Gregorian			
+జూలై	Jūlai	July	Gregorian			
+ఆగస్టు	Āgasṭu	August	Gregorian			
+సెప్టెంబర్	Sepṭembar	September	Gregorian			
+అక్టోబర్	Akṭōbar	October	Gregorian			
+నవంబర్	Navambar	November	Gregorian			
+డిసెంబర్	Disembar	December	Gregorian			
+చైత్రం	Caitraṁ	Chaitra (Mar–Apr)	Traditional Telugu	Start of Telugu New Year (Ugadi)		
+వైశాఖం	Vaiśākhaṁ	Vaishakha (Apr–May)	Traditional Telugu			
+జ్యేష్ఠం	Jyeṣṭhaṁ	Jyeshtha (May–Jun)	Traditional Telugu			
+ఆషాఢం	Āṣāḍhaṁ	Ashadha (Jun–Jul)	Traditional Telugu	Monsoon begins; Bonalu festival		
+శ్రావణం	Śrāvaṇaṁ	Shravana (Jul–Aug)	Traditional Telugu	Rainy season; many rituals		
+భాద్రపదం	Bhādrapadaṁ	Bhadrapada (Aug–Sep)	Traditional Telugu	Ganesh Chaturthi, Pitru Paksha		
+ఆశ్వయుజం	Āśvayujaṁ	Ashwin (Sep–Oct)	Traditional Telugu	Durga Puja, Diwali preparations		
+కార్తీకం	Kārtīkaṁ	Kartika (Oct–Nov)	Traditional Telugu	Diwali, Karthika Masam		
+మార్గశిరం	Mārgaśiraṁ	Margashirsha (Nov–Dec)	Traditional Telugu	Pre-winter; devotional focus		
+పౌషం	Pauṣaṁ	Pausha (Dec–Jan)	Traditional Telugu	Winter month		
+మాఘం	Māghaṁ	Magha (Jan–Feb)	Traditional Telugu	Sankranti, Magha masam		
+ఫాల్గుణం	Phālguṇaṁ	Phalguna (Feb–Mar)	Traditional Telugu	Holi, end of lunar year		
+						
+						
+Telugu Script	Transliteration	English Meaning	Measure Type	Unit System	Notes	
+కిలో	Kilō	kilogram	Weight	Metric		
+గ్రాము	Grāmu	gram	Weight	Metric		
+టన్ను	Ṭannu	ton	Weight	Metric		
+పౌను	Pauna	pound	Weight	Imperial (loan)		
+ఔన్సు	Aunsu	ounce	Weight	Imperial (loan)		
+మీటరు	Mīṭaru	meter	Length	Metric		
+సెంటీమీటరు	Senṭīmīṭaru	centimeter	Length	Metric		
+కిలోమీటరు	Kilōmīṭaru	kilometer	Length	Metric		
+అడుగు	Aḍugu	foot	Length	Imperial (native approximation)		
+అంగుళం	Aṅguḷaṁ	inch	Length	Traditional		
+మైలు	Mailu	mile	Length	Imperial (loan)		
+లీటరు	Līṭaru	liter	Volume	Metric		
+మిల్లీలీటరు	Millīlīṭaru	milliliter	Volume	Metric		
+గాలను	Gālanu	gallon	Volume	Imperial (loan)		
+చప్పరం	Cappaṟaṁ	approx. handful	Volume	Traditional (informal)		
+రూపాయిలు	Rūpāyilu	rupees	Currency	Indian		
+డాలర్లు	Dālarlu	dollars	Currency	Foreign (loan)		
+పైసలు	Paisalu	paise	Currency	Subunit of rupee		
+గంటలు	Gaṇṭalu	hours	Time	Duration		
+నిమిషాలు	Nimiṣālu	minutes	Time	Duration		
+సెకన్లు	Sekanlu	seconds	Time	Duration		
+రోజులు	Rōjulu	days	Time	Duration		
+వారాలు	Vārālu	weeks	Time	Duration		
+నెలలు	Nelalu	months	Time	Duration		
+సంవత్సరాలు	Saṁvatsarālu	years	Time	Duration		
+మంది	Mandi	people (count)	Count	Collective numeral		
+మార్లు	Mārlu	times (frequency)	Frequency	As in "రెండు మార్లు"		
+సార్లు	Sārlu	times (occasions)	Frequency	Synonym of మార్లు		
+ఎకరాలు	Ekarālu	acres	Area	Land measurement		
+హెక్టారులు	Heḵṭārulu	hectares	Area	Metric		
+చదరపు మీటర్లు	Cadarapu mīṭarlu	square meters	Area	Metric		
+డజను	Dajanu	dozen	Count	12 units		
+వంద	Vanda	hundred	Number	Used with measures: "వంద రూపాయిలు"		
+వెయ్యి	Veyyi	thousand	Number			
+లక్ష	Lakṣa	lakh (100,000)	Number	Indian numbering system		
+కోటి	Kōṭi	crore (10 million)	Number			
+పేజీలు	Pējīlu	pages	Count	Text units		
+కిలోమీటర్ల వేగం	Kilōmīṭarla vēgaṁ	km/h	Speed	Metric		
+డిగ్రీలు	Digrīlu	degrees	Temperature/Angle			
+వాట్లు	Vāṭlu	watts	Power	Electrical		
+కేలరీలు	Kēlarīlu	calories	Energy	Nutrition		
+బిట్లు	Biṭlu	bits	Data	IT context		
+మెగాబైట్లు	Megābaiṭlu	megabytes	Data			
+శాతం	Śātaṁ	percent	Proportion			
+భాగం	Bhāgaṁ	part/fraction	Proportion	e.g., "మూడో వంతు భాగం"		
+వంతు	Vantu	portion/share	Proportion			
+						
+Telugu Script	Transliteration	English Meaning	Event Type	Domain	Notes	
+సంఘటన	Saṅghaṭana	event/incident	General	—	Neutral term	
+పరిణామం	Pariṇāmaṁ	development/event	General	—	Formal	
+ఎన్నికలు	Ennikalu	elections	Political	Government		
+ప్రజాస్వామ్య ఎన్నికలు	Prājāsvāmya ennikalu	democratic elections	Political	Government		
+సార్వత్రిక ఎన్నికలు	Sārvatrīka ennikalu	general elections	Political	Government		
+ఉప ఎన్నికలు	Upa ennikalu	by-elections	Political	Government		
+సమావేశం	Samāvēśaṁ	meeting	Event	Social/Organizational		
+సదస్సు	Sadassu	conference	Event	Professional		
+సమావేశం	Samāvēśaṁ	gathering	Event	Social		
+పండుగ	Paṇḍuga	festival	Cultural	Religious/Social		
+ఉగాది	Ugādi	Telugu New Year	Cultural	Traditional calendar		
+దసరా	Dasarā	Dussehra	Cultural	Hindu festival		
+దీపావళి	Dīpāvaḷi	Diwali	Cultural			
+హోళి	Hōḷi	Holi	Cultural			
+రంజాన్	Rañjān	Ramadan	Cultural	Islamic		
+ఈద్	Eed	Eid	Cultural	Islamic		
+క్రిస్మస్	Krismas	Christmas	Cultural	Christian		
+పెళ్లి	Peḷḷi	wedding	Life Event	Personal		
+అంత్యక్రియలు	Antyakriyalu	funeral rites	Life Event	Personal		
+జననం	Jananaṁ	birth	Life Event	Personal		
+మరణం	Maraṇaṁ	death	Life Event	Personal		
+ప్రమాణ స్వీకారం	Prāmāṇa svīkāraṁ	oath-taking	Political	Government (e.g., CM swearing-in)		
+ప్రారంభోత్సవం	Prārambhōtsavaṁ	inauguration	Ceremonial	Infrastructure		
+ఆవిష్కరణ	Āviṣkaraṇa	launch/unveiling	Organizational	Products, schemes		
+సమావేశం	Samāvēśaṁ	assembly	Political	Government (e.g., Legislative Assembly)		
+యుద్ధం	Yuddhaṁ	war	Historical/Political			
+స్వాతంత్ర్య సమరం	Svātantrya samaraṁ	freedom struggle	Historical	National		
+భూకంపం	Bhūkampaṁ	earthquake	Natural Disaster	—		
+వరద	Varada	flood	Natural Disaster	—		
+తుఫాను	Tuphānu	cyclone	Natural Disaster	—		
+అగ్నిప్రమాదం	Ag nipramādaṁ	fire accident	Accident	—		
+రోడ్డు ప్రమాదం	Rōḍḍu pramādaṁ	road accident	Accident	—		
+ఆత్మహత్య	Ātmahatyā	suicide	Incident	Social		
+హత్య	Hatyā	murder	Incident	Criminal		
+దొంగతనం	Dongatanam	theft	Incident	Criminal		
+పోటీ	Pōṭī	competition	Sports/Educational			
+క్రీడా పోటీ	Krīḍā pōṭī	sports event	Sports			
+ఒలింపిక్స్	Ōlimpiks	Olympics	Sports	International		
+ప్రపంచ కప్	Prapañca kap	World Cup	Sports			
+పరీక్ష	Parīkṣa	exam	Educational			
+ఫలితాలు	Phalitālu	results	Educational			
+ప్రదర్శన	Pradarśana	demonstration/Protest	Social/Political			
+ర్యాలీ	Ryālī	rally	Political/Social			
+సమ్మేళనం	Sammēḷanaṁ	summit/conference	International/Diplomatic			
+సంక్షోభం	Saṅkṣōbhaṁ	crisis	General	Economic, political, health		
+మహమ్మారి	Mahammāri	epidemic	Health	—		
+ఉద్యమం	Udyamaṁ	movement	Social/Political	e.g., "తెలంగాణ ఉద్యమం"		
+సంస్కరణ	Saṁskaraṇa	reform	Political/Economic			
+చట్టం	Caṭṭaṁ	law enactment	Governmental	Event with legal effect		
+						
+						
+						
+						
+						
+సం.	నిర్మాణం (Pattern)	ఉదాహరణ (English)	తెలుగు వాక్యం (Telugu Sentence)	ట్రాన్స్లిటరేషన్ (Transliteration)		
+1	ప్రాథమిక నిర్మాణం (Basic SOV Structure)					
+1.1	కర్త (S) + క్రియ (V)	I walked.	నేను నడిచాను.	Nēnu naḍichānu.		
+1.2	కర్త (S) + కర్మ (O) + క్రియ (V)	She bought a saree.	ఆమె చీర కొన్నది.	Āme cīra konnadi.		
+1.3	కర్త (S) + విశేషణం (Adj) + క్రియ (V)	The tea is hot.	టీ వేడిగా ఉంది.	Ṭī vēḍigā undi.		
+1.4	కర్త (S) + స్థలం (Place) + క్రియ (V)	We are going to the market.	మేము సంతకు వెళ్తున్నాము.	Mēmu santaku veḷtunnāmu.		
+2	అలంకారిక మరియు వివరణాత్మక నిర్మాణాలు (Descriptive Structures)					
+2.1	S + Adj + N + V	He likes sweet fruits.	అతను తీయని పండ్లు ఇష్టపడతాడు.	Atanu tīyani paṇḍlu iṣṭapaḍatāḍu.		
+2.2	S + Adv + V	She runs fast.	ఆమె వేగంగా పరుగెత్తుతుంది.	Āme vēgaṅgā parugettutundi.		
+2.3	S + O + Adj (స్థితి) + V	I kept the door open.	నేను తలుపు తెరిచి ఉంచాను.	Nēnu talupu terici un̄cānu.		
+2.4	S + O + Postposition + V	I wrote the letter with a pen.	నేను పెన్నుతో ఉత్తరం రాశాను.	Nēnu pennutō uttaraṁ rāśānu.		
+3	ప్రశ్నార్థక వాక్యాలు (Interrogative Sentences - Questions)					
+3.1	Q-Word + S + O + V?	Where did you go?	మీరు ఎక్కడికి వెళ్ళారు?	Mīru ekkaḍiki veḷḷāru?		
+3.2	S + O + Q-Word + V?	What are you doing?	మీరు ఏమి చేస్తున్నారు?	Mīru ēmi cēstunnāru?		
+3.3	S + V + ఆ? (Y/N Question)	Did you eat food?	మీరు భోజనం తిన్నారా?	Mīru bhōjanaṁ tinnārā?		
+3.4	Q-Word (Who) + O + V?	Who wrote this book?	ఈ పుస్తకం ఎవరు రాశారు?	Ī pustakaṁ evaru rāśāru?		
+4	ఆజ్ఞా / అభ్యర్థన వాక్యాలు (Imperative Sentences - Commands/Requests)					
+4.1	O + V (Command - Informal)	Bring water.	నీళ్లు తీసుకురా.	Nīḷḷu tīsukurā.		
+4.2	O + V (Command - Polite)	Bring water.	నీళ్లు తీసుకురండి.	Nīḷḷu tīsukuranḍi.		
+4.3	Adv + V (Command - Informal)	Come quickly.	త్వరగా రా.	Tvaragā rā.		
+4.4	Adv + V (Command - Polite)	Come quickly.	త్వరగా రండి.	Tvaragā ranḍi.		
+4.5	V (Negative - Informal)	Don’t touch.	ముట్టుకోకు.	Muṭṭukōku.		
+4.6	V (Negative - Polite)	Don’t touch.	ముట్టుకోకండి.	Muṭṭukōkanḍi.		
+4.7	Please + V (Informal)	Please sit.	దయచేసి కూర్చో.	Dayacēsi kūrcō.		
+4.8	Please + V (Polite)	Please sit.	దయచేసి కూర్చోండి.	Dayacēsi kūrcōnḍi.		
+5	సంక్లిష్ట నిర్మాణాలు (Complex Structures)					
+5.1	S + Non-Finite Verb (Conjunctive) + Finite Verb	I came running.	నేను పరిగెత్తుతూ వచ్చాను.	Nēnu parigettutū vaccānu.		
+5.2	S + Temporal Clause + Finite Verb	After eating, I slept.	తిన్న తర్వాత, నేను నిద్రపోయాను.	Tinna taruvāta, nēnu nidrapōyānu.		
+5.3	Conditional Clause + Main Clause	If you study, you will pass.	నువ్వు చదివితే, పాస్ అవుతావు.	Nuvvu cadivitē, pās avutāvu.		
+5.4	S + Reported Speech + Finite Verb	He said he was coming.	అతను "వస్తున్నాను" అని చెప్పాడు.	Atanu "vastunnānu" ani ceppāḍu.		
+						
+సం.	నిర్మాణం (Pattern)	ఉదాహరణ (English)	తెలుగు వాక్యం	ట్రాన్స్లిటరేషన్		
+1	ప్రాథమిక SOV (Basic Subject-Object-Verb)					
+1.1	S + V	I walked.	నేను నడిచాను.	Nēnu naḍichānu.		
+1.2	S + O + V	She bought a saree.	ఆమె చీర కొన్నది.	Āme cīra konnadi.		
+1.3	S + Adj + V	The tea is hot.	టీ వేడిగా ఉంది.	Ṭī vēḍigā undi.		
+1.4	S + Place + V	We are going to the market.	మేము సంతకు వెళ్తున్నాము.	Mēmu santaku veḷtunnāmu.		
+1.5	S + Time + V	I woke up at 6.	నేను ఆరు గంటలకు లేచాను.	Nēnu āru gaṇṭalaku lēcānu.		
+1.6	S + Manner + V	He spoke softly.	అతను మెల్లగా మాట్లాడాడు.	Atanu mellagā māṭlāḍāḍu.		
+1.7	S + Purpose + V	I came to study.	చదవడానికి నేను వచ్చాను.	Cadavaḍāniki nēnu vaccānu.		
+1.8	S + Reason + V	She cried due to fear.	భయంతో ఆమె ఏడ్చింది.	Bhayaṁtō āme ēḍcindi.		
+2	విశేషణ & విశేషణ పదబంధాలు (Adjectival Phrases)					
+2.1	S + Adj + N + V	He likes sweet fruits.	అతను తీయని పండ్లు ఇష్టపడతాడు.	Atanu tīyani paṇḍlu iṣṭapaḍatāḍu.		
+2.2	S + Quantifier + N + V	I have two books.	నాకు రెండు పుస్తకాలు ఉన్నాయి.	Nāku reṇḍu pustakālu unnāyi.		
+2.3	S + Demonstrative + N + V	This is my house.	ఇది నా ఇల్లు.	Idi nā illu.		
+2.4	S + Possessive + N + V	That is his car.	అది అతని కారు.	Adi atanikāru.		
+2.5	S + N + Conj + Adj + V	She is both smart and kind.	ఆమె తెలివైనది మరియు దయగలది.	Āme telivainadi mariyu dayagaladi.		
+3	క్రియా విశేషణ & క్రియా పదబంధాలు (Adverbial Phrases)					
+3.1	S + Adv + V	She runs fast.	ఆమె వేగంగా పరుగెత్తుతుంది.	Āme vēgaṅgā parugettutundi.		
+3.2	S + O + Adv + V	I ate slowly.	నేను నెమ్మదిగా తిన్నాను.	Nēnu nemmadigā tinnānu.		
+3.3	S + Postposition + Adv + V	I spoke with him politely.	నేను అతనితో వినయంగా మాట్లాడాను.	Nēnu atanitō vinayaṅgā māṭlāḍānu.		
+4	విభక్తి & పదాల సంబంధాలు (Case & Postpositional Phrases)					
+4.1	S + O + Postposition + V	I wrote with a pen.	నేను పెన్నుతో రాశాను.	Nēnu pennutō rāśānu.		
+4.2	S + O + కోసం + V	I bought a gift for you.	మీ కోసం నేను బహుమతి కొన్నాను.	Mī kōsaṁ nēnu bahumati konnānu.		
+4.3	S + O + నుండి + V	I got a letter from him.	అతని నుండి నాకు ఉత్తరం వచ్చింది.	Atani nuṇḍi nāku uttaraṁ vaccindi.		
+4.4	S + O + లో + V	The book is in the bag.	పుస్తకం బ్యాగులో ఉంది.	Pustakaṁ byāgulō undi.		
+4.5	S + O + మీద + V	The pen is on the table.	పెన్ను బల్ల మీద ఉంది.	Pennu balla mīda undi.		
+4.6	S + O + తో + V (Comitative)	I went with my friend.	నేను నా స్నేహితుడితో వెళ్ళాను.	Nēnu nā snēhituḍitō veḷḷānu.		
+5	ప్రశ్నలు (Interrogatives)					
+5.1	Q-Word + S + O + V?	Where did you go?	మీరు ఎక్కడికి వెళ్ళారు?	Mīru ekkaḍiki veḷḷāru?		
+5.2	S + O + Q-Word + V?	What are you eating?	మీరు ఏమి తింటున్నారు?	Mīru ēmi tiṇṭunnāru?		
+5.3	S + V + ఆ? (Yes/No)	Did you sleep?	మీరు నిద్రపోయారా?	Mīru nidrapōyārā?		
+5.4	ఎవరు + V?	Who called?	ఎవరు ఫోన్ చేశారు?	Evaru phōn cēśāru?		
+5.5	ఎంత + Adj?	How tall is he?	అతను ఎంత పొడవుగా ఉన్నాడు?	Atanu enta poḍavugā unnāḍu?		
+5.6	ఎన్ని + N?	How many books?	ఎన్ని పుస్తకాలు?	Enni pustakālu?		
+5.7	ఏది?	Which one?	ఏది మీ ఇల్లు?	Ēdi mī illu?		
+6	ఆజ్ఞలు & అభ్యర్థనలు (Imperatives – Informal & Polite)					
+6.1	V (Inf) – Informal	Sit!	కూర్చో!	Kūrcō!		
+6.2	V + ండి – Polite	Sit!	కూర్చోండి!	Kūrcōnḍi!		
+6.3	Don’t + V – Informal	Don’t go!	వెళ్లకు!	Veḷlaku!		
+6.4	Don’t + V – Polite	Don’t go!	వెళ్లకండి!	Veḷlakanḍi!		
+6.5	దయచేసి + V – Please	Please help me.	దయచేసి నాకు సహాయం చెయ్యండి.	Dayacēsi nāku sahāyaṁ ceyyaṇḍi.		
+6.6	రా + పో – Hortative	Come on, let’s go!	రా, పోదాం!	Rā, pōdāṁ!		
+7	సంక్లిష్ట వాక్యాలు (Complex Sentences)					
+7.1	Conjunctive Participle + V	I came running.	పరిగెత్తుతూ వచ్చాను.	Parigettutū vaccānu.		
+7.2	Temporal Clause + V	After eating, I slept.	తిన్న తర్వాత నిద్రపోయాను.	Tinna taruvāta nidrapōyānu.		
+7.3	Causal Clause + V	Because it rained, I stayed home.	వర్షం పడింది కాబట్టి ఇంట్లో ఉన్నాను.	Varṣaṁ paḍindi kābaṭṭi iṇṭlō unnānu.		
+7.4	Conditional Clause + V	If you come, I’ll be happy.	నువ్వు వస్తే నాకు సంతోషం.	Nuvvu vastē nāku santōṣaṁ.		
+7.5	Purpose Clause + V	I saved money to buy a phone.	ఫోన్ కొనడానికి డబ్బు పెట్టుకున్నాను.	Phōn konaḍāniki ḍabbu peṭṭukunnānu.		
+7.6	Concessive Clause + V	Even though he is rich, he is humble.	అతను ధనవంతుడైనా వినయవంతుడు.	Atanu dhanavantudainā vinayavantudu.		
+8	సంయుక్త వాక్యాలు (Compound Sentences)					
+8.1	S + V1 + మరియు + V2	I ate and slept.	నేను తిన్నాను మరియు నిద్రపోయాను.	Nēnu tinnānu mariyu nidrapōyānu.		
+8.2	S + V1 + కానీ + V2	I wanted to go, but couldn’t.	వెళ్ళాలనుకున్నాను కానీ వెళ్లలేకపోయాను.	Veḷḷālanukunnānu kānī veḷḷalēkapōyānu.		
+8.3	S + V1 + లేదా + V2	Should I go or stay?	నేను వెళ్ళాలా లేదా ఉండాలా?	Nēnu veḷḷālā lēdā uṇḍālā?		
+9	నిషేధార్థకాలు (Negation)					
+9.1	S + కాదు	He is not a teacher.	అతను ఉపాధ్యాయుడు కాదు.	Atanu upādhyāyuḍu kādu.		
+9.2	S + V + లేదు	I don’t have money.	నాకు డబ్బు లేదు.	Nāku ḍabbu lēdu.		
+9.3	S + O + V + లేదు	I didn’t eat rice.	నేను అన్నం తినలేదు.	Nēnu annaṁ tinalēdu.		
+9.4	S + O + V + కూడదు	You must not lie.	నువ్వు అబద్ధం మాట్లాడకూడదు.	Nuvvu abaddhaṁ māṭlāḍakūḍadu.		
+10	సంభావ్య & అభ్యర్థన (Modality)					
+10.1	S + V + వచ్చు	It may rain.	వర్షం పడవచ్చు.	Varṣaṁ paḍavaccu.		
+10.2	S + O + V + తప్పదు	You must finish this.	మీరు దీన్ని పూర్తి చేయాల్సిందే.	Mīru dīnni pūrti cēyālsinde.		
+10.3	S + V + ఇష్టం	I want to go.	నాకు వెళ్ళాలని ఉంది.	Nāku veḷḷālani undi.		
+11	ప్రయోజక క్రియలు (Causatives)					
+11.1	S + O1 + O2 + Causative V	I made him eat.	నేను అతన్ని తినిపించాను.	Nēnu atanni tinipiñcānu.		
+11.2	S + O + Causative V	She had her hair cut.	ఆమె జుట్టు కత్తిరించుకుంది.	Āme juṭṭu kattiriñcukundi.		
+12	భావరహిత వాక్యాలు (Impersonal / Existential)					
+12.1	There + V	There is a dog.	ఒక కుక్క ఉంది.	Oka kukka undi.		
+12.2	There is no...	There is no water.	నీళ్లు లేవు.	Nīḷḷu lēvu.		
+12.3	It is possible...	It is possible to go.	వెళ్ళడం సాధ్యమే.	Veḷḷaḍaṁ sādhyamē.		
+13	పోలిక & పోలిక లేనిది (Comparison)					
+13.1	S1 + than + S2 + Adj	He is taller than me.	అతను నా కంటే పొడవుగా ఉన్నాడు.	Atanu nā kaṇṭē poḍavugā unnāḍu.		
+13.2	S + as + Adj + as	He is as tall as me.	అతను నాలాగే పొడవుగా ఉన్నాడు.	Atanu nālāgē poḍavugā unnāḍu.		
+13.3	S + most + Adj	She is the smartest.	ఆమె అత్యంత తెలివైనది.	Āme atyaṁta telivainadi.		
+14	నిష్క్రియ వాక్యాలు (Passive Voice)					
+14.1	O + Passive V	The book was read.	పుస్తకం చదవబడింది.	Pustakaṁ cadavabaḍindi.		
+14.2	O + by + Agent + Passive V	The letter was written by him.	ఉత్తరం అతని చేత రాయబడింది.	Uttaraṁ atanu cēta rāyabaḍindi.		
+15	వాక్య పునరుక్తి / ప్రత్యక్ష-పరోక్ష మాట్లాడు (Reported Speech)					
+15.1	Direct Quote	He said, “I am coming.”	అతను “నేను వస్తున్నాను” అన్నాడు.	Atanu “nēnu vastunnānu” annāḍu.		
+15.2	Indirect Speech	He said he was coming.	అతను వస్తున్నానని చెప్పాడు.	Atanu vastunnānani ceppāḍu.		
+16	గౌరవార్థక వాక్యాలు (Honorific Constructions)					
+16.1	Respectful Pronoun + V	Can you come?	మీరు రాగలరా?	Mīru rāgalārā?		
+16.2	Respectful Verb Form	Please sit.	కూర్చోండి.	Kūrcōnḍi.		
+16.3	గారు + Verb	Respected sir came.	గారు వచ్చారు.	Gāru vaccāru.		
+17.1	Emphatic Pronoun + V	I myself did it.	నేనే చేశాను.	Nēnē cēśānu.		
+17.2	Reflexive	Others helped me.	ఇతరులు నాకు సహాయం చేశారు.	Itarulu nāku sahāyaṁ cēśāru.		
+18	సంభాషణా నమూనాలు (Discourse Markers)					
+18.1	Well... / So...	So, what should I do?	అయితే, నేను ఏం చేయాలి?	Aytē, nēnu ēṁ cēyāli?		
+18.2	Right? (Tag)	It’s hot, right?	వేడిగా ఉంది కదా?	Vēḍigā undi kadā?		
+18.3	You know...	You know, he is my friend.	నీకు తెలుసా, అతను నా స్నేహితుడు.	Nīku telusā, atanu nā snēhituḍu.		
+19	పౌనరుక్త్య & ప్రత్యేక నిర్మాణాలు (Idioms & Reduplication)					
+19.1	Reduplication for emphasis	He ran very fast.	అతను వేగంగా వేగంగా పరిగెత్తాడు.	Atanu vēgaṅgā vēgaṅgā parigettāḍu.		
+19.2	Idiomatic Expression	I’m fed up.	నాకు అలసిపోయాను.	Nāku alasipōyānu.		
+20	భవిష్యత్తు / గత / వర్తమాన కాలాలు (Tense Variations)					
+20.1	Present Continuous	I am eating.	నేను తింటున్నాను.	Nēnu tiṇṭunnānu.		
+20.2	Simple Past	I ate.	నేను తిన్నాను.	Nēnu tinnānu.		
+20.3	Future	I will eat.	నేను తింటాను.	Nēnu tiṇtānu.		
+20.4	Present Perfect	I have eaten.	నేను తినేశాను.	Nēnu tinēśānu.		
+20.5	Past Perfect	I had eaten before he came.	అతను వచ్చే ముందు నేను తినేశాను.	Atanu vaccē munda nēnu tinēśānu.		
+						
+														
+Telugu Script	Transliteration	English Meaning	Object Type	Domain	Notes								
+పుస్తకం	Pustakaṁ	book	Artifact	Education/Reading									
+పేపర్	Pēpar	paper	Artifact	Office/Writing									
+పెన్ను	Pennu	pen	Artifact	Writing									
+ల్యాప్‌టాప్	Lyāpṭāp	laptop	Artifact	Technology									
+ఫోన్	Phōn	phone	Artifact	Technology									
+మొబైల్	Mobail	mobile phone	Artifact	Technology	Colloquial								
+టీవీ	Ṭīvī	television	Artifact	Electronics									
+రేడియో	Rēḍiyō	radio	Artifact	Electronics									
+కారు	Kāru	car	Artifact	Transportation									
+బైక్	Baik	bike/motorcycle	Artifact	Transportation									
+ఆటో	Āṭō	auto-rickshaw	Artifact	Transportation	Loanword								
+బస్సు	Bassu	bus	Artifact	Transportation									
+రైలు	Railu	train	Artifact	Transportation									
+విమానం	Vimānaṁ	airplane	Artifact	Transportation									
+బట్టలు	Baṭṭalu	clothes	Artifact	Apparel									
+షర్టు	Ṣarṭu	shirt	Artifact	Apparel	Loanword								
+పాంట్లు	Pāṇṭlu	pants	Artifact	Apparel									
+చెప్పులు	Ceppulu	sandals/shoes	Artifact	Footwear									
+గడియారం	Gaḍiyāraṁ	watch	Artifact	Accessories									
+ఆభరణాలు	Ābharaṇālu	jewelry	Artifact	Accessories									
+బ్యాగు	B yāgu	bag	Artifact	Accessories	Loanword								
+తలుపు	Talupu	door	Artifact	Architecture/Furniture									
+కిటికీ	Kiṭikī	window	Artifact	Architecture									
+బల్ల	Balla	table	Artifact	Furniture									
+కుర్చీ	Kurcī	chair	Artifact	Furniture									
+మంచం	Mancaṁ	bed	Artifact	Furniture									
+ఫ్యాన్	Phyān	fan	Artifact	Appliances									
+ఫ్రిజ్	Phrij	fridge	Artifact	Appliances	Loanword								
+స్టవ్	Stav	stove	Artifact	Appliances									
+ఇంధనం	Indhanaṁ	fuel	Substance	Energy									
+విద్యుత్తు	Vidyuttu	electricity	Substance	Energy									
+నీరు	Nīru	water	Substance	Food/Drink									
+పాలు	Pālu	milk	Substance	Food/Drink									
+పాలిచ్చు	Pāliccu	milk (measure form)	Substance	Food/Drink	Genitive used with quantity								
+బియ్యం	Biyyaṁ	rice	Substance	Food									
+పప్పు	Pappu	dal	Substance	Food									
+సాంబారు	Sāmbāru	sambar	Substance	Food									
+అన్నం	Annaṁ	cooked rice	Substance	Food									
+కూర	Kūra	vegetable curry	Substance	Food									
+పండు	Paṇḍu	fruit	Substance	Food									
+ఆహారం	Āhāraṁ	food	Substance	Food									
+మాంసం	Māṁsaṁ	meat	Substance	Food									
+ఔషధం	Auṣadhaṁ	medicine	Substance	Healthcare									
+మాత్ర	Mātrā	pill/tablet	Substance	Healthcare									
+ఇంజక్షన్	Injakṣan	injection	Substance	Healthcare	Loanword								
+పరీక్షా పత్రం	Parīkṣā patraṁ	exam paper	Artifact	Education									
+మార్కులు	Mārkulu	marks	Abstract	Education									
+సర్టిఫికెట్	Sarṭiphikeṭ	certificate	Artifact	Education/Admin									
+కీలకం	Kīlakaṁ	key	Artifact	Tools									
+గొడ్డలి	Goḍḍali	axe	Artifact	Tools									
+మేసం	Mēsaṁ	scissors	Artifact	Tools									
+కత్తి	Katti	knife	Artifact	Tools									
+బిల్లులు	Billulu	bills/invoices	Artifact	Finance									
+డబ్బు	Dabbu	money	Substance	Finance									
+నోట్లు	Nōṭlu	banknotes	Substance	Finance									
+నాణేలు	Nāṇēlu	coins	Substance	Finance									
+ప్లాస్టిక్	Plāsṭik	plastic	Substance	Material									
+ఇనుము	Inumu	iron	Substance	Material									
+బంగారం	Baṅgāraṁ	gold	Substance	Material									
+వెండి	Veṇḍi	silver	Substance	Material									
+మట్టి	Maṭṭi	clay/soil	Substance	Material									
+రాయి	Rāyi	stone	Substance	Material									
+చెక్క	Cekka	wood	Substance	Material									
+ఇటుక	Ituka	brick	Substance	Material									
+సిమెంటు	Simentu	cement	Substance	Material	Loanword								
+కాగితం	Kāgitaṁ	paper (sheet)	Substance	Office/Writing									
+గాజు	Gāju	glass	Substance	Material									
+అద్దం	Addaṁ	mirror	Artifact	Home/Decor									
+తల్లి	Tallī	mother	Person	Family									
+నాన్న	Nānna	father	Person	Family									
+అక్క	Akkā	elder sister	Person	Family									
+అన్న	Anna	elder brother	Person	Family									
+తండ్రి	Taṇḍrī	father (formal)	Person	Family									
+తల్లిదండ్రులు	Tallidaṇḍrulu	parents	Person	Family									
+బిడ్డ	Biḍḍa	child	Person	Family									
+అబ్బాయి	Abbāyi	boy	Person	Family									
+అమ్మాయి	Amṃāyi	girl	Person	Family									
+స్నేహితుడు	Snēhituḍu	friend (masc)	Person	Social									
+స్నేహితురాలు	Snēhiturālu	friend (fem)	Person	Social									
+డాక్టర్	Dākṭar	doctor	Person	Healthcare	Loanword								
+నర్సు	Narsu	nurse	Person	Healthcare	Loanword								
+ఉపాధ్యాయుడు	Upādhyāyuḍu	teacher (masc)	Person	Education									
+ఉపాధ్యాయురాలు	Upādhyāyurālu	teacher (fem)	Person	Education									
+పోలీసు	Pōlīsu	police officer	Person	Public Service	Loanword								
+కుక్క	Kukka	dog	Animal	Pets/Fauna									
+పిల్లి	Pilli	cat	Animal	Pets/Fauna									
+ఆవు	Āvu	cow	Animal	Livestock									
+ఎద్దు	Ed'du	bullock	Animal	Livestock									
+గుర్రం	Gurraṁ	horse	Animal	Livestock/Transport									
+పంది	Pandi	pig	Animal	Livestock									
+మేక	Mēka	goat	Animal	Livestock									
+ఆలస్యం	Ālasyaṁ	laziness	Abstract	Behavior									
+గుడి	Guḍi	temple	Artifact	Religion									
+చర్చి	Carci	church	Artifact	Religion	Loanword								
+మసీదు	Masīdu	mosque	Artifact	Religion	Loanword								
+పూజారి	Pūjāri	priest	Person	Religion									
+దీపం	Dīpaṁ	lamp	Artifact	Religion/Home									
+అగ్గి	Aggi	fire	Substance	Nature/Energy									
+ఆకాశం	Ākāśaṁ	sky	Substance	Nature									
+నది	Nadi	river	Substance	Nature/Geography									
+సముద్రం	Samudraṁ	ocean	Substance	Nature/Geography									
+కొండ	Koṇḍa	hill/mountain	Substance	Nature/Geography									
+చెట్టు	Ceṭṭu	tree	Substance	Nature/Flora									
+పువ్వు	Puvvu	flower	Substance	Nature/Flora									
+ఆకు	Āku	leaf	Substance	Nature/Flora									
+పండు	Paṇḍu	fruit	Substance	Nature/Flora									
+వర్షం	Varṣaṁ	rain	Substance	Nature/Weather									
+ఎండ	Enḍa	sunlight/heat	Substance	Nature/Weather									
+గాలి	Gāli	wind	Substance	Nature/Weather									
+మేఘం	Mēghaṁ	cloud	Substance	Nature/Weather									
+ఉదయం	Udayaṁ	morning	Time	Nature/Time									
+సాయంత్రం	Sāyantaraṁ	evening	Time	Nature/Time									
+రాత్రి	Rātri	night	Time	Nature/Time									
+సమయం	Samayaṁ	time	Abstract	Nature/Time									
+సూర్యుడు	Sūryuḍu	sun	Personified	Nature/Celestial									
+చంద్రుడు	Candruḍu	moon	Personified	Nature/Celestial									
+నక్షత్రం	Nakṣatraṁ	star	Substance	Nature/Celestial									
+భూమి	Bhūmi	earth/land	Substance	Geography									
+దేశం	Dēśaṁ	country	Artifact	Geography/Politics									
+నగరం	Nagaraṁ	city	Artifact	Geography/Urban									
+గ్రామం	Grāmaṁ	village	Artifact	Geography/Rural									
+రోడ్డు	Rōḍḍu	road	Artifact	Infrastructure	Loanword								
+పేరు	Pēru	name	Abstract	Identity									
+చిరునామా	Cirunāmā	address	Artifact	Communication									
+ఫోన్ నంబర్	Phōn nambhar	phone number	Artifact	Communication	Loanword								
+ఇమెయిల్	Imeyil	email	Artifact	Communication	Loanword								
+పాస్‌పోర్ట్	Pās‌pōrṭ	passport	Artifact	Government/Travel									
+వీసా	Vīsā	visa	Artifact	Government/Travel	Loanword								
+డ్రైవింగ్ లైసెన్స్	Ḍraiviṅ lāisenṣ	Driving license	Artifact	Government									
+పాస్ బుక్	Pās buk	passbook	Artifact	Banking									
+ATM కార్డ్	ATM kārḍ	ATM card	Artifact	Banking	Loanword								
+క్రెడిట్ కార్డ్	Kreḍiṭ kārḍ	credit card	Artifact	Banking	Loanword								
+డెబిట్ కార్డ్	Ḍebiṭ kārḍ	debit card	Artifact	Banking	Loanword								
+బ్యాంకు	B yāṅku	bank	Artifact	Finance	Loanword								
+బ్యాలెన్స్	B yālens	balance	Abstract	Finance	Loanword								
+అకౌంట్	Acounṭ	account	Artifact	Finance	Loanword								
+సామాను	Sāmānu	luggage/belongings	Artifact	Travel									
+టికెట్	Ṭikeṭ	ticket	Artifact	Travel	Loanword								
+సూట్‌కేస్	Sūṭ‌kēs	suitcase	Artifact	Travel	Loanword								
+కెమెరా	Kamerā	camera	Artifact	Technology/Photography	Loanword								
+మైక్రోఫోన్	Maikrōphōn	microphone	Artifact	Technology/Audio	Loanword								
+స్పీకర్	Spīkar	speaker	Artifact	Technology/Audio	Loanword								
+హెడ్‌ఫోన్స్	Heḍ‌phōns	headphones	Artifact	Technology/Audio	Loanword								
+బ్యాటరీ	B yāṭarī	battery	Artifact	Technology/Power									
+ఛార్జర్	Chārjar	charger	Artifact	Technology/Power	Loanword								
+ఇంటర్నెట్	Intarṇeṭ	internet	Artifact	Technology/Communication	Loanword								
+వై-ఫై	Vai-Phai	Wi-Fi	Artifact	Technology/Network	Loanword								
+రౌటర్	Rautar	router	Artifact	Technology/Network	Loanword								
+మౌస్	Maus	mouse (computer)	Artifact	Technology/Input									
+కీబోర్డు	Kībōrḍu	keyboard	Artifact	Technology/Input	Loanword								
+మానిటర్	Māniṭar	monitor	Artifact	Technology/Display	Loanword								
+ప్రింటర్	Priṇṭar	printer	Artifact	Technology/Output	Loanword								
+ప్రాజెక్టర్	Prājekṭar	projector	Artifact	Technology/Display	Loanword								
+స్మార్ట్‌ఫోన్	Smārṭ‌phōn	smartphone	Artifact	Technology									
+టాబ్లెట్	Tābleṭ	tablet	Artifact	Technology	Loanword								
+ల్యాప్‌టాప్ బ్యాగ్	Lyāpṭāp byāg	laptop bag	Artifact	Accessories	Loanword								
+వాచ్	Vāc	watch	Artifact	Accessories	Loanword variant								
+టై	Tai	tie	Artifact	Apparel	Loanword								
+సారీ	Sārī	sari	Artifact	Apparel									
+పంచె	Paṇcē	dhoti	Artifact	Apparel									
+మొక్కలు	Mokkalu	plants	Substance	Nature/Flora									
+గడ్డి	Gaḍḍi	grass	Substance	Nature/Flora									
+పాము	Pāmu	snake	Animal	Fauna									
+ఏనుగు	Ēnugu	elephant	Animal	Fauna									
+సింహం	Simhaṁ	lion	Animal	Fauna									
+పులి	Puli	tiger	Animal	Fauna									
+గుడ్డ	Guḍḍa	cloth/fabric	Substance	Material									
+దారం	Dāraṁ	thread	Substance	Material									
+కుండ	Kuṇḍa	pot	Artifact	Kitchen/Household									
+కడాయి	Kaḍāyi	wok/frying pan	Artifact	Kitchen									
+బేలన్	Bēlan	rolling pin	Artifact	Kitchen									
+చిల్లర	Chillara	change (coins)	Substance	Finance/Colloquial									
+ఇంజిన్	Injin	engine	Artifact	Transportation/Technology	Loanword								
+బ్రేకులు	Brēkulu	brakes	Artifact	Transportation	Loanword								
+హార్న్	Hārn	horn	Artifact	Transportation	Loanword								
+సైకిల్	Saikil	cycle	Artifact	Transportation	Loanword								
+పెట్రోలు	Peṭrōlu	petrol	Substance	Energy/Transportation	Loanword								
+డీజిల్	Dījil	diesel	Substance	Energy/Transportation	Loanword								
+LPG	LPG	LPG gas	Substance	Energy/Kitchen	Acronym								
+బైకు హెల్మెట్	Baiku heliumet	bike helmet	Artifact	Safety/Transportation	Loanword								
+సీటు బెల్ట్	Sīṭu belṭ	seat belt	Artifact	Safety/Transportation	Loanword								
+మందు	Maṇḍu	ointment/paste	Substance	Healthcare									
+పొడి	Poḍi	powder	Substance	Healthcare/Food									
+సబ్బు	Sabbu	soap	Substance	Healthcare/Hygiene									
+షాంపూ	Ṣāmpū	shampoo	Substance	Healthcare/Hygiene	Loanword								
+టూత్ పేస్ట్	Tūth pēsṭ	toothpaste	Substance	Healthcare/Hygiene	Loanword								
+టూత్ బ్రష్	Tūth braṣ	toothbrush	Artifact	Healthcare/Hygiene	Loanword								
+తాళం	Tāḷaṁ	lock	Artifact	Security									
+చీలిక	Cheelika	wallet	Artifact	Accessories									
+బ్యాంక్ స్టేట్ మెంట్	B yāṅk stēṭ menṭ	bank statement	Artifact	Finance	Loanword								
+క్యాలెండర్	Kyāleṇḍar	calendar	Artifact	Office/Timekeeping	Loanword								
+అలారం గడియారం	Alārṁ gaḍiyāraṁ	alarm clock	Artifact	Home/Timekeeping									
+టర్చి	Tarci	torch/flashlight	Artifact	Home/Utility	Loanword								
+బెడ్ షీట్	Bed ṣīṭ	bed sheet	Artifact	Home/Furniture	Loanword								
+తలనిండా	Talaninḍā	pillow	Artifact	Home/Furniture	Colloquial form of "తల పిల్లో"								
+కంబళి	Kaṁbaḷi	blanket	Artifact	Home/Furniture									
+ఈత అద్దం	Īta addaṁ	bathroom mirror	Artifact	Home/Bathroom									
+బాత్ టవల్	Bāth ṭaval	bath towel	Artifact	Home/Bathroom	Loanword								
+సబ్బు డిష్	Sabbu diṣ	soap dish	Artifact	Home/Bathroom	Loanword								
+బకెట్	Bakeṭ	bucket	Artifact	Home/Cleaning	Loanword								
+మాప్	Māp	map	Artifact	Geography/Navigation	Loanword								
+కంపాస్	Kampās	compass	Artifact	Navigation	Loanword								
+పెన్సిల్	Pensil	pencil	Artifact	Writing	Loanword								
+ఇరేజర్	Irējar	eraser	Artifact	Writing	Loanword								
+షార్ప్ నర్	Peṣarp nar	sharpener	Artifact	Writing	Loanword								
+ఫైల్	Phail	file/folder	Artifact	Office	Loanword								
+స్టేపులర్	Stēpular	stapler	Artifact	Office	Loanword								
+స్కిసర్స్	Skisars	scissors	Artifact	Office/Craft	Loanword								
+టేప్	Tēp	tape	Artifact	Office	Loanword								
+గ్లూ	Glū	glue	Artifact	Office/Craft	Loanword								
+													
+													
+Telugu Script	Transliteration	English Meaning	Object Type	Domain	Notes								
+ప్రేమ	Prēma	love	Abstract	Emotion									
+ద్వేషం	Dvēṣaṁ	hate	Abstract	Emotion									
+కోపం	Kōpaṁ	anger	Abstract	Emotion									
+భయం	Bhayaṁ	fear	Abstract	Emotion									
+ఆనందం	Ānandaṁ	joy/happiness	Abstract	Emotion									
+విచారం	Vicāraṁ	sadness	Abstract	Emotion									
+ఆశ	Āśa	hope	Abstract	Emotion/Cognition									
+నిరాశ	Nirāśa	despair	Abstract	Emotion/Cognition									
+అహంకారం	Ahaṁkāraṁ	ego/pride	Abstract	Psychology									
+వినయం	Vinayaṁ	humility	Abstract	Psychology/Morality									
+ధైర్యం	Dhairyaṁ	courage	Abstract	Psychology									
+భయభ్రాంతి	Bhayabhrānti	panic	Abstract	Emotion									
+సంతృప్తి	Santṛpti	satisfaction	Abstract	Emotion									
+అసహనం	Asahanam	impatience	Abstract	Emotion									
+ఓర్పు	Ōrpu	patience	Abstract	Morality									
+సాహసం	Sāhasaṁ	daring	Abstract	Psychology									
+అవిశ్వాసం	Avisvāsaṁ	distrust	Abstract	Social									
+విశ్వాసం	Viśvāsaṁ	trust	Abstract	Social									
+అభిమానం	Abhimānaṁ	affection/pride	Abstract	Emotion/Social									
+గర్వం	Garvaṁ	pride (positive)	Abstract	Emotion									
+లజ్జ	Lajja	embarrassment/shame	Abstract	Emotion/Morality									
+గౌరవం	Gauravaṁ	respect	Abstract	Social/Morality									
+అవమానం	Avamānaṁ	insult/disrespect	Abstract	Social									
+న్యాయం	Nyāyaṁ	justice	Abstract	Law/Ethics									
+అన్యాయం	Anyāyaṁ	injustice	Abstract	Law/Ethics									
+సత్యం	Satyaṁ	truth	Abstract	Ethics/Cognition									
+అసత్యం	Asatyaṁ	lie/falsehood	Abstract	Ethics									
+నీతి	Nīti	ethics/morality	Abstract	Ethics									
+దుర్నీతి	Durnīti	corruption	Abstract	Ethics/Social									
+స్వేచ్ఛ	Svēccha	freedom	Abstract	Politics/Philosophy									
+అధికారం	Adhikāraṁ	authority/power	Abstract	Governance									
+హక్కు	Hakku	right	Abstract	Law/Social									
+బాధ్యత	Bādhyata	responsibility	Abstract	Social/Ethics									
+కర్తవ్యం	Kartavyaṁ	duty	Abstract	Ethics									
+స్వార్థం	Svārthaṁ	self-interest	Abstract	Psychology/Ethics									
+త్యాగం	Tyāgaṁ	sacrifice	Abstract	Ethics/Philosophy									
+సేవ	Seva	service	Abstract	Social/Ethics									
+సహనం	Sahanaṁ	tolerance	Abstract	Social/Morality									
+అసహనం	Asahanaṁ	intolerance	Abstract	Social									
+విజయం	Vijayaṁ	victory	Abstract	Achievement									
+ఓటమి	Ōṭami	defeat	Abstract	Achievement									
+విఫలత	Viphalata	failure	Abstract	Achievement									
+విజ్ఞానం	Vijñānaṁ	knowledge	Abstract	Cognition									
+అజ్ఞానం	Ajñānaṁ	ignorance	Abstract	Cognition									
+బుద్ధి	Buddhi	intelligence	Abstract	Cognition									
+మూర్ఖత	Mūrkhatā	stupidity	Abstract	Cognition									
+స్మృతి	Smṛti	memory	Abstract	Cognition									
+మరపు	Marapu	forgetfulness	Abstract	Cognition									
+ఆలోచన	Ālōcana	thought	Abstract	Cognition									
+ఊహ	Ūha	imagination	Abstract	Cognition									
+నమ్మకం	Nammakaṁ	belief	Abstract	Cognition/Social									
+సందేహం	Sandēhaṁ	doubt	Abstract	Cognition									
+భావన	Bhāvana	concept/feeling	Abstract	Cognition/Emotion									
+ఆకాంక్ష	Ākāṅkṣa	desire	Abstract	Emotion/Cognition									
+ఆశయం	Āśayaṁ	intention	Abstract	Cognition/Ethics									
+ఉద్దేశం	Uddēśaṁ	purpose	Abstract	Cognition									
+సమయం	Samayaṁ	time	Abstract	Time/Nature									
+కాలం	Kālaṁ	time/era	Abstract	Time/Philosophy									
+వయస్సు	Vayassu	age	Abstract	Time/Biology									
+పరిపక్వత	Paripakvatā	maturity	Abstract	Psychology									
+పిల్లతనం	Pillatanaṁ	childhood	Abstract	Time/Life Stage									
+యవ్వనం	Yavvanaṁ	youth	Abstract	Time/Life Stage									
+వృద్ధాప్యం	Vrddhāpyaṁ	old age	Abstract	Time/Life Stage									
+మరణం	Maraṇaṁ	death	Abstract	Life Cycle									
+జీవితం	Jīvitaṁ	life	Abstract	Philosophy/Biology									
+అస్తిత్వం	Astitvaṁ	existence	Abstract	Philosophy									
+సత్తా	Sattā	being/essence	Abstract	Philosophy									
+స్వభావం	Svabhāvaṁ	nature (of a person/thing)	Abstract	Psychology/Philosophy									
+గుణం	Guṇaṁ	quality/virtue	Abstract	Ethics/Philosophy									
+దోషం	Dōṣaṁ	flaw/defect	Abstract	Ethics/Philosophy									
+శక్తి	Śakti	power/energy	Abstract	Physics/Psychology									
+బలహీనత	Balahīnata	weakness	Abstract	Psychology									
+సమర్థత	Samarthata	competence	Abstract	Skill/Ethics									
+అసమర్థత	Asamarthata	incompetence	Abstract	Skill									
+సామర్థ్యం	Sāmarthyam	ability	Abstract	Cognition/Skill									
+ప్రతిభ	Pratibha	talent	Abstract	Skill/Cognition									
+సృజనాత్మకత	Sṛjanātmakatā	creativity	Abstract	Cognition/Art									
+కృషి	Kṛṣi	effort	Abstract	Work/Ethics									
+సోమరితనం	Sōmaritanam	laziness	Abstract	Behavior/Ethics									
+శ్రద్ధ	Śraddha	attention/devotion	Abstract	Cognition/Religion									
+అశ్రద్ధ	Aśraddha	inattention	Abstract	Cognition									
+ఆసక్తి	Āsakti	interest	Abstract	Emotion/Cognition									
+విరక్తి	Virakti	disinterest	Abstract	Emotion/Cognition									
+మార్పు	Mārpu	change	Abstract	Process/Philosophy									
+స్థిరత	Sthirata	stability	Abstract	Process/Physics									
+అస్థిరత	Asthirata	instability	Abstract	Process									
+సమతుల్యత	Samatulyatā	balance	Abstract	Philosophy/Physics									
+అసమతుల్యత	Asamatulyatā	imbalance	Abstract	Philosophy/Physics									
+ప్రగతి	Pragati	progress	Abstract	Society/Development									
+అవక్షిప్తి	Avakṣipti	regression	Abstract	Society/Development									
+సమాధానం	Samādhānaṁ	peace	Abstract	Emotion/Philosophy									
+అశాంతి	Aśānti	unrest	Abstract	Social/Emotion									
+శాంతి	Śānti	peace (spiritual)	Abstract	Religion/Philosophy									
+యుద్ధం	Yuddhaṁ	war	Abstract	Conflict/Social									
+సంఘర్షణ	Saṅgharṣaṇa	conflict	Abstract	Social									
+సహకారం	Sahakāraṁ	cooperation	Abstract	Social									
+పోటీ	Pōṭī	competition	Abstract	Social/Economics									
+సమానత్వం	Samānatvaṁ	equality	Abstract	Social/Ethics									
+అసమానత	Asamānata	inequality	Abstract	Social/Ethics									
+న్యాయపరత	Nyāyaparata	fairness	Abstract	Ethics									
+పక్షపాతం	Pakṣapātaṁ	bias	Abstract	Social/Cognition									
+సౌందర్యం	Saundaryaṁ	beauty	Abstract	Aesthetics									
+వికారం	Vikāraṁ	ugliness/distortion	Abstract	Aesthetics/Psychology									
+సత్యనిష్ఠ	Satyaniṣṭha	commitment to truth	Abstract	Ethics									
+అస్థిరత్వం	Asthiratvaṁ	inconstancy	Abstract	Psychology									
+విశ్వాసఘాతం	Viśvāsaghātaṁ	betrayal	Abstract	Social/Morality									
+కృతజ్ఞత	Kṛtajñatā	gratitude	Abstract	Social/Morality									
+కృతఘ్నత	Kṛtaghnatā	ingratitude	Abstract	Social/Morality									
+మానవత	Mānavata	humanity	Abstract	Ethics/Social									
+అమానవత	Amānavata	inhumanity	Abstract	Ethics/Social									
+సమ్మతి	Sammati	consent	Abstract	Social/Law									
+అసమ్మతి	Asammatti	dissent	Abstract	Social/Law									
+ప్రజాస్వామ్యం	Prājāsvāmyaṁ	democracy	Abstract	Politics									
+నియంతృత్వం	Niyaṁtr̥tvaṁ	authoritarianism	Abstract	Politics									
+స్వాతంత్ర్యం	Svātantryaṁ	independence	Abstract	Politics/Philosophy									
+ఆధారం	Ādhāraṁ	basis/foundation	Abstract	Conceptual									
+సంకల్పం	Saṅkalpaṁ	resolve/determination	Abstract	Psychology/Ethics									
+విచక్షణ	Vicakṣaṇa	discernment	Abstract	Cognition/Ethics									
+అసహాయత	Asahāyata	helplessness	Abstract	Emotion									
+ఆశ్రయం	Āśrayaṁ	refuge/support	Abstract	Social/Emotion									
+సమస్య	Samasya	problem	Abstract	Cognition/Social									
+పరిష్కారం	Pariṣkāraṁ	solution	Abstract	Cognition/Social									
+ప్రశ్న	Praśna	question	Abstract	Cognition/Education									
+సమాధానం	Samādhānaṁ	answer	Abstract	Cognition/Education									
+విజ్ఞాపన	Vijñāpana	notification	Abstract	Communication									
+అభిప్రాయం	Abhiprāyaṁ	opinion	Abstract	Social/Cognition									
+నిర్ణయం	Nirṇayaṁ	decision	Abstract	Cognition/Ethics									
+ఆలోచనా విధానం	Ālōcanā vidhānaṁ	thought process	Abstract	Cognition									
+చైతన్యం	Caitanyaṁ	consciousness	Abstract	Philosophy/Psychology									
+అవగాహన	Avagāhana	understanding	Abstract	Cognition									
+భ్రమ	Bhrama	delusion	Abstract	Cognition/Psychology									
+సందిగ్ధత	Sandigdhatā	ambiguity	Abstract	Cognition									
+స్పష్టత	Spaṣṭatā	clarity	Abstract	Cognition									
+ఆందోళన	Āndōḷana	anxiety	Abstract	Emotion									
+ఆత్మవిశ్వాసం	Ātmaviśvāsaṁ	self-confidence	Abstract	Psychology									
+ఆత్మగౌరవం	Ātmagauravaṁ	self-respect	Abstract	Psychology/Ethics									
+													
+													
+Telugu Script	Transliteration	English Meaning	Type	Subtype	Usage Notes								
+మరియు	Mariyu	and	Coordinating	Conjunction	Formal; used in writing								
+ఇంకా	Iṅkā	and also / moreover	Discourse	Additive	Also means "still" (temporal) — context-dependent								
+అలాగే	Alāgē	similarly / also	Discourse	Additive									
+కానీ	Kānī	but	Adversative	Conjunction	Most common contrast marker								
+అయితే	Aitē	however / but	Discourse	Adversative	Very common in spoken Telugu; often sentence-initial								
+అయినా	Ainā	even though / although	Subordinating	Concessive									
+అయినప్పటికీ	Ayinappaṭikī	nevertheless	Adversative	Discourse									
+లేదా	Lēdā	or	Coordinating	Alternative									
+అల్లేదా	Allēdā	or else / otherwise	Discourse	Alternative/Warning									
+ఎందుకంటే	Endukaṇṭē	because	Subordinating	Causal	Clause-initial; reason clause								
+ఎందుకంటేనే	Endukaṇṭēnē	because (emphatic)	Subordinating	Causal									
+అందువల్ల	Anduval-la	therefore / so	Discourse	Causal	Result marker								
+కాబట్టి	Kābaṭṭi	so / hence	Discourse	Causal	Colloquial synonym of అందువల్ల								
+అప్పుడు	Appuḍu	then	Discourse	Temporal/Logical	Used in "if... then" or narrative sequence								
+ఒకవేళ	Okavēḷa	if	Subordinating	Conditional									
+ఉంటే	Unṭē	if (colloquial conditional)	Subordinating	Conditional	Verb-based: "వస్తే" = if comes								
+అంటే	Anṭē	that means / i.e.	Discourse	Explanatory	Clarifies or paraphrases								
+అని	Ani	that (complementizer)	Subordinating	Quotative	Clause-final: "అతను వస్తాడని చెప్పాడు"								
+సరే	Sarē	okay / alright	Discourse	Acknowledgment	Used in dialogue								
+అవును	Avunu	yes	Discourse	Affirmation									
+కాదు	Kādu	no	Discourse	Negation									
+ఏమో	Ēmō	maybe / I wonder	Discourse	Uncertainty									
+బహుశా	Bahuśā	perhaps	Discourse	Uncertainty	Literary								
+ఇంకేం	Iṅkēṁ	what else? / well then?	Discourse	Rhetorical/Pragmatic									
+మరి	Mari	well? / so? / what else?	Discourse	Pragmatic	Very common in spoken Telugu								
+అలా	Alā	like that	Discourse	Demonstrative/Adverbial									
+ఇలా	Ilā	like this	Discourse	Demonstrative/Adverbial									
+అంటేనే	Anṭēnē	exactly / that’s precisely it	Discourse	Confirmation	Emphatic agreement								
+ఇక	Ika	now / from now on	Discourse	Temporal/Pragmatic									
+ఇంకా	Iṅkā	still / yet / moreover	Discourse	Temporal/Additive	Polysemous — disambiguate by context								
+అయితే ఏమిటి?	Aitē ēmiti?	But what is it?	Discourse	Clarification	Request for elaboration								
+													
+													
+Verb (Stem)	Transliteration	English	Transitivity	Agent	Patient	Recipient	Location	Instrument	Goal	Source	Postpositions Used	Example Sentence (Telugu)	Example Translation
+చెప్పు	Ceppu	tell	Ditransitive	✓	✓	✓				-కి	రాముడు సీతకి విషయం చెప్పాడు	Ram told Sita the matter	
+ఇవ్వు	Ivvu	give	Ditransitive	✓	✓	✓				-కి	అతను నాకు పుస్తకం ఇచ్చాడు	He gave me a book	
+తీసుకొను	Tīsukonu	take	Transitive	✓	✓					-నుంచి	ఆమె టేబుల్ నుంచి పెన్ను తీసుకుంది	She took the pen from the table	
+వెళ్లు	Veḷḷu	go	Intransitive	✓			✓			-కి, -లో	అతను పాఠశాలకు వెళ్లాడు	He went to school	
+రా	Rā	come	Intransitive	✓			✓			-నుంచి	అతను హైదరాబాదు నుంచి వచ్చాడు	He came from Hyderabad	
+చూడు	Cūḍu	see/look	Transitive	✓	✓					-వైపు	ఆమె ఆకాశం వైపు చూస్తోంది	She is looking toward the sky	
+తిను	Tinu	eat	Transitive	✓	✓					-ను	పిల్లలు అన్నం తింటున్నారు	Children are eating rice	
+తాగు	Tāgu	drink	Transitive	✓	✓					-ను	అతను నీళ్లు తాగాడు	He drank water	
+చదువు	Caduvu	read	Transitive	✓	✓					-ను	నేను పుస్తకం చదువుతున్నాను	I am reading a book	
+రాయి	Rāyi	write	Transitive	✓	✓					-లో	అతను డైరీలో రాశాడు	He wrote in the diary	
+పని చేయి	Pani cēyi	do work	Transitive	✓	✓					-ను	ఆమె ఇంటి పని చేస్తోంది	She is doing housework	
+ఉండు	Uṇḍu	stay/be	Intransitive	✓			✓			-లో, -దగ్గర	అతను ఇంట్లో ఉన్నాడు	He is at home	
+కలిసి	Kalisi	meet	Intransitive	✓	✓		✓			-తో, -లో	వారు పార్కులో కలిశారు	They met in the park	
+అడుగు	Aḍugu	ask	Ditransitive	✓	✓	✓				-ను, -కి	నేను అతన్ని పేరు అడిగాను	I asked him his name	
+నమ్ము	Nammu	believe	Transitive	✓	✓					-ను	నేను నీ మాట నమ్ముతున్నాను	I believe your word	
+విను	Vinu	listen/hear	Transitive	✓	✓					-ను	ఆమె పాట వింటోంది	She is listening to a song	
+పంపించు	Pampincu	send	Ditransitive	✓	✓	✓				-ను, -కి	అతను లెటర్ ను నాకు పంపాడు	He sent me a letter	
+కొను	Konu	buy	Transitive	✓	✓					-ను	నేను పండ్లు కొన్నాను	I bought fruits	
+అమ్ము	Amu	sell	Transitive	✓	✓					-ను	అతను కారు అమ్మాడు	He sold the car	
+తెలుసు	Telusu	know	Transitive	✓	✓					-ను	నాకు ఆ విషయం తెలుసు	I know that matter	
+ఉపయోగించు	Upayōgincu	use	Transitive	✓	✓					-ను	అతను ఫోన్ ఉపయోగిస్తున్నాడు	He is using the phone	
+ప్రారంభించు	Prārambhintu	start	Transitive	✓	✓					-ను	ఆమె క్లాసు ప్రారంభించింది	She started the class	
+ముగించు	Mugintu	end/finish	Transitive	✓	✓					-ను	అతను పని ముగించాడు	He finished the work	
+ప్రయాణించు	Prayāṇintu	travel	Intransitive	✓			✓			-కి, -నుంచి	వారు ఢిల్లీకి ప్రయాణించారు	They traveled to Delhi	
+పడు	Paḍu	fall	Intransitive	✓			✓			-లో	పిల్లవాడు గుంటలో పడ్డాడు	The boy fell into the pit	
+ఎగురు	Eguru	fly	Intransitive	✓			✓			-వైపు	పక్షి ఆకాశం వైపు ఎగిరింది	The bird flew toward the sky	
+నడుచు	Naḍucu	walk	Intransitive	✓			✓			-కి, -లో	అతను పార్కులో నడుస్తున్నాడు	He is walking in the park	
+పట్టు	Paṭṭu	catch/hold	Transitive	✓	✓					-ను	అతను చేపను పట్టుకున్నాడు	He caught the fish	
+చేయి	Cēyi	do/make	Transitive	✓	✓					-ను	ఆమె వంట చేస్తోంది	She is cooking	
+జరుగు	Jarugu	happen	Intransitive		✓					-	ఆ సంఘటన ఇవాళ జరిగింది	That event happened today	
+													
+Basic SOV	1.1	S + V	S + V	S + V	I walked.	నేను నడిచాను.	Nēnu naḍichānu.																		
+Basic SOV	1.2	S + O + V	S + O + V	S + O + V	She bought a saree.	ఆమె చీర కొన్నాది.	Āme cīra konnādi.																		
+Basic SOV	1.3	S + Adj + V	S + Adj + V	S + Adj + V	The tea is hot.	టీ వేడిగా ఉంది.	Ṭī vēḍigā undi.																		
+Basic SOV	1.4	S + Place + V	S + Place + V	S + Place + V	We are going to the market.	మేము సంతకు వెళ్తున్నాము.	Mēmu santaku veḷtunnāmu.																		
+Basic SOV	1.5	S + Time + V	S + Time + V	S + Time + V	I woke up at 6.	నేను ఆరు గంటలకు లేచాను.	Nēnu āru gaṇṭalaku lēcānu.																		
+Basic SOV	1.6	S + Manner + V	S + Manner + V	S + Manner + V	He spoke softly.	అతను మెల్లగా మాట్లాడాడు.	Atanu mellagā māṭlāḍāḍu.																		
+Basic SOV	1.7	S + Purpose + V	S + Purpose + V	S + Purpose + V	I came to study.	చదవడానికి వచ్చాను.	Chadavaḍāniki vaccānu.																		
+Basic SOV	1.8	S + Reason + V	S + Reason + V	S + Reason + V	She cried due to fear.	భయంతో ఆమె ఏడ్చింది.	Bhayaṁtō āme ēḍcindi.																		
+Adjectival Phrases	2.1	S + Adj + N + V	S + Adj + N + V	S + Adj + N + V	He likes sweet fruits.	అతను తీయని పండ్లు ఇష్టపడతాడు.	Atanu tīyani paṇḍlu iṣṭapaḍatāḍu.																		
+Adjectival Phrases	2.2	S + Quantifier + N + V	S + Quantifier + N + V	S + Quantifier + N + V	I have two books.	నాకు రెండు పుస్తకాలు ఉన్నాయి.	Nāku reṇḍu pustakālu unnāyi.																		
+Adjectival Phrases	2.3	S + Demonstrative + N + V	S + Demonstrative + N + V	S + Demonstrative + N + V	This is my house.	ఇది నా ఇల్లు.	Idi nā illu.																		
+Adjectival Phrases	2.4	S + Possessive + N + V	S + Possessive + N + V	S + Possessive + N + V	That is his car.	అది అతని కారు.	Adi atani kāru.																		
+Adjectival Phrases	2.5	S + N + Conj + Adj + V	S + N + Conj + Adj + V	S + N + Conj + Adj + V	She is both smart and kind.	ఆమె తెలివైనది మరియు దయగలది.	Āme telivainadi mariyu dayagaladi.																		
+Adverbial Phrases	3.1	S + Adv + V	S + Adv + V	S + Adv + V	She runs fast.	ఆమె వేగంగా పరుగెత్తుతుంది.	Āme vēgaṅgā parugettutundi.																		
+Adverbial Phrases	3.2	S + O + Adv + V	S + O + Adv + V	S + O + Adv + V	I ate the food slowly.	నేను అన్నం నెమ్మదిగా తిన్నాను.	Nēnu annaṁ nemmadigā tinnānu.																		
+Adverbial Phrases	3.3	S + Postposition + Adv + V	S + Postposition + Adv + V	S + Postposition + Adv + V	I spoke with him politely.	నేను అతనితో వినయంగా మాట్లాడాను.	Nēnu atanitō vinayaṅgā māṭlāḍānu.																		
+Case & Postpositions	4.1	S + O + Instrumental + V	S + O + తో + V	S + O + tō + V	I wrote with a pen.	నేను పెన్నుతో రాశాను.	Nēnu pennutō rāśānu.																		
+Case & Postpositions	4.2	S + O + కోసం + V	S + O + కోసం + V	S + O + kōsaṁ + V	I bought a gift for you.	నేను మీ కోసం బహుమతి కొన్నాను.	Nēnu mī kōsaṁ bahumati konnānu.																		
+Case & Postpositions	4.3	S + O + నుండి + V	S + O + నుండి + V	S + O + nuṇḍi + V	I got a letter from him.	నాకు అతని నుండి ఉత్తరం వచ్చింది.	Nāku atani nuṇḍi uttaraṁ vaccindi.																		
+Case & Postpositions	4.4	S + O + లో + V	S + O + లో + V	S + O + lō + V	The book is in the bag.	పుస్తకం బ్యాగులో ఉంది.	Pustakaṁ byāgulō undi.																		
+Case & Postpositions	4.5	S + O + మీద + V	S + O + మీద + V	S + O + mīda + V	The pen is on the table.	పెన్ను బల్ల మీద ఉంది.	Pennu balla mīda undi.																		
+Case & Postpositions	4.6	S + O + తో (Comitative) + V	S + O + తో + V	S + O + tō + V	I went with my friend.	నేను నా స్నేహితుడితో వెళ్ళాను.	Nēnu nā snēhituḍitō veḷḷānu.																		
+Interrogatives	5.1	Q-Word + S + O + V?	Q-Word + S + O + V?	Q-Word + S + O + V?	Where did you go?	మీరు ఎక్కడికి వెళ్ళారు?	Mīru ekkaḍiki veḷḷāru?																		
+Interrogatives	5.2	S + O + Q-Word + V?	S + O + Q-Word + V?	S + O + Q-Word + V?	What are you eating?	మీరు ఏమి తింటున్నారు?	Mīru ēmi tiṇṭunnāru?																		
+Interrogatives	5.3	S + V + ఆ? (Yes/No)	S + V + ఆ?	S + V + ā?	Did you sleep?	మీరు నిద్రపోయారా?	Mīru nidrapōyārā?																		
+Interrogatives	5.4	ఎవరు + V?	ఎవరు + V?	Evaru + V?	Who called?	ఎవరు ఫోన్ చేశారు?	Evaru phōn cēśāru?																		
+Interrogatives	5.5	ఎంత + Adj?	ఎంత + Adj?	Enta + Adj?	How tall is he?	అతను ఎంత పొడవుగా ఉన్నాడు?	Atanu enta poḍavugā unnāḍu?																		
+Interrogatives	5.6	ఎన్ని + N?	ఎన్ని + N?	Enni + N?	How many books?	ఎన్ని పుస్తకాలు?	Enni pustakālu?																		
+Interrogatives	5.7	ఏది?	ఏది?	Ēdi?	Which one?	ఏది మీ ఇల్లు?	Ēdi mī illu?																		
+Imperatives	6.1	V (Inf) – Informal	V (Inf)	V (Inf)	Sit!	కూర్చో!	Kūrcō!																		
+Imperatives	6.2	V + ండి – Polite	V + ండి	V + nḍi	Sit! (Polite)	కూర్చోండి!	Kūrcōnḍi!																		
+Imperatives	6.3	Don’t + V – Informal	V + అకు	V + aku	Don’t go!	వెళ్లకు!	Veḷlaku!																		
+Imperatives	6.4	Don’t + V – Polite	V + అకండి	V + akaṇḍi	Don’t go! (Polite)	వెళ్లకండి!	Veḷlakaṇḍi!																		
+Imperatives	6.5	దయచేసి + V – Please	దయచేసి + V	Dayacēsi + V	Please help me.	దయచేసి నాకు సహాయం చెయ్యండి.	Dayacēsi nāku sahāyaṁ ceyyaṇḍi.																		
+Imperatives	6.6	రా + పో – Hortative	రా + పోదాం	Rā + pōdāṁ	Come on, let’s go!	రా, పోదాం!	Rā, pōdāṁ!																		
+Complex Sentences	7.1	Conjunctive Participle + V	Conjunctive Participle + V	Conjunctive Participle + V	I came running.	పరిగెత్తుతూ వచ్చాను.	Parigettutū vaccānu.																		
+Complex Sentences	7.2	Temporal Clause + V	Temporal Clause + V	Temporal Clause + V	After eating, I slept.	తిన్న తర్వాత నిద్రపోయాను.	Tinna taruvāta nidrapōyānu.																		
+Complex Sentences	7.3	Causal Clause + V	Causal Clause + V	Causal Clause + V	Because it rained, I stayed home.	వర్షం పడింది కాబట్టి ఇంట్లో ఉన్నాను.	Varṣaṁ paḍindi kābaṭṭi iṇṭlō unnānu.																		
+Complex Sentences	7.4	Conditional Clause + V	Conditional Clause + V	Conditional Clause + V	If you come, I’ll be happy.	నువ్వు వస్తే నాకు సంతోషం.	Nuvvu vastē nāku santōṣaṁ.																		
+Complex Sentences	7.5	Purpose Clause + V	Purpose Clause + V	Purpose Clause + V	I saved money to buy a phone.	ఫోన్ కొనడానికి డబ్బు పెట్టుకున్నాను.	Phōn konaḍāniki ḍabbu peṭṭukunnānu.																		
+Complex Sentences	7.6	Concessive Clause + V	Concessive Clause + V	Concessive Clause + V	Even though he is rich, he is humble.	అతను ధనవంతుడైనా వినయవంతుడు.	Atanu dhanavantudainā vinayavantudu.																		
+Compound Sentences	8.1	S + V1 + మరియు + V2	S + V1 + మరియు + V2	S + V1 + mariyu + V2	I ate and slept.	నేను తిన్నాను మరియు నిద్రపోయాను.	Nēnu tinnānu mariyu nidrapōyānu.																		
+Compound Sentences	8.2	S + V1 + కానీ + V2	S + V1 + కానీ + V2	S + V1 + kānī + V2	I wanted to go, but couldn’t.	వెళ్ళాలనుకున్నాను కానీ వెళ్లలేకపోయాను.	Veḷḷālanukunnānu kānī veḷḷalēkapōyānu.																		
+Compound Sentences	8.3	S + V1 + లేదా + V2	S + V1 + లేదా + V2	S + V1 + lēdā + V2	Should I go or stay?	నేను వెళ్ళాలా లేదా ఉండాలా?	Nēnu veḷḷālā lēdā uṇḍālā?																		
+Negation	9.1	S + కాదు	S + కాదు	S + kādu	He is not a teacher.	అతను ఉపాధ్యాయుడు కాదు.	Atanu upādhyāyuḍu kādu.																		
+Negation	9.2	S + V + లేదు	S + V + లేదు	S + V + lēdu	I don’t have money.	నాకు డబ్బు లేదు.	Nāku ḍabbu lēdu.																		
+Negation	9.3	S + O + V + లేదు	S + O + V + లేదు	S + O + V + lēdu	I didn’t eat rice.	నేను అన్నం తినలేదు.	Nēnu annaṁ tinalēdu.																		
+Negation	9.4	S + O + V + కూడదు	S + O + V + కూడదు	S + O + V + kūḍadu	You must not lie.	నువ్వు అబద్ధం మాట్లాడకూడదు.	Nuvvu abaddhaṁ māṭlāḍakūḍadu.																		
+Modality	10.1	S + V + వచ్చు	S + V + వచ్చు	S + V + vaccu	It may rain.	వర్షం పడవచ్చు.	Varṣaṁ paḍavaccu.																		
+Modality	10.2	S + O + V + తప్పదు	S + O + V + తప్పదు	S + O + V + tappaḍu	You must finish this.	మీరు దీన్ని పూర్తి చేయాల్సిందే.	Mīru dīnni pūrti cēyālsindē.																		
+Modality	10.3	S + V + ఇష్టం	S + V + ఇష్టం	S + V + iṣṭaṁ	I want to go.	నాకు వెళ్ళాలని ఉంది.	Nāku veḷḷālani undi.																		
+Causatives	11.1	S + O1 + O2 + Causative V	S + O1 + O2 + Causative V	S + O1 + O2 + Causative V	I made him eat.	నేను అతన్ని తినిపించాను.	Nēnu atanni tinipiñcānu.																		
+Causatives	11.2	S + O + Causative V	S + O + Causative V	S + O + Causative V	She had her hair cut.	ఆమె జుట్టు కత్తిరించుకుంది.	Āme juṭṭu kattiriñcukundi.																		
+Impersonal / Existential	12.1	There + V	There + V	There + V	There is a dog.	ఒక కుక్క ఉంది.	Oka kukka undi.																		
+Impersonal / Existential	12.2	There is no...	There is no...	There is no...	There is no water.	నీళ్లు లేవు.	Nīḷḷu lēvu.																		
+Impersonal / Existential	12.3	It is possible...	It is possible...	It is possible...	It is possible to go.	వెళ్ళడం సాధ్యమే.	Veḷḷaḍaṁ sādhyamē.																		
+Comparison	13.1	S1 + than + S2 + Adj	S1 + కంటే + S2 + Adj	S1 + kaṇṭē + S2 + Adj	He is taller than me.	అతను నా కంటే పొడవుగా ఉన్నాడు.	Atanu nā kaṇṭē poḍavugā unnāḍu.																		
+Comparison	13.2	S + as + Adj + as	S + వలె + Adj	S + vale + Adj	He is as tall as me.	అతను నా వలె పొడవుగా ఉన్నాడు.	Atanu nā vale poḍavugā unnāḍu.																		
+Comparison	13.3	S + most + Adj	S + అత్యంత + Adj	S + atyanta + Adj	She is the smartest.	ఆమె అత్యంత తెలివైనది.	Āme atyanta telivainadi.																		
+Passive Voice	14.1	O + Passive V	O + Passive V	O + Passive V	The book was read.	పుస్తకం చదవబడింది.	Pustakaṁ cadavabaḍindi.																		
+Passive Voice	14.2	O + by + Agent + Passive V	O + చేత + Passive V	O + cēta + Passive V	The letter was written by him.	ఉత్తరం అతని చేత రాయబడింది.	Uttaraṁ atani cēta rāyabaḍindi.																		
+Reported Speech	15.1	Direct Quote	Direct Quote	Direct Quote	He said, “I am coming.”	అతను “నేను వస్తున్నాను” అన్నాడు.	Atanu “nēnu vastunnānu” annāḍu.																		
+Reported Speech	15.2	Indirect Speech	Indirect Speech	Indirect Speech	He said he was coming.	అతను వస్తున్నానని చెప్పాడు.	Atanu vastunnānani cheppāḍu.																		
+Honorifics	16.1	Respectful Pronoun + V	Respectful Pronoun + V	Respectful Pronoun + V	Can you come? (Respectful)	మీరు రాగలరా?	Mīru rāgalarā?																		
+Honorifics	16.2	Respectful Verb Form	Respectful Verb Form	Respectful Verb Form	Please sit. (Respectful)	కూర్చోండి.	Kūrcōnḍi.																		
+Honorifics	16.3	గారు + Verb	గారు + Verb	Gāru + Verb	Respected sir came.	సార్ గారు వచ్చారు.	Sār gāru vaccāru.																		
+Emphatic & Reflexive	17.1	Emphatic Pronoun + V	Emphatic Pronoun + V	Emphatic Pronoun + V	I myself did it.	నేనే చేశాను.	Nēnē cēśānu.																		
+Emphatic & Reflexive	17.2	Reflexive	Reflexive	Reflexive	Others helped me.	ఇతరులు నాకు సహాయం చేశారు.	Itarulu nāku sahāyaṁ cēśāru.																		
+Discourse Markers	18.1	Well... / So...	Well... / So...	Well... / So...	So, what should I do?	అయితే, నేను ఏం చేయాలి?	Aytē, nēnu ēṁ cēyāli?																		
+Discourse Markers	18.2	Right? (Tag)	Right? (Tag)	Right? (Tag)	It’s hot, right?	వేడిగా ఉంది కదా?	Vēḍigā undi kadā?																		
+Discourse Markers	18.3	You know...	You know...	You know...	You know, he is my friend.	నీకు తెలుసా, అతను నా స్నేహితుడు.	Nīku telusā, atanu nā snēhituḍu.																		
+Idioms & Reduplication	19.1	Reduplication for emphasis	Reduplication for emphasis	Reduplication for emphasis	He ran very fast.	అతను వేగంగా వేగంగా పరిగెత్తాడు.	Atanu vēgaṅgā vēgaṅgā parigettāḍu.																		
+Idioms & Reduplication	19.2	Idiomatic Expression	Idiomatic Expression	Idiomatic Expression	I’m fed up.	నాకు చిరాకుగా ఉంది.	Nāku cirākugā undi.																		
+Tense Variations	20.1	Present Continuous	Present Continuous	Present Continuous	I am eating.	నేను తింటున్నాను.	Nēnu tiṇṭunnānu.																		
+Tense Variations	20.2	Simple Past	Simple Past	Simple Past	I ate.	నేను తిన్నాను.	Nēnu tinnānu.																		
+Tense Variations	20.3	Future	Future	Future	I will eat.	నేను తింటాను.	Nēnu tiṇtānu.																		
+Tense Variations	20.4	Present Perfect	Present Perfect	Present Perfect	I have eaten.	నేను తినేశాను.	Nēnu tinēśānu.																		
+Tense Variations	20.5	Past Perfect	Past Perfect	Past Perfect	I had eaten before he came.	అతను వచ్చే ముందు నేను తినేశాను.	Atanu vaccē munda nēnu tinēśānu.																		
+	ఎన్.టి. రామారావు	Actor
+చిరంజీవి	Actor
+ఎం.ఎస్. స్వామినాథన్	Scientist
+పొట్టి శ్రీరాములు	Social Reformer
+కె. చంద్రశేఖర్ రావు	Politician
+వై.ఎస్. జగన్ మోహన్ రెడ్డి	Politician
+ఎన్. చంద్రబాబు నాయుడు	Politician
+బీ.ఆర్. అంబేద్కర్	Social Reformer
+మహాత్మా గాంధీ	Freedom Fighter
+జవహర్ లాల్ నెహ్రూ	Politician
+ఇందిరా గాంధీ	Politician
+రాజీవ్ గాంధీ	Politician
+సర్వేపల్లి రాధాకృష్ణన్	Philosopher
+సి. రాజగోపాలాచారి	Politician
+ప్రకాశ్ రాజ్	Actor
+మహేష్ బాబు	Actor
+రవితేజ	Actor
+వెంకటేష్	Actor
+శ్రీదేవి	Actor
+సుమన్	Actor
+కె.జి. సత్యమూర్తి	Judge
+మల్లికార్జున రావు	Politician
+పాలగుమ్మి శ్రీనివాస్ రావు	Lyricist
+సి.ఎన్.ఆర్. రావు	Scientist
+అల్లూరి సీతారామ రాజు	Freedom Fighter
+కోట శ్రీనివాస రావు	Judge
+ఎస్.ఎస్. రాజమౌళి	Film Director
+రామ్ గోపాల్ వర్మ	Film Director
+సుభాష్ చంద్ర బోస్	Freedom Fighter
+భగత్ సింగ్	Freedom Fighter
+చంద్రశేఖర్ ఆజాద్	Freedom Fighter
+రాజా రామ్ మోహన్ రాయ్	Social Reformer
+బాల గంగాధర తిలక్	Freedom Fighter
+లాలా లజపత్ రాయ్	Freedom Fighter
+బిపిన్ చంద్ర పాల్	Freedom Fighter
+సర్దార్ వల్లభభాయ్ పటేల్	Freedom Fighter
+మదన్ మోహన్ మాలవ్య	Politician
+ఉయ్యాలవాడ నరసింహారెడ్డి	Poet
+కాళిదాసు కనకయ్య	Lyricist
+అన్ని మొహన్ చాటర్జీ	Politician
+మౌలానా అబుల్ కలాం ఆజాద్	Freedom Fighter
+కె. కామరాజ్	Politician
+రాణి లక్ష్మీబాయి	Freedom Fighter
+సురేంద్రసాయ్	Freedom Fighter
+తంతియా టోపీ	Freedom Fighter
+విపిన్ చంద్ర పాల్	Freedom Fighter
+రామ్ ప్రసాద్ బిస్మిల్	Freedom Fighter
+అశ్ఫాఖుల్లా ఖాన్	Freedom Fighter
+వసంత కుమార్ చిత్రలేఖ	Freedom Fighter
+దాదాభాయ్ నౌరోజీ	Politician
+గోపాల కృష్ణ గోఖలే	Freedom Fighter
+సరోజిని నాయుడు	Poet
+కస్తూర్బా గాంధీ	Freedom Fighter
+బేగం హజ్రత్ మహల్	Freedom Fighter
+రాజకుమారి అమృత కౌర్	Politician
+కమలాదేవి చట్టోపాధ్యాయ	Social Reformer
+అరుణా అసఫ్ అలీ	Freedom Fighter
+మాధవి చౌదరి	Freedom Fighter
+విజయలక్ష్మి పండిత్	Diplomat
+ఉషా మీనన్	Activist
+దుర్గా భాభి	Freedom Fighter
+కనక ముఖర్జీ	Freedom Fighter
+లక్ష్మీ సహగల్	Freedom Fighter
+పాండితా రమాబాయి	Social Reformer
+సుభద్రా అమ్మ	Freedom Fighter
+అన్ని బెహెన్	Social Worker
+ముత్తులక్ష్మి రెడ్డి	Doctor
+ఆండమాన్ లక్ష్మి	Freedom Fighter
+పద్మజా నాయుడు	Social Worker
+రాధా బాయి	Social Reformer
+సుధా బసు	Actor
+శాంతా దేవి	Spiritual Leader
+లలితా ముఖర్జీ	Freedom Fighter
+అశోకుడు	Emperor
+చంద్రగుప్త మౌర్య	Emperor
+బిందుసారుడు	Emperor
+సముద్రగుప్తుడు	Emperor
+చంద్రగుప్త విక్రమాదిత్యుడు	Emperor
+హర్షవర్ధనుడు	Emperor
+కనిష్కుడు	Emperor
+పులికేశి రెండవ	Emperor
+రాజరాజ చోళుడు	Emperor
+రాజేంద్ర చోళుడు	Emperor
+కృష్ణదేవరాయలు	Emperor
+అచ్యుతదేవరాయలు	Emperor
+దేవరాయ రెండవ	Emperor
+ప్రతాపరుద్రుడు	Emperor
+రుద్రదేవుడు	Emperor
+గణపతిదేవుడు	Emperor
+మహారాజా రణజిత్ సింగ్	Emperor
+మహారాణా ప్రతాప్	King
+బుద్ధగుప్తుడు	Emperor
+విమలాదిత్యుడు	King
+కులోత్తుంగ చోళుడు	Emperor
+విష్ణుగోపుడు	King
+సాతవాహన పులుమావి	Emperor
+గౌతమీపుత్ర శాతకర్ణి	Emperor
+హాలుడు	King
+రాణి నాగమ్మ	Queen
+రాణి రుద్రమదేవి	Queen
+రాణి లక్ష్మీబాయి	Queen
+అహిల్యాబాయి హోల్కర్	Queen
+రాజమాత రుద్రమ్మ	Queen
+రాణి చెన్నమ్మ	Queen
+రాణి అబ్బక్క	Queen
+రాణి దుర్గావతి	Queen
+రాణి కాశిబాయి	Queen
+రాణి దామయంతి	Queen
+కాళిదాసు	Poet
+బంకించంద్ర చటర్జీ	Novelist
+రవీంద్రనాథ్ ఠాగూర్	Poet
+సుభద్రా కుమారి చౌహాన్	Poet
+మహాకవి భారతి	Poet
+ప్రేమ్చంద్	Novelist
+రామధారి సింగ్ దినకర్	Poet
+అమీర్ ఖుస్రో	Poet
+మీరాబాయి	Poet
+కబీర్	Poet
+శ్రీ అరవిందులు	Philosopher
+సుమిత్రానందన్ పంత్	Poet
+విష్ణు శర్మ	Philosopher
+తులసీదాసు	Poet
+నన్నయ	Poet
+తిక్కన	Poet
+ఎర్రన	Poet
+వేమన	Poet
+గురజాడ అప్పారావు	Poet
+శ్రీశ్రీ	Poet
+విశ్వనాథ సత్యనారాయణ	Novelist
+పురాణపు సీతారామశాస్త్రి	Lyricist
+దేవులపల్లి కృష్ణశాస్త్రి	Poet
+జి. వి. చలపతిరావు	Writer
+విలియం షేక్స్ పియర్	Playwright
+లియో టాల్ స్టాయ్	Novelist
+ఫ్యోదర్ దాస్తొవేవ్ స్కీ	Novelist
+చార్లెస్ డికెన్స్	Novelist
+మార్క్ ట్వైన్	Novelist
+జేన్ ఆస్టెన్	Novelist
+ఎమిలీ డికిన్సన్	Poet
+వాల్ట్ విట్ మాన్	Poet
+రూమీ	Poet
+గేబ్రియెల్ గార్సియా మార్కెజ్	Novelist
+విక్టర్ హ్యూగో	Novelist
+జొహాన్ వొల్ఫ్ గాంగ్ వాన్ గోయితే	Poet
+మిగ్వేల్ డి సెర్వాంటెస్	Novelist
+హరుకి మురకామి	Novelist
+చినువా అచెబే	Novelist
+టోని మొర్రిసన్	Novelist
+మాయా ఏంజెలౌ	Poet
+పాబ్లో నెరూడా	Poet
+ఫ్రాంజ్ కాఫ్కా	Novelist
+జార్జి ఓర్ వెల్	Novelist
+వర్జీనియా వూల్ఫ్	Novelist
+కేతు విశ్వనాథ	Writer
+చలం	Poet
+మాదిరాజు రంగారావు	Writer
+పాలెం సాయి	Writer
+కె. సాయి బాబు	Writer
+జానపాలెం పుల్లయ్య	Writer
+తిరువళ్ళువర్	Poet
+సుబ్రమణ్య భారతి	Poet
+కలైంజర్ ము. కరుణానిధి	Politician
+జయకాంతన్	Writer
+ఆశాపూర్ణ దేవి	Novelist
+కువెంపు	Poet
+ద.రా. బేంద్రె	Poet
+గోవింద పైల్ల	Poet
+అనుపమా	Writer
+బెండ్రె కవి	Poet
+తకఴి శివశంకర పిళ్లై	Writer
+ఎం. టి. వాసుదేవన్ నాయర్	Writer
+అరుంధతి రాయ్	Novelist
+వైకం ముహమ్మద్ బషీర్	Writer
+കുമారనാശాన్	Poet
+విష్ణు సఖారామ్ ఖాండేకర్	Writer
+పు. ల. దేశ్ పాండే	Writer
+విజయ తెండుల్కర్	Playwright
+నరేంద్ర జాధవ్	Writer
+సావిత్రీబాయి ఫులే	Social Reformer
+నర్మదాశంకర దివేటియా	Poet
+ఉమాశంకర జోషి	Poet
+పన్నాలాల్ పటేల్	Writer
+మహాదేవ్ దేసాయి	Writer
+సరత్ చంద్ర చటర్జీ	Novelist
+మహాశ్వేతా దేవి	Writer
+బిష్ణు దే	Poet
+ఫకీర్ మొహన్ సేనాపతి	Writer
+గోపీనాథ్ మహంతి	Writer
+మనోజ్ దాస్	Writer
+నానక్	Spiritual Leader
+బుల్లే షా	Poet
+వారిస్ షా	Poet
+అమృతా ప్రీతం	Poet
+నానక్ సింగ్	Writer
+ముంషీ ప్రేమ్చంద్	Novelist
+మహాదేవీ వర్మ	Poet
+విద్యాపతి	Poet
+రాంధరి సింగ్ దినకర్	Poet
+ఫణీశ్వర్ నాథ్ రేణు	Writer
+దులారా కవి	Poet
+హరిభావు మాధోరావు	Writer
+హరివంశ్ రాయ్ బచ్చన్	Poet
+సి.వి. రామన్	Physicist
+జగదీశ్ చంద్ర బోస్	Physicist
+సత్యేంద్ర నాథ్ బోస్	Physicist
+విక్రమ్ సారాభాయ్	Space Scientist
+ఎ.పి.జె. అబ్దుల్ కలాం	Space Scientist
+హోమి జె. భాభా	Nuclear Scientist
+సుబ్రహ్మణ్యం చంద్రశేఖర్	Astrophysicist
+వెంకట్రామన్ రాధాకృష్ణన్	Astrophysicist
+రాజా రామన్న	Engineer
+ఎం. విశ్వేశ్వరయ్య	Engineer
+శ్రీనివాస రామానుజన్	Mathematician
+హరిగోవింద ఖురానా	Biochemist
+వి.ఎస్. అరుణాచలం	Medical Scientist
+గగనదీప్ కంగ్	Medical Scientist
+టి. నాగేశ్వర రావు	Medical Scientist
+ఎం.ఎస్. స్వామినాథన్	Agricultural Scientist
+వర్గీస్ కురియన్	Dairy Scientist
+సలీం అలీ	Ornithologist
+యల్లప్రగడ సుబ్బారావు	Chemist
+పి.సి. రాయ్	Chemist
+అశోక్ సేన్	Physicist
+అతూల్ కుల్కర్ణి	Medical Researcher
+సుధా మూర్తి	Computer Scientist
+ఫక్రుద్దీన్ అలీ అహ్మద్	Veterinary Scientist
+సి.ఎన్.ఆర్. రావు	Chemist
+జయంత్ విష్ణు నార్లీకర్	Astrophysicist
+రాఘవేంద్ర రావు	Space Scientist
+కస్తూరిరంగన్	Space Scientist
+జి. మాధవన్ నాయర్	Space Scientist
+ఎస్. సోమనాథ్	Space Scientist
+బిజూ పట్నాయక్	Computer Scientist
+నందన్ నీలకేని	IT Industrialist
+శివనాథ్	Agricultural Scientist
+రాజేంద్రప్రసాద్	Agricultural Scientist
+కిరణ్ మజుందార్	Biotechnologist
+కలామ అనూప్ సింగ్	Defense Scientist
+అరవింద్ పాండురంగ	Environmental Scientist
+అనిల్ కకోద్కర్	Physicist
+రోద్దం దామోదర్	Geologist
+అనిల్ ప్రకాష్	Oceanographer
+టి. రామసామి	Material Scientist
+సుబాష్ ఖోట్	Climate Scientist
+విజయ్ భట్కర	IT Scientist
+నరేంద్ర దబ్బాడు	Robotics Scientist
+సంజయ్ దివాన్	Energy Scientist
+అరుణ్ నేత	Neuroscientist
+గిరీష్ కుమార్	Electronics Scientist
+మోహన్ బబు	Geneticist
+ప్రఫుల్ల కుమార్	Chemical Engineer
+రవీంద్ర కె. చౌదరి	Computer Engineer
+సుందర్రమన్	Nuclear Scientist
+కె. రాధాకృష్ణన్	Space Administrator
+ఎస్. కృష్ణన్	Physicist
+పి.కె. ఐయంగార్	Space Scientist
+యు.ఆర్. రావు	Space Scientist
+కె. కస్తూరిరంగన్	Space Scientist
+జి.ఎస్. ముఖర్జీ	Botanist
+బిర్బల్ సహని	Paleobotanist
+దిలీప్ మహలనోబిస	Statistician
+ప్రశాంతచంద్ర మహలనోబిస	Statistician
+శాంతి స్వరూప్ భట్నాగర్	Chemist
+ఎస్. రామనుజం	Mathematician
+కె.ఎస్. సంజీవ్ రావు	Mathematician
+టి.వి. వెంకటరామన్	Theoretical Physicist
+అశోక్ సేన్	Theoretical Physicist
+నీలం అగర్వాల్	Computer Scientist
+మణింద్ర అగర్వాల్	Computer Scientist
+విజయ్ పి. భట్కర	Computer Scientist
+రాజ్ రెడ్డి	Computer Scientist
+వినోద్ ధామ్	IT Entrepreneur
+అజీం ప్రేమ్జీ	IT Industrialist
+సుబ్బయ్య సోమయాజుల	Chemical Scientist
+యలమంచిలి వెంకట లక్ష్మీ నరసింహం	Botanist
+జనార్దన్ రెడ్డి	Agricultural Scientist
+వి. ప్రకాష్	Food Scientist
+ఎస్. రఘునాథ	Marine Scientist
+కె.వి. రావు	Geologist
+ఎన్. విశ్వనాథన్	Biotechnologist
+రాజేష్ గోకలే	Medical Researcher
+అనురాధ� తోటా	Pharmaceutical Scientist
+విశ్వనాథన్ ఆనంద	Medical Scientist
+సుందర్రమన్	Materials Scientist
+పద్మనాభన్	Space Technologist
+అరవింద్ జోషి	Computer Scientist
+మోహన్ తంబే	Environmental Scientist
+శరద్ తంబే	Climate Scientist
+రాజేంద్ర కుమార్ పచౌరి	Climate Scientist
+గోపాలస్వామి	Agricultural Economist
+చెల్లప్పా	Wildlife Biologist
+రమణ్ సుబ్బారావు	Chemical Engineer
+కె.ఎస్. నారాయణన్	Physicist
+ఎన్. బాలకృష్ణన్	Mathematician
+ఎస్. కె. భట్టాచార్య	Materials Scientist
+పి.డి. జోషి	Geographer
+ఎం.జి.కె. మేనన్	Space Scientist
+యు.ఎస్. శర్మ	Astronomer
+జయంత్ వి. నార్లీకర్	Cosmologist
+అనిల్ కుమార్	Theoretical Physicist
+రాజారామన్	Nuclear Physicist
+విజయ్ కుమార్	Defense Scientist
+అరుణ్ కుమార్	Electronics Scientist
+మహేంద్ర నాథ్	Communication Scientist
+సురేష్ ప్రభు	Biotechnologist
+కె.వి. తోమర్	Agricultural Scientist
+ఎన్.ఎస్. రాఘువంశి	Horticulturist
+రవీంద్ర నాథ్	Soil Scientist
+అశ్విన్ సైని	Medical Researcher
+సుధీర్ కుమార్	Pharmaceutical Scientist
+ప్రదీప్ కుమార్	Energy Scientist
+సంజయ్ గాంధీ	Environmental Engineer
+రాజీవ్ మాథుర్	Computer Engineer
+వికాస్ భల్లా	IT Scientist
+మనోజ్ కుమార్	Data Scientist
+అభిషేక్ సింగ్	AI Researcher
+ప్రకాష్ చంద్ర	Robotics Engineer
+నితిన్ గుప్తా	Space Technologist
+సతీష్ ధవన్	Rocket Scientist																																					
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+																		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
