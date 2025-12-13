@@ -7,6 +7,98 @@
 వరి B-CROP
 సాగు O
 చేస్తున్నారు O
+హీట్ B-STRESS
+వేవ్ I-STRESS
+సమయంలో O
+పంట O
+పై O
+కాసువా B-METHOD
+మల్చింగ్ I-METHOD
+అమలు O
+చేయాలి O
+.
+శాతం B-PERCENT
+ఇరవై I-PERCENT
+కంటే O
+ఎక్కువ O
+షూట్ B-PEST
+బోరర్ I-PEST
+దాడి O
+ఉంటే O
+పంట O
+నష్టం O
+గా O
+పరిగణిస్తారు O
+.
+ఎగుమతి O
+కోసం O
+ఫైటో B-CERT
+సానిటరీ I-CERT
+సర్టిఫికేట్ I-CERT
+అవసరం O
+.
+జి B-STANDARD
+ఎపి I-STANDARD
+ప్రమాణం O
+ప్రకారం O
+ఆర్గానిక్ B-PRODUCT
+ప్రొడక్ట్స్ I-PRODUCT
+నిర్ణయించబడతాయి O
+.
+సాయిల్ B-TEST
+రిపోర్ట్ I-TEST
+లో O
+పి B-NUTRIENT
+ఎచ్ I-NUTRIENT
+విలువ O
+ఎనిమిది O
+పాయింట్ O
+ఐదు O
+ఉంటే O
+సాధారణ O
+స్థితి O
+.
+
+డ్రోన్ B-TECH
+స్ప్రే O
+కోసం O
+మిల్లీ B-UNIT
+లీటర్ I-UNIT
+ప్రతి O
+హెక్టారుకు O
+వేయి O
+సెట్టింగ్స్ O
+ఉండాలి O
+.
+పి B-ACT
+ఎస్ I-ACT
+యు I-ACT
+అధినియమం O
+ప్రకారం O
+వ్యవసాయ O
+భూమి O
+అమ్మకం O
+పై O
+నిబంధనలు O
+ఉన్నాయి O
+.
+
+పవర్ B-EQUIPMENT
+టిల్లర్ I-EQUIPMENT
+లో O
+హార్స్ B-POWER
+పవర్ I-POWER
+రెండు I-POWER
+వేల I-POWER
+ఐదు I-POWER
+వందల I-POWER
+ఐదు I-POWER
+టి I-POWER
+ఏ I-POWER
+పి I-POWER
+ఉండాలి O
+.
+
 
 బి B-CROP
 టి I-CROP
