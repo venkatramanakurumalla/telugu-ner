@@ -579,3 +579,873 @@
 చేస్తాయి O
 ఉంది O
 చేయబడ్డాయి O
+
+గుంటూరు B-LOC
+జిల్లా I-LOC
+లోని O
+పొలాల్లో O
+చిలకల B-PER
+రామయ్య I-PER
+ఎకరా B-UNIT
+నలభై I-UNIT
+ఎకరాల O
+లో O
+స్వర్ణ B-VARIETY
+వరి I-VARIETY
+పంట O
+వేసారు O
+.
+
+బి B-VARIETY
+టి I-VARIETY
+కాటన్ I-VARIETY
+విత్తనాలు O
+కోసం O
+నల్గొండ B-LOC
+జిల్లా I-LOC
+రైతులు B-PER
+మహీకో B-COMPANY
+జెనెటిక్స్ I-COMPANY
+కంపెనీ I-COMPANY
+వద్ద O
+క్యూ O
+లా O
+నిలబడ్డారు O
+.
+
+రబీ B-SEASON
+సీజన్ I-SEASON
+లో O
+గోధుమ B-CROP
+, O
+చిక్కుడు B-CROP
+, O
+ప్రత్తి B-CROP
+పంటల O
+కోసం O
+జి B-FERTILIZER
+ఎస్ I-FERTILIZER
+ఎఫ్ I-FERTILIZER
+ఎం I-FERTILIZER
+యూరియా O
+రూ B-PRICE
+నాలుగు I-PRICE
+వందల I-PRICE
+తొంబై I-PRICE
+ఏడు I-PRICE
+కిలో O
+కి O
+అందుబాటులో O
+ఉంది O
+.
+
+డి B-VARIETY
+ఆర్ I-VARIETY
+ఆర్ I-VARIETY
+ధాన్య I-VARIETY
+వరి I-VARIETY
+విత్తనాలు O
+రాయలసీమ B-REGION
+ప్రాంత I-REGION
+లో O
+అధిక O
+పంట O
+ఇస్తున్నాయి O
+.
+రెడ్డి B-SOIL
+మట్టి I-SOIL
+లో O
+ఫాస్పరస్ B-NUTRIENT
+, O
+పొటాష్ B-NUTRIENT
+తక్కువ O
+స్థాయిలో O
+ఉండటం O
+వలన O
+ఎకరాకు O
+రెండు O
+క్వింటాళ్ళ O
+డి B-FERTILIZER
+ఏ I-FERTILIZER
+పి I-FERTILIZER
+కె I-FERTILIZER
+ఎరువు O
+వేయాలి O
+.
+
+జీవ B-FERTILIZER
+సంవర్ధక I-FERTILIZER
+ఎరువులు O
+తయారీ O
+కోసం O
+కృష్ణ B-ORG
+జిల్లా I-ORG
+వ్యవసాయ I-ORG
+శాఖ I-ORG
+జీవ O
+విజ్ఞాన O
+కేంద్రం O
+లో O
+శిబిరం O
+నిర్వహించింది O
+.
+
+యు B-FERTILIZER
+ఎస్ I-FERTILIZER
+పి I-FERTILIZER
+యురియా O
+బ్యాగ్ O
+రూ B-PRICE
+ముప్పై I-PRICE
+వేల O
+నాలుగు I-PRICE
+వందల I-PRICE
+కి O
+విక్రయించబడుతోంది O
+.
+
+నాగార్జునసాగర్ B-PROJECT
+ప్రాజెక్ట్ I-PROJECT
+కుడి O
+కనాల O
+నీరు O
+కృష్ణా B-RIVER
+నది I-RIVER
+లో O
+జనవరి B-MONTH
+రెండు I-MONTH
+తేదీ O
+నుండి O
+విడుదల O
+చేయబడుతుంది O
+.
+
+డ్రిప్ B-SYSTEM
+ఇరిగేషన్ I-SYSTEM
+సిస్టమ్ I-SYSTEM
+అమలు O
+చేసిన O
+రైతు B-PER
+వెంకటేశ్వర్లు I-PER
+నల్లగొండ B-LOC
+జిల్లా I-LOC
+లో O
+పత్తి B-CROP
+పంట O
+నుండి O
+శాతం B-PERCENT
+నలభై I-PERCENT
+లాభం O
+సాధించారు O
+.
+
+బోర్ B-EQUIPMENT
+వెల్లు I-EQUIPMENT
+డ్రిల్లింగ్ O
+కోసం O
+నాబార్డ్ B-ORG
+శాతం B-PERCENT
+నలభై I-PERCENT
+ఐదు I-PERCENT
+సబ్సిడీ O
+అందిస్తుంది O
+.
+టాబకో B-PEST
+వైట్ I-PEST
+ఫ్లై I-PEST
+దాడి O
+నుండి O
+ప్రత్తి B-CROP
+పంట O
+ని O
+కాపాడటానికి O
+ఇమిడాక్లోప్రిడ్ B-CHEMICAL
+ఎస్ I-CHEMICAL
+ఎల్ I-CHEMICAL
+మిల్లీ O
+లీటరు O
+ప్రతి O
+ఎకరాకు O
+స్ప్రే O
+చేయాలి O
+.
+
+క్రిమి B-METHOD
+సంహార I-METHOD
+సాగు I-METHOD
+పద్ధతిలో O
+నీలి B-INSECT
+శిల O
+ను O
+లీటరు B-UNIT
+పది I-UNIT
+లీటర్ల O
+నీటిలో O
+కలిపి O
+పంట O
+పై O
+పిచికారీ O
+చేయాలి O
+.
+
+బయో B-METHOD
+కంట్రోల్ I-METHOD
+కోసం O
+ట్రైకో B-ORG
+డెర్మా I-ORG
+ఫంగస్ O
+ను O
+హెక్టారు B-UNIT
+రెండు I-UNIT
+కిలోల O
+వేయాలి O
+.
+స్వరాజ్ B-BRAND
+మెహ్ I-BRAND
+ట్రాక్టర్ O
+మోడల్ B-MODEL
+నంబర్ I-MODEL
+వంద I-MODEL
+నలభై I-MODEL
+ఏడు I-MODEL
+రూ B-PRICE
+లక్ష I-PRICE
+ఎనిమిది I-PRICE
+వేల O
+కి O
+అందుబాటులో O
+ఉంది O
+.
+
+జాన్ B-BRAND
+డీయర్ I-BRAND
+కంబైన్ B-MACHINE
+హార్వెస్టర్ I-MACHINE
+కోసం O
+షోరూమ్ O
+విజయవాడ B-LOC
+లో O
+డిసెంబర్ B-MONTH
+పదిహేను I-MONTH
+తేదీ O
+వరకు O
+డిస్కౌంట్ O
+ఉంటుంది O
+.
+ప్రధాని B-SCHEME
+కిసాన్ I-SCHEME
+సమ్మాన్ I-SCHEME
+నిధి O
+యోజన O
+లో O
+రూ B-AMOUNT
+రెండు I-AMOUNT
+వేల I-AMOUNT
+ప్రతి O
+రైతు B-PER
+ఖాతాకు O
+చేర్చబడుతుంది O
+.
+
+రైతు B-SCHEME
+బంధు I-SCHEME
+యోజన O
+కింద O
+మరణించిన O
+రైతు B-PER
+కుటుంబానికి O
+రూ B-AMOUNT
+లక్ష I-AMOUNT
+ఐదు I-AMOUNT
+వేల I-AMOUNT
+ఆర్థిక O
+సహాయం O
+అందించబడుతుంది O
+.
+
+వై B-SCHEME
+ఎస్ I-SCHEME
+ఆర్ I-SCHEME
+కిసాన్ I-SCHEME
+బీమా O
+లో O
+ప్రీమియం O
+లో O
+శాతం B-PERCENT
+తొంభై I-PERCENT
+ఐదు I-PERCENT
+ప్రభుత్వం O
+భరిస్తుంది O
+.
+ఇండియన్ B-ORG
+మెటీరాలజికల్ I-ORG
+డిపార్ట్మెంట్ I-ORG
+ప్రకారం O
+తెలంగాణ B-REGION
+లో O
+డిసెంబర్ B-MONTH
+లో O
+సగటు O
+వర్షపాతం O
+మిల్లీ B-UNIT
+మీటర్ల I-UNIT
+లో O
+శాతం B-PERCENT
+తొంభై I-PERCENT
+తగ్గుదల O
+ఉంటుంది O
+.
+
+ఎల్ B-CLIMATE
+నీనో I-CLIMATE
+ప్రభావం O
+వలన O
+ఖమ్మం B-LOC
+జిల్లా I-LOC
+లో O
+వర్షాలు O
+శాతం B-PERCENT
+ముప్పై I-PERCENT
+కంటే O
+తక్కువ O
+ఉండే O
+సంభావ్యత O
+ఉంది O
+.
+అన్నం B-MARKET
+పై I-MARKET
+గడ్డ I-MARKET
+లో O
+గోధుమ B-CROP
+కు O
+కనీస B-PRICE
+బేస్ I-PRICE
+ధర I-PRICE
+రూ B-VALUE
+రెండు I-VALUE
+వేల I-VALUE
+నలభై I-VALUE
+నూట I-VALUE
+ఇరవై I-VALUE
+ఐదు I-VALUE
+ప్రతి O
+క్వింటాల్ O
+కు O
+నిర్ణయించారు O
+.
+
+నేషనల్ B-ORG
+ఎగ్రికల్చరల్ I-ORG
+కో-ఆపరేటివ్ I-ORG
+మార్కెటింగ్ I-ORG
+ఫెడరేషన్ I-ORG
+ద్వారా O
+ప్రత్తి B-CROP
+పర్ O
+క్వింటల్ O
+రూ B-PRICE
+ఏడు I-PRICE
+వేల I-PRICE
+ఐదు I-PRICE
+వందల I-PRICE
+ఐదు I-PRICE
+అమ్మకం O
+ధర O
+ప్రకటించారు O
+.
+జై B-METHOD
+కిసాన్ I-METHOD
+పద్ధతి O
+లో O
+బయో B-FERTILIZER
+డైనమైట్ I-FERTILIZER
+తయారీ O
+కోసం O
+కేజీ B-UNIT
+ఒకటి I-UNIT
+గోమూత్రం O
+, O
+కేజీ B-UNIT
+ఒకటి I-UNIT
+గోబరం O
+, O
+కేజీ B-UNIT
+అర I-UNIT
+చెరకు O
+గుజ్బ O
+కలపాలి O
+.
+
+ఆర్గానిక్ B-CERT
+సర్టిఫికేషన్ I-CERT
+పొందిన O
+రైతు B-PER
+సుబ్బారావు I-PER
+వడ్లపల్లి B-LOC
+లో O
+అక్రేజ్ B-UNIT
+పదిహేను I-UNIT
+ఎకరాల O
+లో O
+జై B-METHOD
+కిసాన్ I-METHOD
+సాగు O
+చేస్తున్నాడు O
+.
+మహబూబ్ B-LOC
+నగర్ I-LOC
+లో O
+బంగినపల్లి B-VARIETY
+రస్తం I-VARIETY
+మామిడి I-VARIETY
+పంట O
+కోసం O
+హెక్టారు B-UNIT
+రెండు I-UNIT
+వందల O
+ఎకరాలు O
+సిద్ధంగా O
+ఉన్నాయి O
+.
+
+డ్రిప్ B-SYSTEM
+ఇరిగేషన్ I-SYSTEM
+తో O
+పప్పాయి B-CROP
+సాగు O
+లో O
+పంట O
+ప్రతి O
+ఎకరాకు O
+రూ B-INCOME
+లక్ష I-INCOME
+ఐదు I-INCOME
+వేల I-INCOME
+లాభం O
+ఇస్తుంది O
+.
+ఇండియన్ B-ORG
+కౌన్సిల్ I-ORG
+ఫర్ I-ORG
+ఎగ్రికల్చరల్ I-ORG
+రీసెర్చ్ I-ORG
+ద్వారా O
+పి B-VARIETY
+యు I-VARIETY
+ఎస్ I-VARIETY
+ఏ I-VARIETY
+రైస్ I-VARIETY
+వెరైటీ O
+అభివృద్ధి O
+చేయబడింది O
+.
+
+డ్రోన్ B-TECH
+టెక్నాలజీ I-TECH
+ద్వారా O
+పంట O
+సర్వే O
+ప్రక్రియ O
+కర్నూలు B-LOC
+జిల్లా I-LOC
+లో O
+ప్రారంభించబడింది O
+.
+ఏజ్రి B-STARTUP
+టెక్ I-STARTUP
+స్టార్టప్ I-STARTUP
+లో O
+కిసాన్ B-APP
+సమాధాన I-APP
+అప్లికేషన్ I-APP
+రైతుల B-PER
+కు O
+వ్యవసాయ O
+సలహాలు O
+అందిస్తుంది O
+.
+
+డిజిటల్ B-METHOD
+ఫార్మింగ్ I-METHOD
+లో O
+స్మార్ట్ B-TECH
+సెన్సర్స్ I-TECH
+మట్టి O
+తేమ O
+స్థాయిని O
+నిరంతరం O
+మానిటర్ O
+చేస్తాయి O
+.
+ఎ B-EDU
+వి I-EDU
+కళాశాల I-EDU
+లో O
+బి B-DEGREE
+ఎస్ I-DEGREE
+సి I-DEGREE
+ఎగ్రికల్చర్ I-DEGREE
+కోర్సు O
+కు O
+సీట్ల B-UNIT
+నలభై I-UNIT
+ఐదు I-UNIT
+ఉన్నాయి O
+.
+
+హార్టికల్చర్ B-SUBJECT
+లో O
+పి B-DEGREE
+హెచ్ I-DEGREE
+డి I-DEGREE
+ప్రోగ్రామ్ O
+కు O
+అడ్మిషన్లు O
+ప్రారంభించబడ్డాయి O
+.
+పి B-SCHEME
+ఎఫ్ I-SCHEME
+బి I-SCHEME
+యోజన O
+లో O
+రైతు B-PER
+ప్రీమియం O
+లో O
+శాతం B-PERCENT
+తొంభై I-PERCENT
+రెండు I-PERCENT
+ప్రభుత్వం O
+భరిస్తుంది O
+.
+
+వెతర్ B-INS
+బేస్డ్ I-INS
+క్రాప్ I-INS
+ఇన్సురెన్స్ I-INS
+లో O
+పంట O
+నష్టం O
+సంభవించిన O
+కేసుల O
+లో O
+రూ B-AMOUNT
+పదిహేను I-AMOUNT
+వేల I-AMOUNT
+వరకు O
+క్లెయిమ్ O
+చేయవచ్చు O
+.
+సబ్ B-SCHEME
+మెషినైజేషన్ I-SCHEME
+స్కీం O
+కింద O
+పవర్ B-EQUIPMENT
+టిల్లర్ I-EQUIPMENT
+కోసం O
+శాతం B-PERCENT
+నలభై I-PERCENT
+సబ్సిడీ O
+అందించబడుతుంది O
+.
+
+లేజర్ B-TECH
+లెవలింగ్ I-TECH
+ద్వారా O
+నీటి O
+వినియోగం O
+లో O
+శాతం B-PERCENT
+ముప్పై I-PERCENT
+పొదుపు O
+సాధించవచ్చు O
+.
+ఎగుమతి O
+కోసం O
+ఎం B-CERT
+ఎస్ I-CERT
+పి I-CERT
+ప్యాక్ I-CERT
+హౌస్ O
+నెల్లూరు B-LOC
+లో O
+స్థాపించబడింది O
+.
+
+బస్మతి B-CROP
+రైస్ I-CROP
+ఎగుమతి O
+లో O
+ఇండియా B-COUNTRY
+ప్రపంచ B-COUNTRY
+లో O
+శాతం B-PERCENT
+అరవై I-PERCENT
+ఐదు I-PERCENT
+వాటా O
+కలిగి O
+ఉంది O
+.
+ప్రకృతి B-DISASTER
+వైపరీత్య I-DISASTER
+పరిస్థితుల O
+లో O
+పంట O
+నష్టం O
+కోసం O
+పి B-SCHEME
+ఎం I-SCHEME
+కె I-SCHEME
+ఎఫ్ I-SCHEME
+యోజన O
+లో O
+పరిహారం O
+అందించబడుతుంది O
+.
+
+డ్రాట్ B-TECH
+రెసిస్టెంట్ I-TECH
+వెరైటీ O
+లో O
+సహజం B-VARIETY
+వరి I-VARIETY
+విత్తనాలు O
+డి B-ORG
+ఆర్ I-ORG
+ఆర్ I-ORG
+ద్వారా O
+అభివృద్ధి O
+చేయబడ్డాయి O
+.
+సాయిల్ B-TEST
+హెల్త్ I-TEST
+కార్డ్ I-TEST
+ద్వారా O
+రైతు B-PER
+తన O
+నేల O
+లో O
+నత్రజని B-NUTRIENT
+, O
+ఫాస్పరస్ B-NUTRIENT
+, O
+పొటాష్ B-NUTRIENT
+స్థాయిలను O
+తెలుసుకోవచ్చు O
+.
+
+జింక్ B-NUTRIENT
+తక్కువ O
+ఉన్న O
+నేలల O
+లో O
+కిలో B-UNIT
+ఐదు I-UNIT
+జింక్ B-FERTILIZER
+సల్ఫేట్ I-FERTILIZER
+ప్రతి O
+ఎకరాకు O
+వేయాలి O
+.
+హై B-TECH
+యీల్డింగ్ I-TECH
+వెరైటీ I-TECH
+లో O
+ఎన్ B-VARIETY
+ఆర్ I-VARIETY
+ఐ I-VARIETY
+సి I-VARIETY
+రెడ్డి I-VARIETY
+వరి I-VARIETY
+విత్తనాలు O
+ప్రతి O
+హెక్టారుకు O
+క్వింటాళ్ళ B-UNIT
+ఐదు I-UNIT
+ల వరకు O
+పంట O
+ఇస్తాయి O
+.
+
+ట్రాన్స్ B-TECH
+జెనిక్ I-TECH
+కాటన్ I-TECH
+విత్తనాలు O
+మాన్సాంటో B-COMPANY
+ద్వారా O
+అభివృద్ధి O
+చేయబడ్డాయి O
+.
+యూకలిప్టస్ B-TREE
+సబ్బుల్ I-TREE
+పెరుగుదల O
+కోసం O
+హెక్టారు B-UNIT
+కి O
+వంద O
+మొక్కల O
+నాటాలి O
+.
+
+బయో B-METHOD
+డీసల్ I-METHOD
+ఉత్పత్తి O
+కోసం O
+జట్రోఫా B-CROP
+సాగు O
+ప్రోత్సహించబడుతోంది O
+.
+ఎఫ్ B-ORG
+సి I-ORG
+ఐ I-ORG
+లో O
+రైస్ B-PROCESS
+మిల్లింగ్ I-PROCESS
+యూనిట్ O
+ప్రారంభించబడింది O
+.
+
+పండ్ల O
+పై O
+వాల్యూ B-PROCESS
+అడిషన్ I-PROCESS
+కోసం O
+జామ్ B-PRODUCT
+, O
+జెల్లీ B-PRODUCT
+తయారీ O
+ప్రాసెసింగ్ O
+యూనిట్ O
+ఏర్పాటు O
+చేయబడింది O
+.
+గ్రామ B-ORG
+సేవక I-ORG
+సహకార I-ORG
+సంఘం I-ORG
+ద్వారా O
+రైతుల B-PER
+కు O
+కిసాన్ B-CARD
+క్రెడిట్ I-CARD
+కార్డ్ I-CARD
+జారీ O
+చేయబడుతోంది O
+.
+
+ఫార్మర్ B-ORG
+ప్రొడ్యూసర్ I-ORG
+ఆర్గనైజేషన్ I-ORG
+ద్వారా O
+ప్రత్తి B-CROP
+నేరుగా O
+సూరత్ B-MARKET
+మార్కెట్ I-MARKET
+కు O
+రవాణా O
+చేయబడుతోంది O
+.
+బివోల్టిన్ B-METHOD
+సిల్క్ I-METHOD
+వర్మ్ I-METHOD
+పెంపకం O
+లో O
+కర్నూలు B-VARIETY
+విధం O
+ప్రతి O
+డిఫ్యూజర్ O
+నుండి O
+కేజీ B-UNIT
+ఒకటి I-UNIT
+పావు I-UNIT
+కోకూన్ O
+ఉత్పత్తి O
+అవుతుంది O
+.
+ఇన్ల్యాండ్ B-FISHERY
+ఫిషరీస్ I-FISHERY
+లో O
+రోహు B-FISH
+కాట్లా I-FISH
+, O
+మృగల్ B-FISH
+చేప O
+ప్రజననం O
+కోసం O
+నేషనల్ B-ORG
+ఫిషరీస్ I-ORG
+డెవలప్మెంట్ I-ORG
+బోర్డ్ I-ORG
+సహాయం O
+అందిస్తుంది O
+.
+జై B-METHOD
+కిసాన్ I-METHOD
+పద్ధతి O
+లో O
+బయో B-FERTILIZER
+డైనమైట్ I-FERTILIZER
+తయారీ O
+కోసం O
+కేజీ B-UNIT
+ఒకటి I-UNIT
+గోమూత్రం O
+, O
+కేజీ B-UNIT
+ఒకటి I-UNIT
+గోబరం O
+, O
+కేజీ B-UNIT
+అర I-UNIT
+చెరకు O
+గుజ్బ O
+కలపాలి O
+.
+
+ఆర్గానిక్ B-CERT
+సర్టిఫికేషన్ I-CERT
+పొందిన O
+రైతు B-PER
+సుబ్బారావు I-PER
+వడ్లపల్లి B-LOC
+లో O
+అక్రేజ్ B-UNIT
+పదిహేను I-UNIT
+ఎకరాల O
+లో O
+జై B-METHOD
+కిసాన్ I-METHOD
+సాగు O
+చేస్తున్నాడు O
+.
+మహబూబ్ B-LOC
+నగర్ I-LOC
+లో O
+బంగినపల్లి B-VARIETY
+రస్తం I-VARIETY
+మామిడి I-VARIETY
+పంట O
+కోసం O
+హెక్టారు B-UNIT
+రెండు I-UNIT
+వందల O
+ఎకరాలు O
+సిద్ధంగా O
+ఉన్నాయి O
+.
+
+డ్రిప్ B-SYSTEM
+ఇరిగేషన్ I-SYSTEM
+తో O
+పప్పాయి B-CROP
+సాగు O
+లో O
+పంట O
+ప్రతి O
+ఎకరాకు O
+రూ B-INCOME
+లక్ష I-INCOME
+ఐదు I-INCOME
+వేల I-INCOME
+లాభం O
+ఇస్తుంది O
+.
